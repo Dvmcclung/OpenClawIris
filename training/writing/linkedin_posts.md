@@ -36,3 +36,25 @@ Organizations that design agents like infrastructure will build memory that is m
 The question worth asking before you deploy anything: what does this agent need to remember in a year, and have you designed for that?
 
 ---
+
+## Post 6 — Fourier Analysis / Agentic Learning (2026-03-03) — Score: 70/75
+
+Everyone obsessed with AI learning is asking the same question: how do we get more feedback data?
+
+That is the wrong question.
+
+There is a tool over 200 years old, used in acoustics, signal processing, and engineering, that describes what good agent learning actually requires. It is called Fourier analysis. When you have a noisy, complex signal, you do not feed it raw into whatever processes it next. You decompose it first. You separate it into component frequencies. What is periodic. What is trend. What is noise.
+
+Every AI agent learning from experience receives exactly this kind of mixed signal. Some feedback reflects a real, repeatable pattern worth encoding. Some was a one-off edge case that will never recur. Some was the agent behaving correctly in a context the evaluator misread.
+
+If you train on all of it equally, you are not learning. You are memorizing the noise.
+
+Fourier figured this out about physical signals in 1822. Most agent learning pipelines have not caught up.
+
+The teams building agents that actually improve are not just accumulating feedback loops. They are building upstream discipline. Before any update goes in: is this signal or noise? Is this pattern durable, or just contextual?
+
+Signal decomposition is not a nice-to-have. It is the difference between an agent that gets sharper over time and one that drifts.
+
+More data is not the variable. Signal discipline is.
+
+---
