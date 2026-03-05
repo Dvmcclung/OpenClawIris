@@ -4,6 +4,21 @@
 **Compiled from:** Leadership Speaking Thoughts (1–83), Fast Company Articles (1–32), Core-Satellite System Schematics, Supporting Articles, Audio Thoughts  
 **Purpose:** Writing coach reference — applying executive speaking principles to written content (blog posts, LinkedIn, reports, emails)
 
+## Pre-flight Checklist
+
+Before drafting any piece of content, answer these 5 questions:
+
+1. **Who is the audience?** Dale's LinkedIn followers: SC professionals, operators, executives
+2. **What is the goal?** Teach / provoke thought / share POV / build credibility — pick ONE
+3. **What tone is right?** Direct, practitioner, no fluff — Dale's voice per USER.md
+4. **Which Anett Grant pattern applies?** Core-Satellite, Problem-Solution, or Narrative arc?
+5. **What is the single takeaway?** If more than one, the scope is too broad — narrow it
+
+> If you cannot answer all five, ask before drafting.
+
+---
+
+
 ---
 ## 1. Core Philosophy
 
