@@ -180,3 +180,49 @@ write_hive_memory(
 - `private` — agent-specific working memory
 
 Do NOT write to genome layer without Thea's authorization.
+
+
+## Task Completion Protocol
+
+After completing any **significant task**, append a record to `/home/dale/.openclaw/workspace/system/task_completions.jsonl`.
+
+### What counts as significant
+- Produced a file (paper, analysis, report, KB update)
+- Answered a complex multi-step question
+- Updated a knowledge base or ran a research pipeline
+- Any task that took meaningful effort and produced a findable result
+
+### What does NOT need a record
+- Routine heartbeats
+- Quick single-lookup answers
+- HEARTBEAT_OK responses
+
+### Record format (one JSON per line, append with `>>`):
+```json
+{
+  "timestamp": "2026-03-06T14:00:00Z",
+  "agent": "iris",
+  "task": "one-line description of what you did",
+  "output": "path/to/output/file or 'none'",
+  "key_finding": "one sentence — the most important thing learned or produced",
+  "stored_to_memory": false
+}
+```
+
+### Append command (Python):
+```python
+import json
+from datetime import datetime, timezone
+record = {
+    "timestamp": datetime.now(timezone.utc).isoformat(),
+    "agent": "iris",
+    "task": "description",
+    "output": "path or none",
+    "key_finding": "one sentence finding",
+    "stored_to_memory": False
+}
+with open("/home/dale/.openclaw/workspace/system/task_completions.jsonl", "a") as f:
+    f.write(json.dumps(record) + "\n")
+```
+
+Thea processes this log each morning and stores key findings to shared memory so the whole team benefits.
