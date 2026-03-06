@@ -5,6 +5,7 @@ _For rubric v4 calibration. Update at 7 days post-publish._
 
 | post_id | date | topic | v4_total | factor_a | factor_b | factor_c | impressions | reach | reactions | comments | reposts | eng_rate | repost_rate | notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| P07 | 2026-03-05 | Multi-agent diversity / translation as bottleneck | 66 | 30 | 21 | 15 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | Factor A at repost threshold (30/35). Closer upgraded to committed opinion. Outcomes due 2026-03-12. |
 | P04 | 2026-03-02 | Data quality / confident bad results | TBD | TBD | TBD | TBD | 93 | 47 | 1 | 0 | 0 | 1.1% | 0.0% | Lower engagement; v2 score 56/60 but weaker hook and challenge |
 | P05 | 2026-03-03 | AI knowledge gap / "Nobody else has your twenty years" | 59 | ~30 | ~20 | ~12 | 111 | 53 | 4 | 1 | 1 | 5.4% | 0.9% | Best performer so far. Hook concrete, challenge named directly, quotable line landed |
 

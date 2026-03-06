@@ -37,6 +37,30 @@ The question worth asking before you deploy anything: what does this agent need 
 
 ---
 
+## Post 7 — Multi-Agent Translation (2026-03-05) — Score: 66/75
+
+**Topic:** Multi-specialist agents, diverse outputs, translation as the real bottleneck
+**Factor A (Provocation):** 30/35 | **Factor B (Connection):** 21/25 | **Factor C (Execution):** 15/15
+**Status:** Archived, pending publish
+
+I asked three AI specialists the same question at the same time this morning.
+
+Nine ideas came back. Zero overlap.
+
+A freight cost attribution engine that shippers would actually pay for. A pre-clearance model that scores invoices before they fail. A terminal network diagnostic that asks which of 50+ locations should exist at current demand levels.
+
+None of them are the same agent. One lives in supply chain operations and logistics economics. One lives in mathematics and statistical modeling. One lives in communication and executive decision-making. Same question, three lenses, nine answers, none of them redundant.
+
+Here is what the morning revealed: the bottleneck in most AI deployments is not intelligence. It is translation.
+
+The supply chain ideas were sharp and operational. The math ideas were rigorous and specific. But most of them would stall before a boardroom decision. Not because they're wrong. Because they weren't built to land with the person holding the budget.
+
+We've spent three years asking whether AI is smart enough. A better question: does it speak the language of the person who has to act on it?
+
+Translation is the job. Most teams haven't hired for it yet.
+
+---
+
 ## Post 6 — Fourier Analysis / Agentic Learning (2026-03-03) — Score: 70/75
 
 Everyone obsessed with AI learning is asking the same question: how do we get more feedback data?
