@@ -5,6 +5,126 @@ _Significant findings are logged here and may be incorporated into the knowledge
 
 ---
 
+## 2026-03-09 PM — 6:00 PM ET
+
+### Insight 1: Story Structure Determines Whether Data Gets Funded — Same Data, Different Framing = Different Outcomes
+
+**Source:** Moxie Institute — *How to Structure a Story: 7 Frameworks Every Business Speaker Needs* (2025)
+**Domain:** Storytelling in Business Writing
+**Knowledge Tier:** Mid-frequency (practitioner synthesis)
+
+**Finding:** The structure of a story — not just the content — directly shapes how decisions are made. A pharmaceutical executive cited in Moxie's coaching work used the exact same drug trial data in multiple investor presentations and consistently failed to secure funding. After learning a single storytelling framework, she secured $47M. The data hadn't changed. The narrative architecture had. The implication for written communication is direct: analytical reports that lead with raw data and build toward a conclusion are structurally inferior to reports that open with a framing story, then deploy data as evidence.
+
+**Applicability to Dale's work:** When writing analytical reports or LinkedIn posts that contain data, lead with the narrative frame first. The numbers support the story — they don't replace it. Particularly relevant when writing about AI or supply chain performance data for executive audiences.
+
+**Iris application:** Before any report review, check whether the structure puts data first or narrative first. Data-first is almost always wrong for executive audiences.
+
+---
+
+### Insight 2: The Cognitive Load Problem — Executives Aren't Ignoring Your Reports, They're Overwhelmed By Them
+
+**Source:** CaliberFocus — *7 Easy Ways to Improve Clarity in Your BI Reports* (September 2025)
+**Domain:** Clarity in Analytical Reports
+**Knowledge Tier:** Mid-frequency (BI practitioner guidance)
+
+**Finding:** Business leaders face constant information streams. When reports are cluttered or technically dense, they increase *cognitive load* — not comprehension. The result isn't that executives misunderstand the report; it's that they disengage from it entirely. BI clarity experts now focus on three practices: (1) role-tailored views (CEO wants strategic impact, not operational metrics), (2) aligning report structure to business goals rather than data availability, and (3) data storytelling that makes insights intuitive rather than requiring cognitive assembly by the reader. The diagnostic signal: if stakeholders are frequently requesting explanations after receiving a report, clarity is missing — not intelligence.
+
+**Applicability to Dale's work:** Analytical reports and executive summaries Dale writes should be role-tuned. A supply chain performance report for a CEO looks fundamentally different from one for a VP of Operations. If the same document goes to both, it's probably not serving either well.
+
+**Iris application:** Add a pre-flight question to report reviews: *Who is the primary reader and what decision are they making?* If the answer is vague, push back before reviewing content.
+
+---
+
+### Insight 3: The "You" Orientation in Audience-Centered Writing Is Structural, Not Just Tonal
+
+**Source:** Research synthesis — Lumen Learning / Grammarly Business (2024–2025)
+**Domain:** Audience-Centered Communication
+**Knowledge Tier:** DC-tier principle (stable, validated)
+
+**Finding:** Audience-centered communication is commonly taught as a tone adjustment ("write for the reader"), but its real power is structural. The "you view" — analyzing and emphasizing the reader's interests before constructing the message — changes how arguments are sequenced, which details are included, and what the opening sentence prioritizes. This aligns precisely with Anett Grant's principle of starting with the audience's world rather than your own. The research synthesis (Grammarly 2024) adds one important nuance: the required level of background context scales inversely with audience familiarity. Less familiar audiences need more framing; expert audiences need less setup and faster moves to implication.
+
+**Applicability to Dale's work:** LinkedIn content for supply chain executives requires minimal background framing (they know the terrain) — the hook should leap directly into the tension or insight. Blog posts for a broader business audience may need one framing sentence before the core claim.
+
+**Iris application:** Calibrate background context by audience familiarity tier. Expert audience = faster to insight, less setup. Mixed/broad audience = one clear framing sentence before the hook.
+
+---
+
+## 2026-03-08 PM — 6:00 PM ET
+
+### Insight 1: Stories Are 7x More Memorable Than Facts — And That's a Strategic Advantage
+
+**Source:** AACSB Insights, Feb 2025 — "Why All Business Schools Should Teach Storytelling"
+**Tier:** Mid-frequency (research synthesis)
+
+**Finding:** Research published in *Memory & Cognition* confirms that stories are seven times more likely to be remembered than facts and figures alone. The mechanism: stories tap into emotion and create lasting impressions that logic alone cannot. Top companies don't just present data — they build narratives. The implication for analytical business writing: every report needs a story arc alongside its data. The facts are the skeleton; the narrative is the muscle that moves the reader.
+
+**Application for Dale's writing:** When publishing on LinkedIn or writing supply chain analyses, the data should serve a story — not the other way around. Lead with a human situation, use data as proof, close with an implication. "Our on-time delivery dropped 12%" is a fact. "We missed 1 in 8 customer promises last quarter" is a story.
+
+---
+
+### Insight 2: Audience Before Content (ABC) — The Most Violated Rule in Communication
+
+**Source:** TED MasterClass Blog — Briar Goldberg, Director of Speaker Coaching at TED
+**Tier:** DC tier (practitioner framework, stable)
+
+**Finding:** The single most common communication mistake: building content before thinking about the audience. TED's coaching framework reframes the question entirely — instead of "What do I want to say?" ask "What gift am I giving the audience?" This isn't just a mindset shift; it's a structural one. Audience needs should determine what goes in, what order it runs, and what gets cut. The ABC rule (Audience Before Content) applies to everything from keynotes to emails to board reports.
+
+**Application for Dale's writing:** Before drafting any LinkedIn post or analytical memo, run the pre-flight question: "What does this specific reader need to leave with?" The answer determines the lead, the structure, and the conclusion — not the other way around. This reinforces Grant's "start where the audience already is" principle and adds a useful shorthand: ABC.
+
+---
+
+### Insight 3: The Pyramid Principle — Structure Analytical Reports Around Conclusions, Not Process
+
+**Source:** Clarity First Program (clarityfirstprogram.com) — Barbara Minto's Pyramid Principle, certified practitioner overview (2025 site, framework stable since 1980s)
+**Tier:** DC tier (foundational framework, McKinsey/BCG standard)
+
+**Finding:** The Pyramid Principle (Minto, McKinsey) holds that analytical reports should be structured with the conclusion at the top, supported by grouped arguments, each of which is in turn supported by data. This is the opposite of how most analysts write (building to the conclusion). For executive audiences — who are time-constrained and decision-oriented — the report structure must match their reading pattern: conclusion first, evidence second, detail on request. Reports written bottom-up (data → analysis → conclusion) force executives to reverse-engineer the answer, which is friction they will not tolerate.
+
+**Application for Dale's writing:** Every analytical report or decision memo should open with the recommendation or key finding. Then the supporting structure. The F-A-J chain (Fact → Analysis → Judgment) maps cleanly onto this: JUDGMENT at the top, ANALYSIS in the middle, FACTS in the appendix. Never bury the lead in an executive document.
+
+---
+
+## 2026-03-08 AM — 6:00 AM ET
+
+### Insight 1: The CSCO Communication Imperative — Translating Complexity into Strategic Clarity
+
+**Source:** Supply Chain Strategy Media, Oct 2025 — "CSCOs take centre stage"
+**Tier:** High-frequency (current trend reporting)
+
+**Finding:** The CSCO role has fundamentally shifted from executional to strategic. Since Jan 2023, 36% of the world's largest publicly listed firms have appointed new CSCOs — and success in this role now depends "as much on influencing and communication as on technical mastery." The key communication challenge: translating operational complexity into strategic clarity for boards, CEOs, and regulators.
+
+**Application for Dale:** This validates the central tension Dale navigates — deep technical knowledge that needs to land with C-suite and board audiences. The practitioner-to-strategist communication mode is what his LinkedIn content should demonstrate. Posts that decode supply chain complexity for business audiences aren't just informative; they signal strategic leadership competence.
+
+**Quotable framing:** "The function's historically executional role has evolved into a strategic architecture role. Communication is no longer a soft skill — it's the job."
+
+---
+
+### Insight 2: Conversation as Culture — Leadership Communication Builds or Breaks Trust Daily
+
+**Source:** Center for Creative Leadership (CCL), updated March 2025
+**Tier:** Mid-frequency (established research synthesis)
+
+**Finding:** CCL identifies communication as one of the "fundamental 4" core leadership skills — present across every career stage, industry, and role. Key nuance: effective leadership communication is not primarily about big speeches or formal documents. It's about the quality of daily conversations. "Conversations are the foundation upon which the majority of communication happens." The cumulative effect of small daily exchanges builds (or erodes) organizational culture and trust.
+
+**Application for Dale:** For content purposes, this reinforces that authentic, conversational-style posts — grounded in day-to-day operational reality — outperform polished but distant "thought leader" content. Real-world friction and resolution is more compelling than abstracted frameworks. Also: when Dale is coaching executives, the daily interaction quality matters more than the formal communication.
+
+**Cross-reference:** Aligns with Anett Grant's principle of starting where the audience already is — daily operational reality, not executive abstraction.
+
+---
+
+### Insight 3: Supply Chain Messaging Requires Cross-Functional Alignment Structures
+
+**Source:** Finn Partners, June 2025 — "Breaking Down Silos: Integrated Supply Chain Communication"
+**Tier:** High-frequency (practitioner perspective)
+
+**Finding:** The most resilient organizations don't just communicate supply chain issues reactively — they build formal cross-functional structures where supply chain leadership, comms teams, HR, sustainability, and investor relations meet regularly to align on messaging priorities. The key insight: supply chain narratives need to support broader business objectives, not just explain operational events. Specialized supply chain communicators are becoming a distinct professional function.
+
+**Application for Dale:** When helping supply chain executives communicate upward, the frame should be "how does this narrative support the business objective?" — not "how do I explain what happened in the supply chain?" This is the strategic communication shift. Dale's content can explicitly name this gap and show executives how to make the translation.
+
+**IMfA Nomination:** MAYBE — may warrant a dedicated framework entry on supply chain-to-executive narrative translation.
+
+---
+
 ## 2026-03-06 AM — 6:00 AM ET
 
 ### Insight 1: Authority Architecture — Build Messaging Frameworks Before Content
@@ -186,3 +306,180 @@ The key line: **"A BI report that doesn't reflect strategic priorities is just n
 ## 2026-03-03 — Initialization
 Iris initialized. Knowledge base loaded from Anett Grant materials.
 No searches run yet — first cron runs at 6am 2026-03-04.
+
+---
+
+## 2026-03-06 18:00 ET — Knowledge Update (Evening Cron)
+
+### Insight 1: Stories Are 7x More Memorable Than Facts — And the Business Case Is Structural
+**Source:** AACSB Insights — *Why All Business Schools Should Teach Storytelling* (aacsb.edu, February 2025)
+
+Research published through AACSB confirms that stories are seven times more likely to be remembered than facts and figures alone. The mechanism isn't emotional manipulation — it's cognitive structure. Stories create a retrieval scaffold that raw data lacks. For business writing, this reframes storytelling from "soft skill" to "retention architecture."
+
+The key insight from academic research (Business Communication Research, 2025): the most-cited business communication articles include more storytelling of interview participants — specifically "perspective stories" (what someone experienced) and "plot stories" (what happened and why it mattered). These are concise narratives, not long anecdotes.
+
+**Application for Iris:** When reviewing Dale's analytical content, look for data points that lack a story container. A number without a narrative is forgettable. A number wrapped in "here's what this means for a real company in this situation" is retained and acted on. This reinforces Anett Grant's Rule 3 (use images, not just facts) with empirical grounding — the 7x retention multiplier is now a citable benchmark.
+
+**Tag:** DC-tier principle now supported by high-frequency empirical data (2025)
+
+---
+
+### Insight 2: Audience-Centering Means Checking Your Own Assumptions First
+**Source:** Harvard Catalyst — *Consider Your Audience* (catalyst.harvard.edu, 2025 update)
+
+The Harvard Catalyst writing center identifies a critical failure mode in audience-centered communication: **writers assume a homogeneous audience and write to that assumption.** The fix is not just "know your audience" — it's *check your assumptions about your audience* before you write a single word.
+
+The protocol: reframe assumptions as considerations. Instead of "my audience is supply chain executives, so I'll use supply chain jargon," the consideration becomes "some in my audience may be supply chain executives, but the post may also reach CIOs or operations directors — what's the minimal shared context I can anchor to?" Then tailor depth and detail based on the lowest-expertise reader who still matters.
+
+A critical corollary: **prioritize being understood over fitting in maximum information.** Less content that is fully understood beats more content that is partially absorbed. Harvard's framing: "You may not fit as much in your talk, but more will be communicated clearly."
+
+**Application:** This directly sharpens the LinkedIn rubric review process. Before scoring a post, ask: who is the lowest-expertise reader who matters? Is the post comprehensible to that person? Most of Dale's content targets supply chain practitioners, but the LinkedIn algorithm may surface it to adjacent roles. Clarity for the adjacent reader should be a scoring consideration.
+
+**Tag:** Validates and extends Anett Grant's audience-first principle with a specific diagnostic step
+
+---
+
+### Insight 3: BLUF (Bottom-Line-Up-Front) — The Anti-BLAB Protocol for Analytical Reports
+**Source:** Board Intelligence — *Great communication: how to get your message across* (boardintelligence.com, March 2024); Animalz — *BLUF: The Military Standard That Can Make Your Writing More Powerful*
+
+"Holding back vital information for the conclusion only makes sense if the reader is going to stay with you long enough to get that far." — Board Intelligence
+
+The BLAB (Bottom-Line At the Bottom) pattern is the default of academic and research writing: build evidence, then conclude. For executive audiences, this pattern fails because executives read selectively and stop when they think they have what they need. BLUF inverts the structure: conclusion first, evidence second, so the reader who stops early still got the point.
+
+The Animalz framing is particularly useful as a revision diagnostic: "Find where your thinking process still shows on the page. Delete the throat-clearing, the evidence-building setup, and the meandering introduction." This is a concrete test — if the first paragraph reads like a research preamble rather than a decision, it's BLAB, not BLUF.
+
+**Application for F-A-J protocol:** The BLUF principle doesn't conflict with F-A-J — it reorders F-A-J for the executive reader. The judgment leads. The analysis follows. The facts appear as supporting evidence. When reviewing Dale's analytical reports or executive summaries, the diagnostic question is: "Does the first sentence contain the judgment?" If not, the structure is writer-centered.
+
+**Tag:** Reinforces and extends existing F-A-J protocol with a concrete revision diagnostic
+
+
+---
+
+## 2026-03-07 18:00 ET — PM Knowledge Search
+
+### Insight 1: Narrative Brain Science — Why Stories Beat Facts in Business Writing
+**Source:** Moxie Institute — *How to Structure a Story: 7 Frameworks Every Business Speaker Needs* (moxieinstitute.com); Stanford neuroscience research cited therein
+
+Stanford neuroscience research confirms that narrative structure stimulates multiple brain regions simultaneously — something a list of facts cannot do. In practical terms: a story structure doesn't just make content more engaging, it makes it more *processable*. The audience's brain is literally wired to track narrative arcs (tension → resolution), which means well-structured business stories are cognitively easier to follow than equivalent data presentations.
+
+The business application: this is why a case study or scenario-based opening outperforms a statistics-first opening for executive audiences. The brain is already tracking "what happens next?" — which means your core message arrives in a prepared mind rather than a skeptical one.
+
+**Application for Dale's content:** LinkedIn posts that open with a scenario ("Last week a client asked me...") consistently outperform ones that open with a statistic or claim. This has neurological backing, not just style preference. The hook dimension of the LinkedIn rubric should weight scenario-openers higher than stat-openers when the audience is executive-level.
+
+**Tag:** Extends Anett Grant's "images, not just facts" rule with neuroscience backing
+
+---
+
+### Insight 2: Assumption-Checking Before Audience-Centering
+**Source:** Harvard Catalyst — *Consider Your Audience* (catalyst.harvard.edu, 2025 update)
+
+Harvard Catalyst identifies a critical failure mode: writers assume a homogeneous audience and write to that assumption. The fix is not just "know your audience" — it's *check your assumptions about your audience* before writing a single word.
+
+Protocol: reframe assumptions as considerations. Instead of "my audience is supply chain executives," the consideration becomes "some are supply chain executives, but the post may surface to CIOs or operations directors — what's the minimal shared context I can anchor to?" Then calibrate depth to the lowest-expertise reader who still matters.
+
+Key principle: **prioritize being understood over fitting in maximum information.** Less content that is fully absorbed beats more content that is partially absorbed. Harvard's framing: "You may not fit as much in, but more will be communicated clearly."
+
+**Application for Dale's content:** Before scoring a LinkedIn post, ask: who is the lowest-expertise reader who matters? Is the post comprehensible to that person? Dale's content targets supply chain practitioners, but LinkedIn may surface it to adjacent roles. Clarity for the adjacent reader should factor into the Hook and Clarity scoring dimensions.
+
+**Tag:** Validates and sharpens Anett Grant's audience-first principle with a specific diagnostic step
+
+---
+
+### Insight 3: BLUF as Anti-BLAB — The Revision Diagnostic for Analytical Reports
+**Source:** Board Intelligence — *Great communication: how to get your message across* (boardintelligence.com, March 2024); Animalz — *BLUF: The Military Standard That Can Make Your Writing More Powerful*
+
+"Holding back vital information for the conclusion only makes sense if the reader is going to stay with you long enough to get that far." — Board Intelligence
+
+BLAB (Bottom-Line At the Bottom) is the default of academic and research writing: build evidence, then conclude. For executive audiences, BLAB fails because executives read selectively and stop when they think they have enough. BLUF (Bottom-Line Up Front) inverts the structure: conclusion first, evidence second.
+
+The Animalz revision diagnostic: "Find where your thinking process still shows on the page. Delete the throat-clearing, the evidence-building setup, and the meandering introduction." Concrete test — if the first paragraph reads like a research preamble rather than a decision, it's BLAB.
+
+**Application for F-A-J protocol:** BLUF doesn't conflict with F-A-J — it reorders it for the executive reader. Judgment leads. Analysis follows. Facts appear as supporting evidence. When reviewing Dale's analytical reports or executive summaries, the diagnostic question is: "Does the first sentence contain the judgment?" If not, the structure is writer-centered.
+
+**Tag:** Reinforces and extends the F-A-J protocol with a concrete revision diagnostic
+
+
+---
+
+## 2026-03-09 — Morning Knowledge Update (6 AM)
+
+### Insight 1: The CSCO Communication Imperative — Translating Operational Complexity into Strategic Clarity
+
+**Source:** SupplyChain Strategy Media, October 2025 — "CSCOs take centre stage"
+
+**Finding:** The Chief Supply Chain Officer role has fundamentally shifted from operational executor to strategic architect. Since January 2023, 36% of the world's largest publicly listed firms have appointed new CSCOs — a signal of how seriously boards now take supply chain leadership. The defining capability in this new era: the ability to **translate operational complexity into strategic clarity** for boards, CEOs, and cross-functional peers. Technical mastery is now table stakes; communication and influence are the differentiators.
+
+**Application for Dale's content:** This is exactly the tension Dale lives in — deep domain + AI builder. Posts and content that bridge operational complexity and strategic language will resonate strongly with CSCO/VP Supply Chain audiences. Frame complex AI automation concepts in terms of strategic outcomes, not technical implementation.
+
+**Tag:** Reinforces audience-first principle; extends it to the supply chain executive persona specifically
+
+---
+
+### Insight 2: Trust-Building Communication in Uncertainty — Stay Outward When Others Go Inward
+
+**Source:** HBR, November 2025 — "How Leaders Can Build Stakeholder Trust in Uncertain Times"
+
+**Finding:** In periods of high uncertainty (WEF 2025: 82% of chief economists rate uncertainty as "very high"), companies instinctively turn inward — cost-cutting, hoarding cash, going quiet. HBR argues this is exactly wrong. Organizations that maintain **open, stakeholder-oriented communication** during uncertainty build disproportionate trust and competitive position. The communication instinct to protect and go silent actually alienates the stakeholders you need most.
+
+**Application for Dale's content:** Supply chain audiences are operating in maximum uncertainty right now (tariffs, reshoring, AI disruption). Content that names the uncertainty, acknowledges complexity, and offers a grounded perspective will outperform content that hedges or stays neutral. Dale's practitioner voice is a trust asset — deploy it during volatility, not despite it.
+
+**Tag:** New principle — "communicate outward during uncertainty" — extends Anett Grant's audience-first framework into crisis/volatile contexts
+
+---
+
+### Insight 3: The $2 Trillion Writing Problem — Bad Business Writing as a Quantified Risk
+
+**Source:** Wordrake / Axios HQ research synthesis, 2023-2025
+
+**Key data points:**
+- Poor business communication costs American companies an estimated **$2 trillion per year** (2023 survey)
+- Businesspeople lose **7.47 hours per week** (18% of annual salary) to poor communication
+- 68% of business leaders who lost deals due to miscommunication lost **$10,000+**; 13% lost **$50,000+**
+- 40% of workers say poor communication **reduces trust in leadership**
+
+**Application for coaching:** These numbers give Dale's communication work a quantifiable business case. When coaching executives on writing clarity or reviewing supply chain reports, the cost frame is powerful: unclear writing isn't a polish problem, it's a revenue and trust problem. This is a strong hook for LinkedIn content — most supply chain leaders think about communication as soft; framing it as a risk exposure with a dollar figure changes the conversation.
+
+**Tag:** New high-frequency data; strong LinkedIn hook potential; reinforces "influence, don't just educate" principle with concrete stakes
+
+
+---
+
+## Update: 2026-03-10 (6am ET) — Morning Knowledge Refresh
+
+### Insight 1: Narrative Writing Outperforms Analytical Writing by 102% for Persuasion
+
+**Source:** Journal of the Academy of Marketing Science, Springer — *Verbal persuasion in marketing: A multimethod meta-analysis of analytical and narrative processing* (March 2025)
+
+**Key finding:** A meta-analysis of analytical vs. narrative persuasion found that **narrative processing drives 102% greater persuasion outcomes** when the communication channel is written (blogs, emails, reports) vs. audio formats. Analytical/argument-based writing works better in spoken/audio contexts; stories and narrative framing dominate in written channels.
+
+**Application for Dale's content:** This is a strong reinforcement for using narrative structure in LinkedIn posts and written reports rather than bullet-point analysis. When Dale writes about AI in supply chain, the instinct is to lead with data and argument — but the research says the story frame (a practitioner's journey, a problem-solution arc, a real scenario) will consistently outperform pure analytical presentation in written form. Anett Grant's "images, not just facts" rule now has a quantitative backbone.
+
+**Tag:** Mid-frequency research; directly applicable to LinkedIn and written coaching; reinforces narrative-first principle
+
+---
+
+### Insight 2: Supply Chain Leadership Communication During Disruption — The Clarity Imperative
+
+**Source:** ISM Inside Supply Management, KPMG Supply Chain Trends 2025, Inbound Logistics (April 2025)
+
+**Key findings:**
+- ISM (Dec 2025): Senior management must provide **navigational guidance** during disruption — the communication role is inseparable from the leadership role in volatile periods
+- KPMG: Supply chain leaders must "look up and out" — awareness of geopolitical uncertainty is now a communication expectation, not just a strategic one. Leaders who don't address uncertainty publicly lose credibility with their teams and partners
+- Inbound Logistics: "No amount of technology or money will compensate for supply chain leaders who aren't able to manage through the current disruptions" — people leadership and communication ARE the competitive advantage in 2025's environment
+
+**Application for Dale's content:** Supply chain executive audiences are under peak pressure right now (tariffs, AI disruption, reshoring complexity). Content from Dale that names these pressures directly and offers a practitioner's grounded take will cut through. The "navigational guidance" frame is powerful — executives want content that helps them communicate to their own teams, not just content about strategy. LinkedIn posts that give supply chain leaders language and frameworks for talking to their teams about disruption fill a high-value gap.
+
+**Tag:** High-frequency (2025 market conditions); strong audience-relevance for Dale's LinkedIn; confirm/update quarterly
+
+---
+
+### Insight 3: Source Credibility — Authenticity Now Outweighs Authority for Persuasion
+
+**Source:** International Journal of Marketing Studies Vol. 17 No. 2 (2025); source credibility research synthesis
+
+**Key finding:** 2025 research confirms that **authenticity of source** is now a more critical driver of persuasion than traditional authority markers (title, credentials). Credible sources do persuade more — but the credibility mechanism has shifted: authenticity (consistency between stated values and demonstrated practice) drives attitude change more than formal credentials alone.
+
+**Application for Dale's content:** Dale's positioning as a practitioner-turned-builder is authenticity in action — he's not a consultant theorizing about AI in supply chain, he's someone building it. Leaning into that gap ("I've done the work, now I'm automating it") is not just a differentiator, it's the mechanism of persuasion. Posts that reveal his actual process and thinking will outperform posts that position his credentials. This reinforces Anett Grant's Rule 9: "Reveal your thinking, not just your conclusions."
+
+**Tag:** Mid-frequency research; strong reinforcement of authentic practitioner voice; integrates with Rule 9 (Anett Grant)
+

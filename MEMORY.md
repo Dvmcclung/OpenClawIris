@@ -25,5 +25,12 @@ _Initialized: 2026-03-03_
 ## Active Projects
 - LinkedIn post series (posts 3 & 4 pending final polish)
 
+## Visual Design Standards (updated 2026-03-09)
+Dale's feedback: deliverables need to be more graphic — not just clean, but dominant visuals, bold hierarchy, dramatic scale contrast.
+- Benchmark: BCG "smart simplicity" — chart-dominant pages, action titles with numbers, 10-second readability
+- McKinsey standard: dark/light alternation, sparing accent color, bold serif display type
+- Pre-delivery checklist (9 items) documented in `training/visual-design-research.md`
+- Apply checklist to every deliverable before sending
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
