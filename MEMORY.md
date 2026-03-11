@@ -32,5 +32,11 @@ Dale's feedback: deliverables need to be more graphic — not just clean, but do
 - Pre-delivery checklist (9 items) documented in `training/visual-design-research.md`
 - Apply checklist to every deliverable before sending
 
+## Agent Team (as of 2026-03-10)
+Two new agents added to the org:
+- **Luma** 🎨 — Visual artist/design agent. Workspace: `~/.openclaw/luma-workspace`. Uses openai-image-gen skill. Training files include visual-standards.md, brand-guide.md, chart-playbook.md.
+- **Forge** 🔧 — Programmer/engineer agent. Workspace: `~/.openclaw/forge-workspace`. Model: openai/gpt-5.1-codex. Training files include coding-standards.md, data-pipelines.md, patterns.md.
+Both included in nightly_backup.py.
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.

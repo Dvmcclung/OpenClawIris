@@ -5,6 +5,34 @@ _Significant findings are logged here and may be incorporated into the knowledge
 
 ---
 
+## 2026-03-10 18:00 ET
+
+### Insight 1: Storytelling in Business Writing — Perspective vs. Plot Stories
+**Source:** Cardon, Marshall & Risvold (2025) — SAGE Business Communication Research  
+**Finding:** A study of 440 interview-based articles found that the most-cited business writing includes two distinct storytelling modes: *perspective stories* (showing how someone sees a situation) and *plot stories* (showing what happened and what changed). The best communicators use both concisely. Most business writers default to data summaries and skip the story layer entirely — which is why their writing is accurate but not memorable.  
+**Application for Dale:** When writing analytical reports or LinkedIn posts, ask: "Does this have a perspective story (why this matters to someone like you) and a plot story (what happened, what changed)?" If neither is present, the writing will inform but not move anyone.  
+**KB relevance:** Reinforces Anett Grant's "images not just facts" principle — stories are the delivery vehicle for facts.
+
+---
+
+### Insight 2: Audience-Centered Communication — "ABC" and the Gift Frame
+**Source:** TED MasterClass / Briar Goldberg, TED Director of Speaker Coaching  
+**Finding:** The most common communication mistake: building content before thinking about audience. The ABCs — Audience Before Content — is the corrective principle. The practical frame: before writing anything, ask "What gift am I giving this audience?" A gift is specific (not just "information") — it's a new way to see a problem, a decision made easier, a risk they didn't know to look for.  
+**Application for Dale:** Before drafting a LinkedIn post or report, write one sentence: "The gift I'm giving my reader is ___." If you can't complete it concisely, the piece isn't ready to write yet.  
+**KB relevance:** Strong alignment with Anett Grant's "start where the audience already is" principle. The "gift" framing adds a generative question that can be used as a pre-writing diagnostic.
+
+---
+
+### Insight 3: Clarity in Analytical Reports — Reader-First Architecture
+**Source:** The Analyst Academy (Aug 2025)  
+**Finding:** The core problem in analytical reports isn't bad analysis — it's bad architecture. Reports that get ignored are built around the writer's workflow (data → methodology → findings → conclusion). Reports that get acted on are built around the reader's decision (conclusion first → supporting evidence → detail available if needed). The executive reader doesn't have time to excavate the conclusion from page 12.  
+**Application for Dale:** Reinforces the BLUF (Bottom Line Up Front) principle already in the KB — but the new framing is *architecture*, not just structure. Ask: is this report built around how I gathered information, or around the decision my reader needs to make?  
+**KB relevance:** Directly extends the F-A-J chain. The chain is correct — but it must also be presented in reader-first order (Judgment → Analysis → Facts), not writer-first order (Facts → Analysis → Judgment).
+
+---
+
+---
+
 ## 2026-03-09 PM — 6:00 PM ET
 
 ### Insight 1: Story Structure Determines Whether Data Gets Funded — Same Data, Different Framing = Different Outcomes
