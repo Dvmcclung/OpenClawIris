@@ -511,3 +511,26 @@ The Animalz revision diagnostic: "Find where your thinking process still shows o
 
 **Tag:** Mid-frequency research; strong reinforcement of authentic practitioner voice; integrates with Rule 9 (Anett Grant)
 
+
+---
+
+## 2026-03-11 — 6:00 AM Update
+
+### Insight 1: Communicate Through Uncertainty — Frequency Beats Clarity
+**Source:** Kellogg School of Management — Prof. Michelle Buck, "10 Timeless Principles of Leadership Communication During a Crisis"
+**Finding:** Leaders who wait for full clarity before communicating lose their teams to anxiety and speculation. The prescription: communicate more, sooner, even when the message is "I don't have an update yet." The airport delay analogy — passengers want any update, not silence — applies directly to executive stakeholder communication. Acknowledging what you *don't* know is itself a communication act that builds trust.
+**Application for Dale:** When writing about supply chain uncertainty (tariffs, disruptions, AI adoption), the instinct to wait for full answers is wrong. Publishing half-formed thinking with honest framing ("here's what I know, here's what I don't") is more credible than silence.
+**Tag:** [FRAMEWORK] [CARRIER] — reinforces Anett Grant's "start with the audience's reality"
+
+### Insight 2: Supply Chain Leaders Must Translate Signals, Not Just Report Facts
+**Source:** BSR/Oxford Economics "Future of Supply Chains 2025"; KPMG "Six Supply Chain Trends 2025"
+**Finding:** The CPO/SCM role in high-growth companies is increasingly defined by translating "weak signals" into business intelligence for non-supply-chain executives. Supply chain leaders who communicate strategically — not just operationally — are the ones whose functions become strategic. The pattern: operational experts who can't translate their knowledge into executive-language stay tactical; those who can become influential.
+**Application for Dale:** His unique position (deep domain + AI builder) is only valuable if he communicates it in terms of what it means for the *audience's* decisions — not what he built. This reinforces leading with so-what, not with how.
+**Tag:** [FRAMEWORK] [CARRIER]
+
+### Insight 3: Smart Brevity — Lead with "What's New" and "Why It Matters"
+**Source:** Axios HQ — "How Smart Brevity Will Transform Your Internal Communications"
+**Finding:** The Smart Brevity framework (built by journalists) starts every update with two questions readers immediately ask: *What is it about?* and *Why does it matter to me?* Research shows that filtering for only significant/urgent/actionable content — and cutting anything a smart reader already knows — directly raises engagement. 86% of executives cite ineffective comms as the cause of workplace failures. The fix isn't more detail; it's better prioritization at the top.
+**Application for Dale's LinkedIn writing:** Every post should open with something new or surprising. If the opener is something the audience already knows, it's friction, not a hook. The test: would a supply chain VP skim past this first line?
+**Tag:** [FORMAT] [CARRIER] — aligns with Anett Grant hook/linkage principles; practical filter for post openers
+
