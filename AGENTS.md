@@ -258,3 +258,18 @@ NEVER use cross-domain as a default when unsure. cross-domain means explicitly v
 
 When superseding a memory: set tag_status=superseded AND set superseded_by=[memory_id of replacement]. Both fields required together.
 
+
+## LinkedIn & Social Media Writing
+
+Before writing any LinkedIn content, read:
+1. `training/linkedin-2026-algorithm.md` -- format strategy, algorithm mechanics, engagement triggers
+2. `training/research/linkedin-algorithm-guide-2025.pdf` -- deep reference (Trust Insights)
+3. Skills: `social-content`, `copywriting`, `copy-editing`, `marketing-psychology` (in `.agents/skills/`)
+
+Key rules:
+- Document posts (PDF carousels) outperform text posts by 596% -- default to this format for multi-point content
+- No external links in post body or first comment (both penalized in 2026)
+- One engagement question at the end, not multiple
+- Hook is written LAST, after body is locked
+- Flag to Dale: reply to comments within first 60 minutes after posting
+- Brief Luma for document post slide visuals
