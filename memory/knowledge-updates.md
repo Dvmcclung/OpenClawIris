@@ -5,6 +5,47 @@ _Significant findings are logged here and may be incorporated into the knowledge
 
 ---
 
+## 2026-03-12 06:00 ET
+
+### Insight 1: AI Search Has Replaced Google as the Executive Thought Leadership Discovery Channel
+
+**Source:** VerifiedComms — "7 Executive Communication Trends for Leaders in 2026" (Nov 2025)
+**Tier:** High-frequency (volatile — market data)
+
+34% of qualified B2B leads now come from AI search (ChatGPT, Perplexity, Claude), surpassing traditional Google search (30%) and email (29%). When buyers ask AI "who are the leading experts in [space]?", AI looks for **authority signals** — 75% of AI-cited content ranks in Google's top 12. Additionally, 55% of decision-makers evaluating thought leadership are "hidden buyers" who never attend a sales call — they research independently and influence from the background. 60% of B2B decision-makers will pay a premium for organizations that produce strong thought leadership.
+
+**Implication for Dale:** The LinkedIn rubric emphasis on insight depth and quotability isn't just aesthetic — it's now directly tied to AI discoverability and pricing power. Posts that signal genuine practitioner authority (rare combo: 24 years supply chain + AI builder) are the content most likely to be surfaced when executives ask AI tools for experts in supply chain AI.
+
+**Application:** When reviewing Dale's content, flag whether a post would be cited by an AI answering "who should I talk to about AI in supply chain?" Strong authority signal = concrete expertise + original framing + quotable thesis.
+
+---
+
+### Insight 2: Supply Chain AI Adoption in 2026 — The Communication Gap Is Organizational, Not Technical
+
+**Source:** SCMR — "Where 2025's AI predictions hit, missed, and what supply chain leaders must recalibrate in 2026" (Mar 2026)
+**Tier:** High-frequency (current analysis)
+
+The biggest supply chain AI failures in 2025 weren't about AI maturity — they were about organizational readiness. Specifically: fragile data foundations and change management failures. Leaders who successfully communicated AI value focused on what it **exposed** (broken data pipelines, process gaps) rather than just what it **automated**. The framing shift: AI-as-mirror, not just AI-as-accelerator.
+
+**Implication for Dale:** This is directly useful narrative territory. Posts and content that acknowledge the organizational readiness problem — and frame Quantix's agentic approach as addressing it — will resonate with executives who tried AI in 2025 and hit walls. The audience has real scar tissue here. Meet them there.
+
+**Application:** When reviewing supply chain AI content, check: does the piece acknowledge the organizational friction, or does it only sell the promise? Executives in 2026 are skeptical of pure-promise framing. Credibility comes from naming the hard parts.
+
+---
+
+### Insight 3: The 3-Tier Communication Framework — Grounded, Clear, Present Under Pressure
+
+**Source:** Inc. — "Mastering Communication in 2026: The 3-Tier Framework Every Leader Needs" (Jan 2026)
+**Tier:** Mid-frequency (research synthesis)
+
+According to FranklinCovey and Inc. research, the 2026 communication gap isn't about knowing frameworks — it's about executing them in real-time under pressure. Three tiers that matter: (1) **Stay grounded** — regulate emotional reactivity before communicating; (2) **Communicate clearly** — structured messaging with conclusion-first delivery; (3) **Show up effectively** — especially in difficult conversations where most leaders default to vagueness. The key insight: communication training that only teaches techniques fails when stakes are high. The skill is transferring the technique into live, pressured situations.
+
+**Implication for Iris:** When coaching Dale's writing, the same principle applies. A framework applied calmly in low-stakes drafts needs to also hold under deadline pressure or when the topic is contentious. The most important Anett Grant principle to reinforce isn't the one that's easiest — it's the one that breaks down under pressure (usually: leading with conclusion, not context).
+
+**Application:** In reviews, note whether the piece shows signs of pressure-writing (excessive hedging, buried conclusion, bloated context setup). These are tells that the writer reverted under time or emotional pressure.
+
+---
+
 ## 2026-03-10 18:00 ET
 
 ### Insight 1: Storytelling in Business Writing — Perspective vs. Plot Stories
@@ -557,4 +598,31 @@ The Animalz revision diagnostic: "Find where your thinking process still shows o
 **Finding:** The Smart Brevity framework (built by journalists) starts every update with two questions readers immediately ask: *What is it about?* and *Why does it matter to me?* Research shows that filtering for only significant/urgent/actionable content — and cutting anything a smart reader already knows — directly raises engagement. 86% of executives cite ineffective comms as the cause of workplace failures. The fix isn't more detail; it's better prioritization at the top.
 **Application for Dale's LinkedIn writing:** Every post should open with something new or surprising. If the opener is something the audience already knows, it's friction, not a hook. The test: would a supply chain VP skim past this first line?
 **Tag:** [FORMAT] [CARRIER] — aligns with Anett Grant hook/linkage principles; practical filter for post openers
+
+
+---
+
+## Knowledge Update — 2026-03-12 (6 PM ET)
+
+### Insight 1: Story Structure as a Decision Framework (not just a narrative device)
+**Source:** Moxie Institute — "How to Structure a Story: 7 Frameworks Every Business Speaker Needs" (2025)
+**Finding:** The most-cited finding from Fortune 500 executive coaching: a pharmaceutical executive secured $47M in funding not by changing her data — but by changing its structure. The insight is that story frameworks (Problem-Solution, Hero's Journey adapted, etc.) work because they align with the audience's *decision-making psychology*, not just their emotional engagement. Structure is a strategic tool. When data is presented without a story arc, even correct analysis fails to persuade.
+**Application for Dale's writing:** Every analytical piece — LinkedIn post, report, executive summary — should be structured around a problem the audience already feels, not a conclusion the author has already reached. Lead with the wound, not the cure.
+**Tag:** [STRUCTURE] [FRAMEWORK] — reinforces Anett Grant linkage principle; generalizes to all written formats
+
+---
+
+### Insight 2: Audience-First = Information Prioritization, Not Just Tone
+**Source:** Harvard Catalyst — "Consider Your Audience" (evergreen, re-surfaced 2025)
+**Finding:** A key clarification from Harvard's writing center: audience-centering is not primarily about adjusting tone or vocabulary. It's about *prioritizing what gets included at all*. Quote: "Rather than simply sharing as much information as you can fit into a talk, focus on the mutual exchange between you and your audience. You may not fit as much in your talk, but more will be communicated clearly." The discipline is subtraction — cutting content the audience doesn't need in order to amplify what they do.
+**Application for Dale's writing:** The instinct to be thorough is the enemy of clarity. Every report, post, or brief should go through a cut pass: "Does my audience need this, or do I just feel better having included it?" If the latter, cut it.
+**Tag:** [METHOD] [SCOPE] — directly applicable to LinkedIn posts, analytical reports, and executive summaries
+
+---
+
+### Insight 3: Dashboards Don't Make Decisions — Hypotheses Do
+**Source:** Indiana Wesleyan University — "Data Storytelling for Managers: Turn Dashboards Into Decisions" (Jan 2026)
+**Finding:** The central argument: KPI dashboards summarize data but rarely explain *why* results change or *how* to respond. Effective data storytelling begins *before* opening a dashboard — with a hypothesis and a clear question. Dashboards are for validation, not discovery. The structure that works: Question → Hypothesis → Data → Narrative → Recommendation. This turns analysis from exploration into executive-ready decision support.
+**Application for Dale's writing:** When writing analytical pieces for supply chain audiences, lead with the question or hypothesis, not the methodology or findings. Frame data as evidence for a thesis, not a tour of the numbers. This matches the F-A-J chain protocol: fact supports analysis, analysis supports judgment — but the *judgment* drives the structure.
+**Tag:** [FRAMEWORK] [METHOD] — directly reinforces F-A-J chain; high-value for analytical report format
 
