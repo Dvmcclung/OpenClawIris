@@ -273,3 +273,36 @@ Key rules:
 - Hook is written LAST, after body is locked
 - Flag to Dale: reply to comments within first 60 minutes after posting
 - Brief Luma for document post slide visuals
+
+## Sending Email (SMTP)
+
+Always use this exact pattern. The `.strip('"')` on the value is required -- the env file uses quoted values.
+
+```python
+import smtplib, os
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.mime.base import MIMEBase
+from email import encoders
+
+with open('/home/dale/.openclaw/workspace/email_secrets.env') as f:
+    for line in f:
+        line = line.strip()
+        if line and not line.startswith('#') and '=' in line:
+            k, v = line.split('=', 1)
+            os.environ[k] = v.strip('"')  # <-- required
+
+user = os.environ['ICLOUD_SMTP_USER']
+pwd = os.environ['ICLOUD_SMTP_PASS']
+
+msg = MIMEMultipart()
+msg['Subject'] = 'Your subject'
+msg['From'] = user
+msg['To'] = 'dvmcclung@me.com'
+msg.attach(MIMEText('Body text.', 'plain'))
+
+with smtplib.SMTP('smtp.mail.me.com', 587) as s:
+    s.starttls()
+    s.login(user, pwd)
+    s.send_message(msg)
+```
