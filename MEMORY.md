@@ -143,6 +143,24 @@ IMfA nominated: YES.
 - **Audience-First Narrative Arcs (4-10)**: Arc format = audience knowledge state, not data complexity. Supply chain executives → inverted arc default. IMfA: MAYBE.
 - **Pyramid Principle as Architecture Rule (4-10)**: Every section leads with its conclusion; section-level BLUF, not just document-level. IMfA: MAYBE.
 
+### April 23–27 Summary (promoted 2026-04-27; full entries in memory/knowledge-updates.md)
+
+- **Less Noise, More Meaning (4-23 AM)**: Reduction-as-discipline; proof-over-promises (evidence of delivery, not declarations); internal audiences deserve same communication standard as external; AI-generated volume without distinctive voice = credibility risk. IMfA: YES.
+- **Transformation Fails on Trust (4-23 AM)**: Problem-first mandate before any technology framing; "honest about failure modes" = named trust-building mechanism; internal metrics must translate to customer outcome language. IMfA: YES.
+- **One Strategy, Multiple Realities (4-23 AM)**: Consistency of purpose over uniformity of language; three-altitude post structure (practitioner detail illustrates point that strategic language frames). IMfA: MAYBE.
+- **Coverage vs. Connection (4-23 PM, Darden/DLCC, Omnicom CEO)**: Coverage = visibility (fades); connection = behavior change (lasts). "Stories don't decorate strategy — they ARE the strategy." Pre-flight gate: "does this drive coverage or connection?" IMfA: YES.
+- **Audience Segmentation as Pillar (4-23 PM)**: Multi-audience tiering failure mode — single document reaching mixed expertise/emotional-state audience without tiering fails at least one segment. IMfA: MAYBE.
+- **Strategic Clarity as Active Output (4-23 PM, LHH 2026)**: Clarity is produced FOR others, not held privately. Active-output test: "does this produce clarity in the reader?" 49% of executives cite AI as #1 skill gap = write for AI-anxious audience. IMfA: YES.
+- **TL as AI Search Asset (4-24 AM)**: 34% B2B leads via AI search; 75% AI-cited content in Google top 12; 55% hidden buyers; 60% premium for strong TL. Machine-readable authority standard applies. IMfA: YES.
+- **Problem-First Mandate (4-24 AM, SAP/NASCES25)**: Name problem before solution; internal KPIs → customer outcome language for executive/board audiences. IMfA: YES.
+- **Clarity as #1 C-Suite Constraint (4-24 AM, LHH 2026)**: 26%+ of executives cite lack of strategic clarity as top performance constraint; BLUF and conclusion-first are clarity-delivery mechanisms, not style preferences. IMfA: YES.
+- **Narrative Infrastructure (4-24 PM, Nüora/Chenni Xu)**: Narrative infrastructure = organizational system, not individual capability; multi-format extension from owned hub; LinkedIn as compounding credibility stage (each post is a structural deposit). IMfA: YES.
+- **Emotional Frame Arrives First (4-24 PM, Mediabistro/WSJ)**: Decisions are made emotionally before data is processed; emotional frame is set by what arrives first — the cognitive argument for leading with judgment, not facts. "17 bullets vs. 1 sentence" editing rule. IMfA: YES.
+- **AI Proof Gap = Communication Design Problem (4-24 PM, Grant Thornton 2026, n=950)**: 78% of executives cannot pass AI governance audit in 90 days; 4x revenue growth for governance-integrated vs. piloting orgs; governance-as-confidence mechanism (enables faster scaling, not slower); cross-functional accountability blind spot (COO/CFO/CIO gap). IMfA: YES.
+- **"Create Certainty" as Executive Communication Mandate (4-27 AM, Freshworks CEO)**: Purpose of executive communication = frame-setting, not information transfer. Uncertainty tax diagnostic: does this content add to or subtract from reader ambiguity? Certainty is the scarcest resource in 2026 tariff/AI disruption environment. IMfA: YES.
+- **Tariff Uncertainty Shift: Executive → Legislative (4-27 AM, Thomson Reuters/SCOTUS Feb 2026)**: Post-SCOTUS ruling, uncertainty is now legislative (slow, negotiated), not executive (overnight reversible). Board framing = decision-confidence (can your SC leaders decide?), not cost. Adaptation posture > monitoring posture. IMfA: YES.
+- **IC Language Mismatch (4-27 AM, Simpplr 2026, n=450+75)**: Executives value performance/alignment/visibility; IC teams pitch culture/engagement = framing gap, not capability gap. Audience-value-language principle: use the audience's value language, not the author's domain language. 89% of executives want IC measured in business terms. IMfA: YES.
+
 ### April 13–22 Summary (compressed 2026-04-24; full entries in memory/insights-archive-2026-Q2.md)
 - **TL Pricing Power / Hidden Buyer (4-13)**: 60% pay premium for strong TL; 86% RFP invitation; 73% more trusted than marketing. Low engagement ≠ low influence. IMfA: YES.
 - **SC Leaders as CEO Pipeline (4-13)**: JRG Partners — differentiating competency = "translate operational complexity into strategic narrative." Publishable angle for Dale. IMfA: YES.
@@ -174,4 +192,4 @@ IMfA nominated: YES.
 See `memory/knowledge-updates.md` for daily research findings.
 Archive of entries through 2026-03-30: `memory/knowledge-updates-archive-2026-Q1.md`
 Active file archived 2026-03-31 from 118KB → 22KB.
-knowledge-updates.md at **~483KB** as of 2026-04-22 — archive April entries at month end to knowledge-updates-archive-2026-Q2.md. **8 days remaining. Required.**
+knowledge-updates.md at **~571KB** as of 2026-04-27 — archive April entries to knowledge-updates-archive-2026-Q2.md. **OVERDUE: deadline April 30, 3 days remaining. Required.**
