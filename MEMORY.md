@@ -143,7 +143,19 @@ IMfA nominated: YES.
 - **Audience-First Narrative Arcs (4-10)**: Arc format = audience knowledge state, not data complexity. Supply chain executives → inverted arc default. IMfA: MAYBE.
 - **Pyramid Principle as Architecture Rule (4-10)**: Every section leads with its conclusion; section-level BLUF, not just document-level. IMfA: MAYBE.
 
-### April 23–27 Summary (promoted 2026-04-27; full entries in memory/knowledge-updates.md)
+### April 28 Summary (promoted 2026-04-28; full entries in memory/knowledge-updates-archive-2026-Q2.md)
+
+**April 27 PM (3 insights — from knowledge cron)**
+- **3C Story Framework / Execute vs. Explain (4-27 PM, Omnicom/DLCC)**: Clarity-Creativity-Consequence triad as per-story diagnostic. "Stories don't explain strategy — they execute it." AI-piano analogy: AI can play every note; it cannot create music people remember. IMfA: YES.
+- **AI Cognitive Load Paradox (4-27 PM, Fortune/NLI, BCG)**: AI has increased cognitive load, not reduced it. Working memory threshold updated: 3–5 items (not 7). 20-minute task-switch recovery cost. Cognitive load audit: count active working memory items required to follow core argument; if >5, restructure. IMfA: YES.
+- **Four-Justification BLUF Framework (4-27 PM, Nettpilot/Google BERT-MUM)**: BLUF now has a machine-readability dimension — AI citation systems select first-sentence content. Four tests: efficiency + frame control + cognitive load + machine-readability. "BLUF sentence must stand alone." IMfA: YES.
+
+**April 28 AM (3 insights — from knowledge cron)**
+- **Conviction Test / Over-Explanation Flag (4-28 AM, Forbes/Caprino)**: AI polishes surface; the new weakness is absent conviction + over-explanation. Conviction test: opening paragraph + conclusion must together communicate the recommendation without the body. Over-explanation flag: count paragraphs before first judgment; if >2-3, restructure. IMfA: YES.
+- **Two-Narrative Tariff Structure (4-28 AM, Thomson Reuters/Netstock)**: Narrative 1 = operational response (what we're doing); Narrative 2 = governance shift response (how trade policy changed structurally). Most SC leaders stuck in Narrative 1. LinkedIn post opportunity: "procurement headache to systemic risk" frame. IMfA: MAYBE (30-day review).
+- **Executive Frame Test / IC Language Mismatch (4-28 AM, Simpplr 2026, n=525)**: Executives value performance/alignment/visibility; IC teams pitch culture/engagement. Executive frame test: does this document speak in the language the decision-maker uses to make resource decisions? 89% of executives want IC measured in business terms; 26% of orgs don't measure revenue impact. IMfA: YES.
+
+### April 23–27 Summary (promoted 2026-04-27; full entries in memory/knowledge-updates-archive-2026-Q2.md)
 
 - **Less Noise, More Meaning (4-23 AM)**: Reduction-as-discipline; proof-over-promises (evidence of delivery, not declarations); internal audiences deserve same communication standard as external; AI-generated volume without distinctive voice = credibility risk. IMfA: YES.
 - **Transformation Fails on Trust (4-23 AM)**: Problem-first mandate before any technology framing; "honest about failure modes" = named trust-building mechanism; internal metrics must translate to customer outcome language. IMfA: YES.
@@ -192,4 +204,4 @@ IMfA nominated: YES.
 See `memory/knowledge-updates.md` for daily research findings.
 Archive of entries through 2026-03-30: `memory/knowledge-updates-archive-2026-Q1.md`
 Active file archived 2026-03-31 from 118KB → 22KB.
-knowledge-updates.md at **~571KB** as of 2026-04-27 — archive April entries to knowledge-updates-archive-2026-Q2.md. **OVERDUE: deadline April 30, 3 days remaining. Required.**
+knowledge-updates.md at **~13KB** as of 2026-04-28 — April 1–27 entries archived to `knowledge-updates-archive-2026-Q2.md` on 2026-04-28. ✅ Archive complete.
