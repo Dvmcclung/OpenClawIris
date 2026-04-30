@@ -200,8 +200,14 @@ IMfA nominated: YES.
 - **Demographic → Psychographic → Behavioral Taxonomy (4-21 PM)**: Most stop at psychographic. Behavioral level = AI cannot replicate. SC executive audience = 90-second mobile behavioral profile. IMfA: YES.
 - **Interrogability Principle (4-21 PM)**: Extends F-A-J — Facts must be accessible, Analysis traceable, Judgment challengeable. Two-track design: conclusions up front + evidence trail below. IMfA: YES.
 
+### April 28 PM Summary (promoted 2026-04-29; full entries in memory/knowledge-updates.md)
+
+- **Five Storytelling Archetypes / Trust-Type Taxonomy (4-28 PM, Growth Unhinged/beehiiv)**: AI has made mediocre content cheaper to produce and less valuable simultaneously. Five archetypes by trust type: Advocate (niche expertise aggregation), Catalyst (challenges conventional wisdom), Educator (skills-based), Entertainer (parasocial), Insider (proprietary access). Decision-gate question: "What type of trust am I building, and is my content architecture consistent with that type?" Dale's current archetype = Catalyst/Insider hybrid. Review question: does this post build Catalyst/Insider trust, or does it drift into Educator mode? IMfA: YES.
+- **Language Audit / Audience-First Execution Gap (4-28 PM, Simpplr 2026 + Mixon C-Suite Clarity)**: Simpplr (n=525) confirmed: IC practitioners use culture/engagement language; executives evaluate in terms of performance/alignment/visibility. The gap is a language problem, not a perception problem. Mixon mechanism: audience-centered communication requires a *language audit* — identify the words the decision-maker uses to describe success, risk, and outcome; verify the document uses those same words. "Speak last" principle for writing: write the executive's three questions before drafting; verify each section answers one in the executive's own terms. IMfA: YES.
+- **SCORE Framework / MECE Structural Diagnostic (4-28 PM, High Bridge/Davina Stanley/Pyramid Principle)**: The dominant gap in analytical writing is architectural, not prose. Structure = governing thought at top, MECE supporting arguments (Mutually Exclusive: no overlap; Collectively Exhaustive: together explain the governing thought). MECE test failure = structurally incomplete argument regardless of prose quality. AI-clarity gap: AI accelerates analysis production without improving analysis structure — a supply chain executive receiving AI-generated analysis without Pyramid logic gets more content at lower clarity. LinkedIn post opportunity: "The AI-clarity gap in analytical reports." IMfA: YES.
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
 Archive of entries through 2026-03-30: `memory/knowledge-updates-archive-2026-Q1.md`
 Active file archived 2026-03-31 from 118KB → 22KB.
-knowledge-updates.md at **~13KB** as of 2026-04-28 — April 1–27 entries archived to `knowledge-updates-archive-2026-Q2.md` on 2026-04-28. ✅ Archive complete.
+knowledge-updates.md at **~37KB** as of 2026-04-29 — April 1–27 entries archived to `knowledge-updates-archive-2026-Q2.md` on 2026-04-28. ✅ Archive complete.
