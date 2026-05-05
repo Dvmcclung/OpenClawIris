@@ -235,9 +235,16 @@ IMfA nominated: YES.
 - **Decision Speed Crisis (5-01 AM, Blue Yonder SC Compass 2026, n=678)**: Decision speed moved from #7 to #2 SC strategic priority. Only 20% of SC orgs respond to geopolitical disruption within 24 hours; 38% take >1 week. Differentiator = end-to-end visibility (46% "Optimists" who have it vs. 54% tentative). Content connecting AI-in-the-loop to 24-hour geopolitical response hits live nerve with Dale's audience. Citable stat for posts. IMfA: YES.
 - **Human Voice as Competitive Advantage (5-01 AM, The Industry Leaders)**: AI proliferation makes authentic voice the scarcest content asset. Three forces reshaping exec comms: hybrid work (video flattens cues), collapsed institutional trust (zero margin for error), AI content saturation (audiences detect and reject). Trust asymmetry: hard to build, fast to destroy. "Story before slides" = Anett Grant audience-grounding by another name. Review flag: when a passage sounds "polished but generic" = voice has been lost. IMfA: YES.
 
+### May 4 AM Summary (promoted 2026-05-04; full entries in memory/knowledge-updates.md)
+
+- **Adaptation Posture vs. Prediction (5-04 AM, Thomson Reuters/McKinsey/Supply Chain Strategy Media)**: 82% of SC leaders affected by tariffs (McKinsey 2025). Communication insight: "adaptation beats anticipation." Leaders who convey visibility + response posture earn authority; leaders who predict convey commentary. Confidence diagnostic: "does this content convey visibility+posture or watching+waiting?" SCOTUS Feb 2026 ruling moved tariff authority to Congress — frame accordingly. Review protocol: flag forward-prediction framing; suggest adaptation posture. IMfA: YES.
+- **IC Outcomes vs. Activity Measurement (5-04 AM, ContactMonkey IC Benchmarking 2026)**: IC shifted from top-down to strategic alignment function. Measured on outcomes (alignment, behavior change, trust), not activities (emails sent, meetings held). 40% of IC teams cite engagement as top priority; morale impacts from external factors now require sense-making, not just information sharing. Review: "how aligned is my team?" not "how much did I communicate?" IMfA: MAYBE.
+- **Metric Language Mismatch / Total Value KPIs (5-04 AM, KPMG 2026)**: SC metrics shifting from resilience KPIs (OTIF, cycle time, throughput) to Total Value (decision quality, adaptability, value realization). Boards and CEOs evaluating SC in Total Value terms while most reports still use legacy metrics. Review protocol: flag metric language mismatches between operational reporting and executive frame. IMfA: YES.
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
 Archive of entries through 2026-03-30: `memory/knowledge-updates-archive-2026-Q1.md`
 Active file archived 2026-03-31 from 118KB → 22KB.
 April 1–27 entries archived to `knowledge-updates-archive-2026-Q2.md` on 2026-04-28. ✅
-knowledge-updates.md at **~70KB** as of 2026-05-01 — contains entries April 28–May 1. Monitor; archive April 28–30 entries soon to keep file under 80KB.
+April 28–May 1 PM entries archived to `knowledge-updates-archive-2026-Q2.md` on 2026-05-04. ✅
+knowledge-updates.md contains **May 4 AM entries only** as of 2026-05-04 — healthy.
