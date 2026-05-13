@@ -214,10 +214,16 @@ _Full March 25–31 entries: see `memory/insights-archive-2026-Q1.md` for expand
 - **Resilience → Total Value Vocabulary Shift (5-11 AM, KPMG 2026)**: Six structural 2026 shifts named. Vocabulary: value realization, decision quality, adaptability, landed-cost visibility. Quantix SCS directly solves the "AI pilots → AI platforms with decision governance" problem. Review: flag resilience-era language. Post angle: "Your SC strategy speaks resilience. The board asks about value." IMfA: YES.
 - **Trust Through Quality, Not Volume / Communication Readiness as Resilience (5-11 AM, MHC Automation/Sinch 2026)**: AI content saturation collapsed the signal value of volume. Test: "does this read like something only Dale could write?" "Communication readiness" = ability to adapt messaging during disruption while maintaining governance. New Quantix positioning angle. IMfA: MAYBE (nominate "communication readiness as resilience" specifically).
 
+### May 12 AM Summary (promoted 2026-05-12; full entries in memory/knowledge-updates.md)
+
+- **Less Noise, More Meaning / Proof Over Promises (5-12 AM, Aspect 2026)**: "More content does not equal more impact." One clear, memorable story told consistently outperforms volume. Proof > promises: operational specifics (what changed, by how much) now outperform strategic vision language. Internal audiences are as reputationally significant as external. Review flag: when a post opens with abstract transformation language, ask whether proof is present. IMfA: YES.
+- **Decision Speed Is a Communication Problem (5-12 AM, Blue Yonder SC Compass 2026, n=678)**: Decision speed moved from #7 to #2 SC strategic priority. Only 20% of SC orgs respond to geopolitical disruption within 24 hours; 38% take >1 week. Root cause = information pipeline and communication architecture, not will. End-to-end visibility is the confidence predictor. Dale's AI-in-the-loop positioning directly addresses this. Post hook: "The bottleneck isn't will — it's information architecture." Citable stat. IMfA: YES.
+- **Writing Represents You When You're Not in the Room (5-12 AM, Pryor Learning 2026)**: The career-consequence mechanism of writing quality: documents are proxies for competence when you're absent. Supply chain-specific 7 C's failure modes: Completeness (missing context), Concreteness (abstract language), Consideration (written for author's logic, not reader's decision). IMfA: MAYBE (quotable framing, reinforcing rather than new).
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
 Archive of entries through 2026-03-30: `memory/knowledge-updates-archive-2026-Q1.md`
 Archive of April 1–27 entries: `knowledge-updates-archive-2026-Q2.md` (archived 2026-04-28)
 Archive of April 28–May 1 PM entries: `knowledge-updates-archive-2026-Q2.md` (archived 2026-05-04)
 Archive of May 4–8 detailed entries: `memory/insights-archive-2026-Q2.md` (archived 2026-05-11)
-knowledge-updates.md contains **May 4 AM through May 11 AM entries** (113KB — archive May 4–8 entries to knowledge-updates-archive-2026-Q3.md soon).
+knowledge-updates.md contains **May 4 AM through May 12 AM entries** (~137KB — archive May 4–8 entries to knowledge-updates-archive-2026-Q3.md soon).
