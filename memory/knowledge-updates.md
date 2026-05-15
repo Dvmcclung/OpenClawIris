@@ -7,6 +7,75 @@ _Archive of April 1–27 entries: `knowledge-updates-archive-2026-Q2.md`_ (archi
 
 ---
 
+## 2026-05-14 — 7:00 AM ET
+
+### Insight 1: Thought Leadership Is a Pricing Strategy, Not Just a Visibility Play
+
+**Source:** Verified Communications (Toronto PR agency, Nov 2025), citing Edelman B2B Thought Leadership Impact Reports 2024–2025.
+
+**Finding:** The business case for thought leadership has sharpened significantly. Key data points:
+- **60%** of B2B decision-makers will pay a premium for organizations that provide valuable thought leadership
+- **73%** of buyers consider thought leadership more trustworthy than traditional marketing materials for judging competency
+- **86%** would invite organizations with strong thought leadership to participate in RFP processes
+- **Only 17%** of decision-makers think current thought leadership is very good — yet **75%** say it prompted them to research services they weren't originally considering
+- The bar is low. Quality wins decisively because nearly everyone acknowledges the need but almost no one executes it well
+
+Additionally: 34% of qualified B2B leads now come from AI search (vs. 30% from traditional search). AI tools like ChatGPT and Perplexity cite content from Google's top 12 results, with authority as the primary signal. If you are not positioned as a domain authority, you don't appear in AI-mediated discovery at all.
+
+**Application for Dale:** This reframes Dale's LinkedIn work as revenue strategy, not personal brand hygiene. The supply chain AI practitioner voice — with deep domain credentials (CPIM/CSCP instructor, Lean Six Sigma Black Belt, 24 years SC experience) plus builder perspective — is exactly the kind of authority signal that 73% of buyers prefer over marketing claims. The 17% quality gap means publishing *good* content consistently puts Dale in a small category. This should inform how we pitch the LinkedIn investment internally: it is a pricing and pipeline tool, not a vanity metric.
+
+**Relation to prior entries:** Extends the May 13 PM "narrative infrastructure" finding — now with quantified business case. Thought leadership is not just credibility-building; it actively converts to revenue premium and RFP access.
+
+**IMfA candidate:** YES — the 60%/73%/86% data points are durable reference stats for justifying thought leadership investment. The "17% quality gap" framing is a practical coaching tool.
+
+**Knowledge tier:** Mid-frequency (Edelman research, 2024–2025; data will shift but directional trend is stable).
+
+---
+
+### Insight 2: AI-Written Manager Messages Erode Trust — Even When They Read Better
+
+**Source:** University of Florida / Warrington College of Business study, published in *International Journal of Business Communication* (Aug 2025). Study of 1,100 professionals. Authors: Anthony Coman, Ph.D. (UF) and Peter Cardon, Ph.D. (USC).
+
+**Finding:** A critical paradox has been documented in workplace communication: AI-assisted writing makes messages more professional-sounding, but damages the perceived credibility of the sender — especially managers. Key data:
+- Low AI assistance (grammar/editing): widely acceptable; **95%** found messages professional, **83%** rated supervisor sincere
+- High AI assistance: professionalism rating drops to **69–73%**; sincerity drops to only **40–52%**
+- The "perception gap" runs asymmetrically: people judge their own AI use leniently, but are more skeptical of the same levels of assistance from supervisors
+- Employees often *detect* AI-generated content and interpret heavy use as laziness or lack of care
+- The effect is most damaging for emotionally resonant communication (congratulations, motivation, team messages)
+
+The paradox: AI improves the *message* while degrading perceptions of the *messenger*.
+
+**Application for Dale:** This research is directly applicable to executive LinkedIn content. Posts that read as polished-but-generic ("5 things every supply chain leader needs to know") signal AI authorship and undermine the credibility of the practitioner voice Dale is building. The Anett Grant principle of "strong, not hard" — voice that feels like a real person — now has empirical support. Dale's natural style (direct, experienced, opinionated) is an asset precisely because it resists AI polish. When we review content, this is an explicit check: does this still sound like Dale, or has editing smoothed away the identity?
+
+**Relation to prior entries:** Connects to May 12 AM "voice preservation" notes and the recurring principle that Dale's practitioner authenticity is the content differentiator. This adds the credibility dimension: voice isn't just tone preference, it's the trust mechanism.
+
+**IMfA candidate:** YES — the perception gap finding (message quality vs. sender credibility) should be in the IMfA as a standing principle for any agent working on executive content. The specific data points (95% → 69–73% professionalism; 83% → 40–52% sincerity) are reference-worthy.
+
+**Knowledge tier:** Mid-frequency (peer-reviewed study, Aug 2025; directional finding likely stable).
+
+---
+
+### Insight 3: Supply Chain Leaders Must Communicate Transparency as Strategy, Not Compliance
+
+**Source:** Tradeverifyd 2026 Supply Chain Statistics Report; ISM World (Feb 2025); Amazon Business Supply Chain Transparency Guide (Sep 2025).
+
+**Finding:** Transparency has moved from a regulatory checkbox to a primary strategic communication posture for supply chain leaders. Key data:
+- **44%** of logistics executives now view increasing consumer demand for transparency as a *primary driver* of corporate strategy (Tradeverifyd 2026)
+- Organizations are moving toward collaborative ecosystems where suppliers, procurement teams, and stakeholders work from shared data sources — reducing miscommunication and improving network alignment
+- Demand for visibility is multi-directional: regulators mandating traceability, consumers asking for ethical sourcing, and executives seeking resilience against disruptions
+- The SCMR (Jul/Aug 2025) explicitly noted: "Technology may drive supply chains of the future, but people and communication still power success"
+- Scope 3 emissions tracking now requires closer supplier collaboration and new *reporting communication mechanisms* — not just data collection, but narrative frameworks to explain supply chain decisions to non-technical stakeholders
+
+**Application for Dale:** Supply chain communicators who frame transparency proactively (rather than reactively when things go wrong) are better positioned. This is a content opportunity: the supply chain leader who explains *how* they communicate with suppliers, how they build shared visibility, and what they've learned about making complex data legible to stakeholders — is providing exactly the practitioner insight the Edelman data says 73% of buyers prefer over marketing claims. Posts that show the communication architecture of supply chain (not just the technology) are differentiated.
+
+**Relation to prior entries:** Connects to May 13 AM "proof over promises" and the general principle that supply chain content should show mechanism, not just outcomes. "How do you communicate disruption to your stakeholders?" is a more valuable content frame than "disruption is hard."
+
+**IMfA candidate:** MAYBE — the 44% stat is useful; the broader principle (transparency as strategic communication, not compliance) is worth one IMfA entry at some point.
+
+**Knowledge tier:** High-frequency for specific stats (check Tradeverifyd 2026 report for recency); DC-tier for the underlying principle.
+
+---
+
 ## 2026-05-13 — 4:00 PM ET
 
 ### Insight 1: Narrative Infrastructure — The Shift from Media Relations to Owned Storytelling
@@ -908,5 +977,49 @@ The practical implication: persuasive executive writing must identify and engage
 **Application for Dale:** Direct application to Quantix SCS analytical reporting. The hypothesis-first model maps cleanly to the F-A-J chain: you form your hypothesis (preliminary judgment), identify the facts that test it, develop the analysis, then state your judgment — which is now grounded in evidence rather than in data pattern-matching. For clients receiving operational reports, this means the report should arrive with a clear claim up front ("inventory velocity is declining in SKU group X because of Y, and here's what we recommend"), not a tour through metrics. The credibility note is worth highlighting in coaching: analytical writers often lose executive trust by presenting only favorable data. Explicitly naming data limitations signals intellectual honesty and strengthens rather than weakens the argument.
 
 **Relation to prior entries:** Directly reinforces the F-A-J chain protocol from SOUL.md. Also connects to the BLUF framework from the March 2026 communication frameworks entry — hypothesis-first analytical writing is BLUF applied to data reports. The credibility point about acknowledging limitations aligns with the "transparency with prudence" principle from the morning's CEO communication insight.
+
+---
+
+## 2026-05-14 — 4:00 PM ET
+
+### Insight 1: The "22x Memory Effect" — Data Paired With Story Is Not Just More Engaging, It's Cognitively Retained at a Different Level
+
+**Source:** Marketing LTB — "Storytelling Statistics 2026: 94+ Stats & Insights" (published May 2026), aggregating primary research and academic work.
+
+**Finding:** People are 22 times more likely to remember facts when delivered inside a story rather than as standalone data. Data retention jumps from 5-10% (statistics only) to ~67% when paired with narrative structure. 92% of business leaders believe data storytelling is an effective method to present insights. The underlying mechanism is cognitive: stories create emotional encoding, which dramatically improves long-term recall compared to pure data. The structure itself matters — problem → struggle → resolution increases perceived persuasiveness of a message, independent of the content. Additional finding: audiences judge story-based presentations as more engaging AND more memorable than slide-after-slide of charts. The "Ordinary Person" effect: 66% of people say their favorite brand stories are about ordinary people — stories they can relate to. Authenticity is not optional — audiences actively penalize narratives that feel constructed or inauthentic.
+
+**Application for Dale:** The 22x memory effect is the practical justification for every principle Anett Grant teaches about narrative-led communication. When Dale is writing a supply chain briefing or LinkedIn post, embedding the key finding inside a specific situation (character, context, problem, resolution) doesn't just make it more readable — it makes it 22x more likely to be remembered in a week. The "ordinary person" finding reinforces Dale's practitioner voice: his stories about operational realities, supply chain failures, and real decisions outperform polished executive abstraction because they are relatably human. The 5-10% → 67% retention jump is a metric worth using when coaching any executive who resists narrative structure in their reports.
+
+**Relation to prior entries:** Provides quantitative scaffolding for the narrative archaeology and Founder Story Gap findings from prior sessions. Also reinforces the May 13 PM "storytelling as job competency" entry — the 22x effect explains why the market now pays a premium for storytelling capability. The 92% executive agreement stat is also useful: nearly universal belief that data storytelling matters, but the quality gap (17% "very good" from Edelman) means execution remains rare.
+
+**IMfA candidate:** YES — the 22x and 5-10%→67% stats are reference-grade numbers for coaching conversations and content strategy justification.
+
+---
+
+### Insight 2: The RF|Binder Clarity Index — Clear Corporate Communication Correlates Directly With Revenue Growth
+
+**Source:** RF|Binder — "2025 Clarity Index: A Benchmark for Strategic Corporate Communication Success" (February 25, 2025). Primary research across 100 major U.S. corporations, 13 industries.
+
+**Finding:** The 2025 Clarity Index evaluated 100 of the world's largest corporations on three dimensions: (1) Clarity of Language — intentional simplicity and consistency; (2) Clarity of Connection — communication that speaks specifically to audience needs via the right channels; (3) Clarity of Impact — alignment between communications and business strategy. Key findings: Companies with higher Clarity Index scores demonstrated stronger year-over-year revenue growth (clarity mirrors growth). Average score across 100 companies was only a "B-" — even top global businesses are underperforming on communication clarity. Critical structural insight: Clarity Index scores were remarkably consistent ACROSS channels for each company. A company with weak clarity in its annual report also showed weak clarity in its press releases and digital content. This means communication clarity (or its absence) is a central strategy problem, not a channel-by-channel execution problem. Pharmaceutical and healthcare companies scored highest — attributed to regulatory scrutiny forcing precision. The most common failure mode: companies excel at simple, accessible language but fail at "Clarity of Connection" — they are not tailoring messages to what specific audiences need to know or decide.
+
+**Application for Dale:** The "Clarity of Connection" failure is the diagnostic for most weak executive writing Iris reviews: technically clear but not audience-connected. A report that uses clean language but doesn't answer the reader's actual question has language clarity without connection clarity. For Quantix SCS, the operational implication is that every deliverable should be audited for all three Clarity Lens dimensions, not just readability. The revenue correlation data is useful for justifying communication investment to clients — clarity isn't a soft skill, it is a measurable contributor to business outcomes. The channel-consistency finding is also important for Dale's personal brand: the same narrative coherence should run across his LinkedIn posts, client reports, and verbal communication.
+
+**Relation to prior entries:** The "Clarity of Connection" dimension maps precisely to the Anett Grant "audience's reality first" principle and the DataStory four-question pre-writing checklist. The revenue-clarity correlation reinforces the Edelman 60%/73%/86% thought leadership data — credibility and clarity are two sides of the same competitive advantage. The channel-consistency finding aligns with the "narrative throughline" concept in Ana Magana's 2026 clarity article (see Insight 3 below).
+
+**IMfA candidate:** YES — the three-dimension Clarity Lens Framework (Language / Connection / Impact) is a reusable diagnostic tool. The "B- average among top 100 companies" stat is useful coaching context: even world-class organizations underperform here.
+
+---
+
+### Insight 3: Clarity in 2026 Leadership Is About Interpretation, Not Information — "Sense-Making" Is the New Core Competency
+
+**Source:** Ana Magana Communications — "The Year of Clarity: Leadership Communication Trends for 2026" (January 7, 2026).
+
+**Finding:** The central argument: AI can distribute data faster than any human team, but it cannot interpret the emotional reality of the people receiving it, or connect facts to meaning that makes those facts actionable. The leaders who are thriving are those who see themselves as sense-makers first, publishers second. Three shifts defining 2026: (1) From Information to Interpretation — the leadership edge is translating data into personally relevant, emotionally honest meaning, not just sharing it. (2) From Reaction to Rhythm — calm, predictable communication cadence builds trust; reactive, scattered updates create "signal fatigue." The organizations experiencing the least change fatigue have the most consistent communication rhythm, not the least change. (3) From Channels to Narrative — organizations need a throughline, not a toolkit. When every message connects back to one narrative spine ("where we are, what's changing, why it matters"), people experience coherence. When channels tell different versions of the same story, "narrative drift" sets in and trust erodes regardless of communication frequency. The article also explicitly introduces the KNOWN/CHANGING/STABLE three-sentence structure (aligned with earlier hive memory on this topic): "Here's what we know. Here's what's changing. Here's what you can count on this week." This simple structure lifted a major transformation because it removed ambiguity without eliminating honest uncertainty.
+
+**Application for Dale:** The "sense-maker, not publisher" framing is a useful reorientation for Dale's LinkedIn strategy. The question is not "what should I post?" — it is "what do my readers need help interpreting right now?" Given Dale's background (24 years SC, AI builder), he is uniquely positioned to interpret what the AI-in-supply-chain disruption means for practitioners. That interpretation role — taking complex operational realities and making them personally relevant to SC executives — is the differentiator the article describes. The "signal fatigue" finding reinforces the publishing-less-but-better-quality approach: Dale's LinkedIn should prioritize coherence and interpretation over volume. The narrative spine concept directly applies: Dale's content should consistently answer "where supply chain is, what's changing, and what practitioners can count on" — that is his throughline.
+
+**Relation to prior entries:** The KNOWN/CHANGING/STABLE structure matches exactly the hive memory entry on Magana 2026 (already stored). This article is the primary source for that entry — confirms validity. The "narrative drift" concept extends the narrative coherence test (Memory 3 from today's surface call). The sense-making framing also maps to the Anett Grant "influence, don't just educate" principle — sense-making is the mechanism by which communication moves from informing to influencing.
+
+**IMfA candidate:** MAYBE — the three shifts (Information→Interpretation, Reaction→Rhythm, Channels→Narrative) are generically useful frameworks. Nominate for Thea's review; the "sense-maker not publisher" reframe may be worth institutionalizing as a coaching principle.
 
 ---
