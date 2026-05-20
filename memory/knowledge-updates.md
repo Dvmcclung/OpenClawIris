@@ -8,6 +8,149 @@ _Archive of May 4–14 detailed entries: `knowledge-updates-archive-2026-Q3.md`_
 
 ---
 
+## 2026-05-19 — 4:00 PM ET
+
+### Insight 1: Data Storytelling Has Three Non-Negotiable Components — and Most Analytical Reports Are Missing Two of Them
+
+**Source:** Improvado, "Data Storytelling: Guide to Transforming Data 2026" (April 2026). Synthesizes Thomas Davenport (co-founder, International Institute for Analytics), Brent Dykes' data storytelling framework, and practitioners across B2B marketing and analytics. Marketing LTB, "Storytelling Statistics 2026: 94+ Stats & Insights" (May 2026) — an aggregation of primary research, academic findings, and practitioner surveys.
+
+**Finding:** The most actionable structural finding from this cycle: data storytelling is formally defined as having three required components — data (raw evidence), narrative (interpretation that explains what the data means and why it matters), and visualization (graphical representation that makes it accessible). The problem is that most analytical reports only deliver the first component and call it a data story.
+
+The Marketing LTB research roundup adds critical quantification to this diagnosis:
+- **71% of executives prioritize data storytelling skills** for reporting to C-suite or key stakeholders
+- **87% agree that clearer data presentation leads to more data-driven decisions** by leadership
+- **49% of people say their organization lacks sufficient storytelling skills** — even when they are data literate
+- People are **22 times more likely to remember facts when delivered in a story** rather than as bare data
+- Retention of data jumps from **5–10% (statistics only) to ~67% when paired with storytelling**
+- **92% of business leaders believe data storytelling is an effective method to present insights**
+
+The gap between "data literacy" and "storytelling skill" named in the 49% finding is critical: analysts who can read data correctly still can't communicate it effectively. This is a structural failure, not a talent failure — they're missing the narrative and visualization components, not the analytical component.
+
+The Improvado framework adds an audience-centered discipline often skipped in analytical work: define the "characters" of your story first — i.e., deeply understand who is reading this, their pains, expectations, and background — before writing a single line. Then add context (time, stakes, consequences of inaction). Then introduce tension (the problem that makes this data matter right now). Only then present the resolution (the insight that solves the tension). The framework is Character → Context → Challenge → Resolution — structurally identical to Situation/Stakes/Shift/So-What, but named in the language of data work.
+
+**Application for Dale:** The 49% finding is a useful coaching anchor: half of all data-literate professionals can't communicate what they know. The diagnostic question for any supply chain analytical report: "Does this have all three components?" If it has data and no narrative, it's a data dump. If it has narrative and no resolution, it's a diagnosis without a recommendation. The Character → Context → Challenge → Resolution frame is a strong pre-writing checklist for client-facing analytical reports — define the reader before defining the content.
+
+**Relation to prior entries:** The three-component model (data / narrative / visualization) is the formal structure underlying the F-A-J chain (FACT = data, ANALYSIS = narrative, JUDGMENT = resolution). The 22x memory retention and 5–10% → 67% retention jump are the strongest quantitative arguments for story-embedded reporting in the KB. The 49% "data literate but not story capable" gap is a new and useful framing — it separates the skill (reading data) from the communication discipline (making data land).
+
+**IMfA candidate:** YES — the 22x and 67% retention figures are the best-sourced quantitative anchors for data storytelling in the knowledge base. The three-component model adds formal vocabulary to the F-A-J chain. The 49% gap framing is a strong coaching tool that generalizes across all analytical domains.
+
+**Knowledge tier:** Mid-frequency (Improvado April 2026 practitioner synthesis; Marketing LTB May 2026 stat aggregation — treat individual statistics as mid-tier citations; 22x and 67% retention figures appear across multiple independent sources, increasing durability).
+
+---
+
+### Insight 2: Situation-Complication-Resolution Is the Missing Bridge Between Data and Decision
+
+**Source:** Kansas Society of CPAs — "Numbers to Narrative: Storytelling in Business Communication," CPE session (May 2026). Instructor: Virgie Castro-Conde, MBA, SHRM-SCP. Professional development session for accounting and finance professionals on applying narrative frameworks to analytical communication.
+
+**Finding:** The session frames the core problem of analytical writing with precision: "Information becomes influential when it is structured." The specific framework named is Situation-Complication-Resolution (SCR) — a three-beat structure that converts data into decision-quality communication.
+
+- **Situation:** Establishes the stable context — what is true, what is baseline, what the reader already knows.
+- **Complication:** Introduces the tension — what changed, what is wrong, what disrupts the stable situation. This is the "why we're having this conversation" beat. Without it, data has no urgency.
+- **Resolution:** The answer, recommendation, or call to action that resolves the tension.
+
+The SCR framework sits alongside the hero-narrative arc as the two dominant structures for business storytelling — but SCR is more appropriate for analytical reports because it doesn't require dramatization. The session is explicit about this: the emphasis is on "logical flow and disciplined narrative construction rather than dramatization." This is the key distinction from performance storytelling — analytical storytelling creates tension through *logical* complication, not emotional drama.
+
+The most underused beat in supply chain analytical writing is the Complication. Reports that jump from Situation (here's our inventory position) directly to Resolution (we recommend reducing safety stock) skip the Complication entirely. The reader never understands *why this matters now* — which is the question that determines whether they act. Without a named complication, the recommendation lands without urgency.
+
+The session also reinforces the process: "define context, introduce tension, present evidence, and guide audiences toward resolution." Note the ordering — evidence comes *after* context and tension, not before. Most analytical reports invert this sequence (present data first, build to recommendation last). The SCR framework argues this is backwards: frame the complication first, then present the evidence that supports the resolution.
+
+**Application for Dale:** The "complication" test is a new and useful diagnostic for supply chain analytical reports. After reading any draft, ask: "Is there a named complication — a specific disruption, risk, or gap — that explains why action is needed now?" If the report skips from situation to recommendation without naming the complication, the recommendation will feel arbitrary, and the reader will feel pushed rather than persuaded. Add "Complication check" to the standard review protocol for analytical reports and decision memos.
+
+**Relation to prior entries:** SCR is a named variant of the Situation/Stakes/Shift/So-What framework (May 15 PM entry). The key new contribution is the explicit identification of the Complication beat as the most commonly omitted element in professional analytical writing — and the explanation of why its absence kills urgency. This is more operationally precise than "don't skip the So-What." Also connects to the May 13 PM "AI as audience" entry: the SCR structure is inherently AI-legible because each beat is a labeled layer — Situation (context), Complication (problem), Resolution (recommendation) — meaning an AI summarizer reading a well-structured SCR document will extract all three accurately.
+
+**IMfA candidate:** YES — the "Complication check" is a single-question diagnostic that catches the most common structural failure in analytical reports. The SCR framework adds a named, academically-used structure that maps cleanly to the F-A-J chain and can be used as coaching language with clients and across document types. Nominate alongside the Situation/Stakes/Shift/So-What entry as a paired structure set.
+
+**Knowledge tier:** Mid-frequency (KSCPA CPE session, May 2026; SCR framework itself is DC-tier — Barbara Minto, McKinsey, and business schools have used this structure for decades; the new contribution is its application to CPE/professional development for analytical communicators, signaling broader adoption).
+
+---
+
+### Insight 3: The SCORE Framework — Board-Level Communication Has a Specific Architecture That Mid-Level Reports Don't Use
+
+**Source:** High Bridge Management Academy, "6 Best Online Courses to Learn Executive Communication in 2026" (April 2026). Primary source for SCORE: Clarity First — Board Paper Bootcamp, run by Davina Stanley (McKinsey-trained; the only Barbara Minto-approved Pyramid Principle instructor outside McKinsey). Secondary sources: practitioner survey data on executive communication program adoption.
+
+**Finding:** A new and notable framework surfaces from the 2026 executive communication program landscape: the **SCORE framework** — Clarity First's proprietary method for structuring board-level communication. While full details require program enrollment, the framing reveals a critical distinction: board-level communication operates under different structural rules than standard analytical reports or executive summaries.
+
+The broader finding from the program landscape review: the Minto Pyramid Principle is now considered *prerequisite knowledge* for board-level communication, not an advanced technique. Programs that train C-suite communicators treat top-down structure (conclusion first, then supporting logic, then evidence) as table stakes — not as a differentiator. This means the competitive advantage for executive communicators in 2026 is not just knowing the Pyramid Principle, but knowing when and how to adapt it for the specific constraints of board communication (time-compressed, decision-focused, governance-oriented, highest-stakes audience).
+
+The practitioner distinction that matters: "Executive communication is the difference between good work that gets noticed and good work that gets ignored. It determines whether your recommendations get approved, your projects get resourced, and your career advances." The High Bridge review frames executive communication as a *decision-making system*, not a writing skill. The best programs treat structured communication as a professional leverage tool, not a polish layer.
+
+A secondary observation from the course landscape: the programs rated highest for impact are all practitioner-led (not academic), live-cohort formats with 1:1 feedback on the participant's own documents. The implication: writing skill develops through critique of real work, not through consuming frameworks. This validates the Anett Grant knowledge base approach — the frameworks are the container, but the coaching is the mechanism.
+
+**Application for Dale:** Two coaching implications. First, when Dale produces board-level communication (or advises clients who do), the structural standard is higher than for standard executive summaries — MECE testing, conclusion-first at every level of the document, and zero tolerance for buried recommendations. Second, the "decision-making system" framing is a useful lens for evaluating any high-stakes document: does this give the board (or leadership audience) everything they need to make a decision without reading another document? If not, the communication has failed its primary function regardless of its accuracy.
+
+**Relation to prior entries:** Directly builds on the May 19 AM Minto Pyramid Principle entry (which established top-down structure as the standard). This entry adds the board-specific tier — where top-down structure is now table stakes and the SCORE framework represents the next level. Also connects to the May 18 PM "executive summary must be a compressed F-A-J chain" finding. The "decision-making system" framing extends the Think/Feel/Do diagnostic: board communication must pass a harder Do test (does this produce a clear governance decision, not just an executive action?).
+
+**IMfA candidate:** MAYBE — the SCORE framework itself requires more detail to be fully actionable (need program-level access for specifics). What IS worth nominating: the practitioner observation that Minto Pyramid is now table stakes at board level, and the "executive communication as decision-making system, not a writing skill" reframe. Nominate the reframe for IMfA; defer SCORE until more detail is available.
+
+**Knowledge tier:** Mid-frequency (High Bridge practitioner review, April 2026; Minto Pyramid and top-down structure are DC-tier; SCORE is proprietary/mid-tier until detailed).
+
+---
+
+## 2026-05-19 — 7:00 AM ET
+
+### Insight 1: Gartner Symposium 2026 — The CSCO's Communication Mandate Is Now Explicitly Storytelling + Value Lens
+
+**Source:** Gartner Supply Chain Symposium/Xpo 2026 Orlando — Day 2 Highlights press release, published May 5, 2026. Primary source: Gartner analyst keynote/session summary. High-frequency tier — current practitioner data from one of the most authoritative annual events in supply chain leadership.
+
+**Finding:** Gartner's direct quote from the Symposium: *"CSCOs can help most by influencing the C-suite with stronger storytelling, applying a value lens to current activities, and leading return-on-the-future initiatives tied to business and financial outcomes."*
+
+This is significant because Gartner is naming "storytelling" and "value lens" as the primary C-suite influence tools for CSCOs in 2026 — not metrics, not dashboards, not operational briefings. The phrasing "return-on-the-future" is deliberate jargon: it separates leaders who can position supply chain investment as future-value creation from those who report on current-state activity.
+
+The Gartner research parallel: 67% of CSCOs are now accountable for environmental and social sustainability KPIs. That means supply chain leaders are being held responsible for outcomes that require cross-functional stakeholder alignment — which is a communication problem, not just an operations problem.
+
+Three concrete implications for supply chain communication:
+1. **Replace activity reporting with value-creation narrative.** "We reduced lead times by 12%" is activity. "We removed $2.4M in working capital risk from the Q3 cycle" is value. The numbers can be identical — the framing determines whether a C-suite audience receives it as operational noise or strategic signal.
+2. **The "return-on-the-future" frame.** Any supply chain communication asking for investment, resource, or attention needs to answer: what capability are we building that will generate returns after this quarter?
+3. **Storytelling is the skill.** Gartner is not advising CSCOs to "communicate better in general." They are naming storytelling as the primary lever for C-suite influence — validating the Situation/Stakes/Shift/So-What framework as directly applicable to supply chain leadership communication.
+
+**Application for Dale:** Dale's combination of operational depth and AI builder experience is exactly the "value-creation narrative" Gartner is describing. When reviewing Dale's supply chain content, the diagnostic question is: does this position the work as future value creation, or does it read as activity reporting?
+
+**Relation to prior entries:** Directly reinforces the May 15 CSCO board-level communication entry (value-creation vs. cost-reduction language). Adds current Gartner sourcing and the "return-on-the-future" vocabulary, which is quotable.
+
+**IMfA candidate:** YES — the Gartner quote is primary research from the most authoritative supply chain leadership event of 2026. The "return-on-the-future" frame is a useful vocabulary addition for coaching supply chain executives on C-suite communication.
+
+
+### Insight 2: Minto Pyramid Principle — The Structural Argument That Data Should Follow Conclusion, Not Lead To It
+
+**Source:** FourWeekMBA, "Minto Pyramid Principle: 2026 Guide to Structured Thinking," updated May 2026. Synthesizes Barbara Minto's original framework from her 20 years at McKinsey. DC tier — foundational framework, stable and well-validated.
+
+**Finding:** The Minto Pyramid Principle's core structural argument: the most important takeaway message sits at the top of the pyramid, followed by layers of supporting evidence in logical order. An argument is easier to understand — and more convincing — when arranged in a pyramidal hierarchy, not a chronological or bottom-up data accumulation.
+
+Three levels of the pyramid:
+1. **The Answer** — the conclusion, recommendation, or decision at the top
+2. **Supporting Arguments** — the 3-5 reasons or pillars that support the answer
+3. **Supporting Data or Facts** — the evidence that substantiates each argument
+
+The 2026-specific dimension: AI-assisted writing tools tend to produce bottom-up structure (data → analysis → conclusion) because they generate from prompt inputs. AI-generated executive documents are systematically inverting the pyramid. The practical implication: human editing of AI-generated content should specifically check whether the conclusion is leading or trailing.
+
+**Application for Dale:** The diagnostic for any analytical report or executive memo: can a reader find the main conclusion in the first 100 words? If not, the document is bottom-up and will lose executive readers before they reach the point. For LinkedIn: can a reader extract the core claim from the first three lines before the "see more" break?
+
+**Relation to prior entries:** Minto's pyramid is the structural foundation underneath the Anett Grant "lead with your conclusion for leadership audiences" principle. This entry provides a named framework with sourcing, useful for coaching conversations.
+
+**IMfA candidate:** MAYBE — the 2026 addition (AI-generated content systematically inverts the pyramid) is the new and actionable finding worth nominating specifically.
+
+
+### Insight 3: The Simplification Standard — "One Repeatable Message" as the Leadership Communication Benchmark
+
+**Source:** Benjamin Ball Associates, "The Ultimate Guide to Leadership Communications 2026," updated May 12, 2026. Author: Benjamin Ball, founder of London-based presentation coaching firm; former corporate financier; guest lecturer at Columbia Business School and UCL. Mid-frequency tier.
+
+**Finding:** A benchmark cleaner and more testable than "communicate clearly": **influence comes from being the person who can simplify a complex problem into a single, actionable message that everyone can repeat.** The word "repeat" is doing significant work. It's not enough for the message to be understood — it must be memorable enough that the audience can relay it to someone else without the original communicator present.
+
+This is a higher standard than clarity. A repeatable message has:
+- A single claim (not three claims with equal weight)
+- Plain language (not jargon the relayer may not own)
+- An implicit action or direction (so the relayer can pass it with intent intact)
+
+The guide also names a behavior shared by the most effective leadership communicators: they listen actively and give people space to respond. This aligns with the HBR April 2026 finding (executive presence backfires when leaders always have the answer and close down the room) — now appearing in practitioner guidance, not just academic research. When the same finding surfaces in HBR research and practitioner coaching guides within the same quarter, it signals a genuine shift in the competency standard.
+
+**Application for Dale:** After reviewing any draft, ask: what is the one sentence a reader could text to a colleague that captures this? If the answer requires a paragraph, the message isn't repeatable. For LinkedIn, this maps directly to the "quotable line" standard in Dale's writing goals.
+
+**Relation to prior entries:** Reinforces the "quotable line" principle in Dale's writing preferences. The "repeat test" is a new practical diagnostic applicable to every draft review.
+
+**IMfA candidate:** YES for the "repeat test" as a practical diagnostic — simple enough to use on every draft, produces a yes/no answer quickly, and tests for something important that "clarity" alone doesn't capture.
+
+---
+
 ## 2026-05-18 — 4:00 PM ET
 
 ### Insight 1: Stories Work Because They Forge Shared Experience — The Multi-Learner Evidence
