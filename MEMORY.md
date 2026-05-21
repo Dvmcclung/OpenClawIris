@@ -195,6 +195,12 @@ Key institutionalized insights from this period (all IMfA: YES unless noted):
 - **Minto Pyramid — Data Should Follow Conclusion, Not Lead To It (5-19 AM, FourWeekMBA May 2026)**: Answer → Supporting Arguments → Supporting Data. AI-generated writing systematically inverts the pyramid (bottom-up by default). Editing check: main conclusion in first 100 words? Core claim extractable before "see more" break? IMfA: MAYBE (the AI-inversion angle is the 2026-specific finding worth nominating).
 - **Simplification Standard — "One Repeatable Message" (5-19 AM, Benjamin Ball Associates May 2026)**: Influence = simplify a complex problem into a single actionable message everyone can repeat. "Repeat test": what one sentence could a reader text to a colleague capturing this? If it takes a paragraph, the message isn't repeatable. Maps directly to Dale's "quotable line" standard. IMfA: YES.
 
+### May 20 AM Summary (promoted 2026-05-20; full entries in memory/knowledge-updates.md)
+
+- **Always-On CEO Communicator — Trust Is the Variable, Not Visibility (5-20 AM, Forbes/Pam Abrahamsson, Edelman 2026)**: "Messaging and mission must be aligned — it's impossible to create strong communications without a strong business plan." Vague/hedging posts signal strategic uncertainty. Diagnostic: "Can the reader tell exactly where Dale stands on this?" Dale's practitioner authenticity closes the trust gap pure-visibility communicators struggle with. IMfA: MAYBE ("messaging must make the strategy legible" is a durable principle).
+- **SC Leaders' Direct C-Suite Access Doubled / Communication Register Must Match (5-20 AM, CIPS/Blue Yonder 2026)**: 15% → 33% direct access in one year. SC leaders now expected to communicate at executive register, not operational. Decision speed = #2 SC priority; only 20% respond to disruption in 24h. Diagnostic: "Is this answering the question the CEO is actually asking?" IMfA: YES (strategic register shift principle is durable; stats are time-sensitive).
+- **Minto Pyramid — AI Inverts the Pyramid, Humans Must Reimpose It (5-20 AM, FourWeekMBA May 2026)**: AI drafts tend toward comprehensiveness/explanation; the pyramid becomes more valuable, not less. First-pass review: main point in first paragraph? Pyramid check before tone, formatting, or detail editing. IMfA: NO (framework is foundational; AI-application note worth adding to Anett Grant KB).
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
 Archive of entries through 2026-03-30: `memory/knowledge-updates-archive-2026-Q1.md`
