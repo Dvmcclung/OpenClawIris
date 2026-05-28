@@ -1208,3 +1208,74 @@ The credibility cost is asymmetric and accumulating: "Getting flagged as the per
 
 ---
 
+
+---
+## 2026-05-26 — 4:00 PM ET
+
+### Insight 1: The 90-Second Story Rule — Narrative as Evidence, Not Warmth
+
+**Source:** Planning in High Heels, "Storytelling in Business Communication: Skip the TED Talk," May 2026. Cites Stanford/Chip Heath research, Karen Eber consulting practice, Flowtrace 1.3M meeting dataset. Mid-frequency tier.
+
+**Finding:** Business storytelling is misapplied when advice is designed for communicators whose authority is assumed. Two structural rules: (1) **90 seconds is the credibility ceiling** — Stanford data: 63% remember stories vs. 5% remember statistics; past 90 seconds, listener shifts from tracking the argument to evaluating the storyteller. Karen Eber calls the format "story snacks." (2) **Narrative as evidence, not warmth** — effective storytellers use narrative to *prove a point*. The moment a story becomes personal disclosure for its own sake, it shifts register from evidence to performance.
+
+**Application for Dale:** SC + AI practitioner stories most powerful as 60-90 second evidential proof points. "I've watched this exact scenario play out with 3 clients this year — here's what happened" is more credible than extended narrative. His practitioner credibility is the authority signal; the story confirms it.
+
+**Coaching implication:** New story diagnostic: "What claim does this story prove?" If unanswerable in one sentence, restructure before deployment. Length check: if it runs longer than 90 seconds out loud, cut — don't just tighten.
+
+---
+
+### Insight 2: The Contextual Communicator Model — One Message, Three Audience Frames
+
+**Source:** Benjamin Ball Associates, "The Ultimate Guide to Leadership Communications 2026," updated May 12, 2026. Benjamin Ball Associates coaching practice (20+ years, Columbia Business School / UCL guest faculty). Mid-frequency tier — practitioner framework synthesis; structural principles durable.
+
+**Finding:** Three active layers, each requiring a different version of the same core message: (1) **Board/C-suite:** Strategic implications and bottom-line impact only; lead with "What does this mean for competitive position, risk, or capital?" (2) **Team/Function heads:** How does this affect daily work? Translate strategy into execution reality. (3) **Clients/External stakeholders:** Value and reliability. The structural discipline: the *same core message* exists in all three versions. What changes is entry point, frame, and operational detail level.
+
+**Application for Dale:** His analytical content (tariff AI, SC risk, agentic systems) has natural multi-register potential. Strongest posts open in Board frame, substantiate in Function frame — attracting CEO/CFO and CSCO/COO readers simultaneously.
+
+**Coaching implication:** New document pre-check: "Which register am I writing in?" Require explicit register identification before drafting — Board, Team, or Client — and flag when switching mid-document without signaling the transition.
+
+---
+
+### Insight 3: Complexity vs. Clarity — Intelligent Simplification as Competitive Advantage
+
+**Source:** Sarwar Alam Insights, "Clarity in Modern Work: Why It Matters More Than Complexity," May 2026. Mid-frequency tier — practitioner case synthesis; structural observations durable.
+
+**Finding:** The core problem in executive reporting: organizations mistake complexity for depth. Three observations: (1) Complexity is rewarded accidentally — detailed presentations signal rigor even when they don't improve understanding. (2) Clarity requires more capability, not less. (3) **The missing analytical output:** The 80-slide meeting produced analysis but not the actual deliverables: **priorities, ownership, trade-offs, execution focus.** These four are what executive-level analytical communication must deliver.
+
+**Application for Dale:** His analytical reports and client communications are strongest when they end with explicit positions on all four: the priority, who owns what, what trade-off has been made, what execution looks like.
+
+**Coaching implication:** New report audit checklist (F-A-J chain output): Does the judgment section explicitly name (1) the priority, (2) the owner, (3) the trade-off accepted, (4) the next execution step? If any missing, the analysis is incomplete regardless of how thorough FACT/ANALYSIS sections are.
+
+---
+
+## 2026-05-26 — 7:00 AM ET
+
+### Insight 1: Board-Facing Supply Chain Communication — Translating Freight Data Into Macroeconomic Risk Language
+
+**Source:** Shipwell, "Takeaways From the 2026 Gartner Supply Chain Symposium/Xpo," May 2026. Mid-frequency tier — conference synthesis.
+
+**Finding:** SC leaders must communicate at board level in macroeconomic risk language, not operational metrics language. Three findings from 2026 Gartner SC Symposium: (1) AI pilot communication gap — 67% of SC digital investment in AI; 77% struggle to scale past pilot; boards ask "What operating model change are you committing to?" not "what did this AI do?" (2) Tariff complexity eliminated the "general update" — board updates must quantify current exposure AND demonstrate response architecture for the *next* exposure. (3) ROI framing shifted from cost-per-unit to network resilience as value-protection: "How much disruption can the network absorb without revenue impact?"
+
+**Application for Dale:** Coaching check: "Does this end in board language (risk, resilience, competitive position) or practitioner language (efficiency, throughput, cost)?" Practitioner language belongs in the middle. Board language must be in opening and close.
+
+---
+
+### Insight 2: "Communication and Critical Thinking Are the Same Thing" — The Matt Abrahams Reframe
+
+**Source:** Graphic Recording Studio recap of Matt Abrahams fireside chat (Stanford GSB, *Think Faster, Talk Smarter*), May 19, 2026. Mid-frequency tier — practitioner synthesis; principles durable.
+
+**Finding:** Communication difficulty is not downstream of the thinking — it IS the thinking problem surfacing. Three supporting principles: (1) Audience-first is logical structure, not politeness; (2) Listening (opening with the reader's challenge) is the underinvested leadership skill; (3) Muddled openings signal muddled thinking.
+
+**Coaching implication:** New diagnostic for stuck drafts: "What do I actually think about this?" not "How should I phrase this?" If the answer isn't a single, committal sentence, the thinking is still in process. Aligns with Anett Grant's "build to a core, then stay there."
+
+---
+
+### Insight 3: The Four Leadership Capabilities — Communication Underpins All Four
+
+**Source:** Lone Rock Leadership, "2026 Leadership Reality Report," 180+ organizations, 28,000 leaders. Mid-frequency tier — large-sample practitioner research.
+
+**Finding:** Four differentiating capabilities: (1) **Adaptive Velocity** — communicate direction under uncertainty, not resolution; (2) **Relationship Fluency** — show you understand what the reader is carrying before asking them to carry something else (61% more innovation under empathetic leaders); (3) **Networked Influence** — write the same argument in three professional languages (CFO/CSCO/CMO); (4) **Focused Execution** — the most valued 2026 communication eliminates follow-up.
+
+**Application for Dale:** His CFO/CSCO/CMO three-frame writing IS the Networked Influence play. Cross-functional doc check: "Which audience frame am I writing in?"
+
+---
