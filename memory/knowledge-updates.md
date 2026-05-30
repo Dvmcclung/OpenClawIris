@@ -5,68 +5,44 @@ _Significant findings are logged here and may be incorporated into the knowledge
 _Archive of entries through 2026-03-30: `knowledge-updates-archive-2026-Q1.md`_
 _Archive of April 1–27 entries: `knowledge-updates-archive-2026-Q2.md`_ (archived 2026-04-28)
 _Archive of May 4–14 detailed entries: `knowledge-updates-archive-2026-Q3.md`_ (archived 2026-05-18)
-_Archive of May 13 PM–May 28 AM entries: `knowledge-updates-archive-2026-Q3b.md`_ (archived 2026-05-28)
+_Archive of May 13 PM–May 28 PM entries: `knowledge-updates-archive-2026-Q3b.md`_ (archived 2026-05-29)
 
 ---
 
-_Ready for 2026-05-28 PM entry._
+## 2026-05-29 PM
+
+### Insight 1 — Storytelling: The Three-Process Narrative Structure (Penn LPS / McKinsey, April 2026)
+
+**Source:** Penn LPS Online, citing McKinsey & Company research on narrative strategies for professional communication (April 15, 2026)
+
+**Finding:** Across business and professional contexts, effective storytelling consistently follows three core processes: **staging** (establishing audience context and stakes), **plot progression** (building tension through challenge or conflict), and **cognitive tension** (the moment of resolution that demands a decision or action). McKinsey survey data shows business professionals overwhelmingly rate public speaking with an emphasis on storytelling as the #1 foundational skill leaders need to master this decade. The key differentiator is using character and conflict — not just data — to capture attention and invest the audience in the outcome.
+
+**Application for Dale:** Supply chain reports and LinkedIn posts benefit from this structure. Staging = the market condition or operational reality the reader is already living. Plot progression = the problem or gap that current approaches leave unresolved. Cognitive tension = the insight or recommendation that demands a response. This maps directly onto F-A-J (Fact → Analysis → Judgment) but adds the emotional hook that makes the analysis memorable.
+
+**Coaching signal:** When reviewing a report or post, check: Does it establish stakes before presenting data? Does conflict appear before resolution? If no, it's educating, not persuading.
 
 ---
 
-## 2026-05-28 PM — Storytelling, Audience-Centering, Analytical Report Clarity
+### Insight 2 — Audience-Centered Communication: The Objective-First Architecture (Medium / Mack, May 2025)
 
-### Insight 1: The Retention Cliff — Why Stories Beat Data in Business Writing
-**Source:** Marketing LTB "Storytelling Statistics 2026" (compiled primary research + academic meta-analysis)
-**Finding:** Data retention without narrative: 5–10%. Data retention within a story structure: ~67%. People are 22x more likely to remember facts delivered in a story than as bare data. 92% of business leaders believe data storytelling is an effective method to present insights.
-**The mechanism:** Story structure creates emotional encoding, which improves long-term recall. Narrative wraps numbers in context, making them retrievable. Bullet points don't.
-**Coaching application (Dale/Iris use case):** When writing supply chain analysis or LinkedIn posts with data points, the default should be: number → story context → implication for reader. Not: number → number → number. The 67% retention figure is itself a strong hook for any post arguing for narrative-driven communication.
-**Knowledge tier:** Mid-frequency (compiled 2026, primary research foundation)
+**Source:** Britney N. Mack, "From noise to notable: The 7 pillars of an audience-centered communication strategy," Medium (July 2025)
 
----
+**Finding:** The foundational error in most business writing is starting from the writer's knowledge rather than the audience's decision. Effective audience-centered communication requires a pre-writing architecture: (1) **Define the behavioral objective** — what specific action or shift should result from this message? (2) **Map the audience's current mental model** — what do they already believe, and what resistance will they bring? (3) **Build the message to close the gap** between their starting point and the desired endpoint. The key metric is not comprehension but **behavioral response** — did the audience do or decide something different as a result?
 
-### Insight 2: The Multi-Audience Problem in Data Storytelling — Same Data, Different Stories
-**Source:** ThoughtSpot "Data Storytelling: How to Present Data That Persuades" (2026 guide)
-**Finding:** Effective data storytelling requires audience segmentation BEFORE format decisions. Executives need: "What does this mean for the business? What decision do I make?" Analysts need: "How was this derived? What's the confidence level?" Same dataset, completely different stories.
-**Key principle:** A data story is a narrative that gives meaning and context to a dataset — not just a chart with a title. The report writer's job is to translate analysis into something the audience can act on, not just display it.
-**The "impossible to ignore" test:** A chart showing a product drop-off rate gets a glance. That same data paired with "and here's how much revenue we're losing" becomes impossible to ignore. This is the upgrade move: connect numbers to executive-relevant stakes.
-**Coaching application:** In Dale's analytical reports, the pre-write question should be: "What decision is this reader making?" Write toward that decision, not toward the data itself. This aligns directly with Anett Grant's "start with the audience's reality" principle.
-**Knowledge tier:** Mid-frequency (practitioner synthesis, 2026)
+**Application for Dale:** Before drafting any report or post, name the one behavioral change you want the reader to make. Write to that outcome, not to display your knowledge. For LinkedIn: "I want readers to reconsider how they evaluate AI vendors" is a behavioral objective. "I want to share what I know about AI" is not.
+
+**Reinforces:** Anett Grant's principle — influence, don't just educate. The behavioral objective test is a concrete pre-writing gate.
 
 ---
 
-### Insight 3: The Reporting Friction Problem — Clarity as an Operational Lever for Executives
-**Source:** Adam Mendler blog citing multi-year Wharton study (published May 2026); 82% of enterprise leaders now use generative AI weekly with measurable returns (Wharton/BusinessWire, 2025)
-**Finding:** Executives are not struggling because they became worse leaders — they're struggling because the operating environment became more fragmented than leadership systems were designed to handle. The executives adapting best are redesigning HOW information reaches them: shortening reporting delays, reducing interpretive friction, building systems that surface operational problems earlier.
-**The implication for analytical reports:** A report is not just information delivery — it's an executive decision support tool. Clarity isn't a style preference; it's what determines whether the report reduces friction or adds to it. Reports that require decoding waste a scarce executive resource: attention.
-**Principle derived:** The best analytical report is the one that requires the least cognitive work to act on. Structure it so the decision is obvious — not buried in supporting material.
-**Coaching application:** When reviewing Dale's analytical reports: score for "decision friction." If the recommendation or key finding is not visible in the first 10 seconds of reading, the report fails its primary function regardless of analytical quality.
-**Knowledge tier:** High-frequency (Wharton study cited, 2025-2026 primary research — treat as current but check for updates quarterly)
+### Insight 3 — Analytical Report Clarity: Strategic Clarity as the #1 Executive Performance Constraint (LHH, March 2026)
+
+**Source:** LHH 2026 View from the C-Suite Report (March 26, 2026, n=large international executive sample)
+
+**Finding:** More than one quarter of C-suite leaders cite **lack of strategic clarity** as the top limiter of their organizational effectiveness — ranking above AI skill gaps, talent retention, and succession planning. Ineffective decision-making processes also rank among the top performance constraints for the second consecutive year. This data reframes the stakes of analytical report writing: unclear reports are not just poorly written documents, they are the source of the clarity gap executives report as their primary bottleneck. Separately, MIT Sloan (May 2026) found that most organizations misapply AI to decision support precisely because analytical outputs lack the **objective clarity** needed to distinguish narrow decisions (optimizable) from wide decisions (requiring deliberation and alignment).
+
+**Application for Dale:** Analytical reports should front-load the decision type and scope before presenting analysis. Add a one-sentence "Decision Frame" at the top of every report: "This is a [narrow/wide] decision. The recommendation below is [actionable now / requires stakeholder alignment before action]." This single addition converts a report from information delivery to executive clarity.
+
+**Coaching signal:** When reviewing analytical reports, ask: Can the reader identify within 30 seconds what decision this enables and what kind of decision it is? If no, the report has a structural clarity problem regardless of content quality.
 
 ---
-
-## 2026-05-28 PM (second run) — Enterprise Storytelling Architecture, Clarity Sprint, Narrow vs. Wide Decisions
-
-### Insight 1: Narrative Architecture for Multi-Stakeholder Audiences — The 13-Stakeholder Problem
-**Source:** Pedowitz Group "10 Enterprise Storytelling Deliverables to Demand in 2026" (May 22, 2026); Forrester 2026 B2B Buying Committee data via Prospeo
-**Finding:** The average B2B purchase decision now involves 13 internal stakeholders plus 9 external participants (analysts, consultants, peer references). A single narrative can no longer serve this group. Enterprise storytelling requires a layered architecture: a core narrative framework at the top, then stakeholder-segmented messaging modules that share the same spine but serve different decision roles.
-**The structure:** (1) Core narrative — brand/value story; (2) Messaging architecture — hierarchical positioning by stakeholder; (3) Account-based narrative modules — personalized components for specific readers. The story stays cohesive; the emphasis shifts by audience.
-**Coaching application for Dale's writing:** When Dale writes an analytical report that will go to both a CEO and a supply chain VP, the framing layer changes but the underlying facts don't. CEO frame: "What's the business risk?" VP frame: "What do I do operationally?" Structure the document so each reader finds their version of the answer without decoding the other's.
-**Knowledge tier:** Mid-frequency (Forrester primary research, Pedowitz practitioner synthesis, 2026)
-
----
-
-### Insight 2: The Clarity Sprint — Messaging Misalignment as a Root Cause of Stalled Growth
-**Source:** Forbes Business Council, Sarah Frye (SF Consulting Services), "The Clarity Problem Businesses Can Find Within 30 Days" (April 30, 2026)
-**Finding:** Across industries — security tech, professional services, agriculture fintech, health startups — the same root cause surfaces repeatedly: leadership teams assume they're aligned on audience and positioning, but they aren't. Three diagnostic questions surface the misalignment in minutes: (1) Who is your ideal customer? (2) What's the one thing you want them to believe about you? (3) What does success look like in 90 days?
-**The execution pattern:** Most teams give different answers to question 1. That misalignment cascades through every piece of communication they produce. Fixing it doesn't require a year of strategy — it requires 30 days of forced prioritization: audit everything, test alignment, rewrite the positioning, then build content on the repaired foundation.
-**Coaching application:** Apply this as a pre-write diagnostic for any significant piece of communication Dale produces. Before drafting: answer those three questions. If the answers are fuzzy, the document will be too. The three questions are a fast self-audit and make an excellent LinkedIn post hook: "Ask your leadership team these 3 questions. If you get different answers, you have a clarity problem."
-**Knowledge tier:** Mid-frequency (practitioner primary research, multiple industry cases, April 2026)
-
----
-
-### Insight 3: Narrow vs. Wide Decisions — Why Analytical Reports Fail When Misclassified
-**Source:** MIT Sloan Management Review, "Calibrate AI Use to the Decision at Hand" (May 6, 2026)
-**Finding:** Decisions split into two types: **narrow** (clear objectives, available data, measurable outcomes — AI can generate a specific recommendation) and **wide** (contested goals, incomplete information, alignment matters as much as analysis — deliberation and stakeholder buy-in are the real deliverable). When writers treat wide decisions as narrow, they produce polished analytical narratives that fail to drive action because no real alignment was built. McKinsey 2025: 88% of companies use AI in at least one function but only ~40% see bottom-line impact. The gap is often this misclassification.
-**The implication for analytical reports:** Before writing any analysis, classify the decision: Is the reader trying to execute (narrow) or trying to align and commit (wide)? A narrow decision report should be crisp, data-driven, recommendation-forward. A wide decision report should surface assumptions, represent competing stakeholder views, and make alignment — not just the answer — the deliverable.
-**Coaching application:** When reviewing Dale's analytical reports, ask: "What type of decision is this serving?" If it's wide and the report reads like it's narrow, the report will be technically correct but organizationally useless. Add a section: "What this analysis does NOT resolve" — making the alignment work visible.
-**Knowledge tier:** Mid-frequency (MIT SMR editorial + McKinsey primary research citation, May 2026)

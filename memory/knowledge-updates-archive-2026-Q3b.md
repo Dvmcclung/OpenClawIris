@@ -1392,3 +1392,87 @@ Three implications of this statement:
 **Coaching implication:** Pre-draft question: "What is the one belief I want the reader to hold after reading this?" Write it down as a sentence. Then structure the document as the most direct evidence path to that belief. Everything that does not support the path is either context (brief) or cut.
 
 ---
+
+## 2026-05-28 PM — Storytelling, Audience-Centering, Analytical Report Clarity
+
+### Insight 1: The Retention Cliff — Why Stories Beat Data in Business Writing
+**Source:** Marketing LTB "Storytelling Statistics 2026"
+**Finding:** Data retention without narrative: 5–10%. Data retention within story structure: ~67%. 22x more likely to remember facts in story. 92% of business leaders believe data storytelling is effective for presenting insights.
+**Mechanism:** Story creates emotional encoding → long-term recall. Narrative wraps numbers in context.
+**Coaching:** Default structure: number → story context → implication for reader. Not: number → number → number.
+**Knowledge tier:** Mid-frequency
+
+---
+
+### Insight 2: The Multi-Audience Problem in Data Storytelling — Same Data, Different Stories
+**Source:** ThoughtSpot "Data Storytelling: How to Present Data That Persuades" (2026)
+**Finding:** Effective data storytelling requires audience segmentation BEFORE format decisions. Executives need: "What does this mean for the business?" Analysts need: "How was this derived?" Same dataset, completely different stories.
+**Key principle:** "Impossible to ignore" test — connect numbers to executive-relevant stakes.
+**Coaching:** Pre-write question: "What decision is this reader making?" Write toward that decision, not toward the data.
+**Knowledge tier:** Mid-frequency
+
+---
+
+### Insight 3: The Reporting Friction Problem — Clarity as an Operational Lever
+**Source:** Adam Mendler blog citing multi-year Wharton study (May 2026)
+**Finding:** Executives adapting best are redesigning HOW information reaches them — shortening reporting delays, reducing interpretive friction, building earlier-surfacing systems.
+**Principle:** The best analytical report requires the least cognitive work to act on. Structure so the decision is obvious.
+**Coaching:** Score reports for "decision friction." If recommendation is not visible in first 10 seconds, report fails its primary function.
+**Knowledge tier:** High-frequency
+
+---
+
+## 2026-05-28 PM (second run) — Enterprise Storytelling Architecture, Clarity Sprint, Narrow vs. Wide Decisions
+
+### Insight 1: Narrative Architecture for Multi-Stakeholder Audiences — The 13-Stakeholder Problem
+**Source:** Pedowitz Group (May 22, 2026); Forrester 2026 B2B Buying Committee data
+**Finding:** Average B2B purchase now involves 13 internal + 9 external stakeholders. Single narrative cannot serve all. Enterprise storytelling requires: (1) Core narrative; (2) Messaging architecture by stakeholder; (3) Account-based narrative modules.
+**Coaching:** Structure documents so CEO finds risk/business frame; SC VP finds operational frame — same facts, different emphasis layer.
+**Knowledge tier:** Mid-frequency
+
+---
+
+### Insight 2: The Clarity Sprint — Messaging Misalignment as Root Cause of Stalled Growth
+**Source:** Forbes Business Council, Sarah Frye (April 30, 2026)
+**Finding:** Root cause pattern across industries: leadership teams assume alignment on audience and positioning, but aren't. Three diagnostic questions: (1) Who is your ideal customer? (2) What one thing should they believe about you? (3) What does success look like in 90 days?
+**Coaching:** Pre-write diagnostic for any significant piece — answer the three questions. If fuzzy answers, document will be too.
+**Knowledge tier:** Mid-frequency
+
+---
+
+### Insight 3: Narrow vs. Wide Decisions — Why Analytical Reports Fail When Misclassified
+**Source:** MIT Sloan Management Review, "Calibrate AI Use to the Decision at Hand" (May 6, 2026)
+**Finding:** Narrow decisions (clear objectives, available data) → AI can generate specific recommendation. Wide decisions (contested goals, incomplete info) → deliberation and alignment are the deliverable. Treating wide as narrow = polished analysis that fails to drive action.
+**Coaching:** Pre-write: classify the decision type. If wide, add section: "What this analysis does NOT resolve." McKinsey 2025: 88% companies use AI in ≥1 function but only ~40% see bottom-line impact — often due to this misclassification.
+**Knowledge tier:** Mid-frequency
+
+---
+
+## 2026-05-29 AM — Leadership Trust Erosion, Tariff Absorption Wall, Digital Twin Communication
+
+### Insight 1: The 80/25 Trust Gap
+**Source:** Simpplr State of Internal Communications 2026; Glassdoor Worklife Trends 2026
+**Finding:** ~80% of leaders believe their communications are effective. <25% of employees agree. Widest gap Simpplr has recorded. 89% of executives say internal communication efforts should be measured in business terms.
+**Mechanism:** Leaders evaluate communication by what they intend; employees by what they receive. No feedback loop = executive never updates.
+**Coaching:** For internal audience communications, add forcing function: "What question would a frontline employee have after reading this?" Also strong LinkedIn hook: leadership communication is a perception problem, not just a writing problem.
+**Knowledge tier:** Mid-frequency
+
+---
+
+### Insight 2: The Tariff Absorption Wall — A Communication Trigger
+**Source:** Tradeverifyd Supply Chain Statistics 2026 (May 5, 2026)
+**Finding:** 73% of SC leaders expect to hit their tariff absorption wall by end of 2026. 83% currently absorb at least some tariff costs internally; only 12% passing majority to customers. 44% cite consumer demand for transparency as primary driver of corporate strategy.
+**Communication implication:** The tariff absorption wall is a communication event, not just a financial one. Leaders who've been communicating proactively about tariff exposure will have audience trust built in when the wall is hit. Silence on SC strain is no longer competitively neutral.
+**Coaching:** SC executives should actively narrate their tariff response — what was absorbed, how long, why adjusting now. Strong LinkedIn territory.
+**Knowledge tier:** High-frequency (volatile — check quarterly)
+
+---
+
+### Insight 3: Scenario Planning as Communication Architecture — Digital Twin Standard
+**Source:** Chicago Booth Magazine Spring 2026 (Deshpande, Hadhazy)
+**Finding:** Emerging standard: leaders expected to have stress-tested supply chain under multiple disruption scenarios BEFORE being asked. Booth expert: "Have a digital twin of your supply chain to stress-test under different scenarios."
+**Communication structure:** (1) Current-state; (2) Scenario stress-tests (tariff spike, geopolitical closure, logistics disruption); (3) Risk-adjusted cost implications by scenario; (4) Redundancy investments made; (5) Decision trigger thresholds.
+**Coaching:** For SC analytical reports going to board/senior leadership: "Does this include scenario analysis or only current-state reporting?" If only current-state, it's incomplete by 2026 standards.
+**Knowledge tier:** Mid-frequency
+
+---
