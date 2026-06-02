@@ -229,11 +229,23 @@ Key institutionalized insights from this period (all IMfA: YES unless noted):
 - **Tariff Absorption Wall — Communication Trigger (5-29 AM, Tradeverifyd 2026)**: 73% of SC leaders expect to hit their tariff absorption wall by end of 2026. 83% currently absorbing costs internally; only 12% passing to customers. 44% cite consumer transparency demand as primary strategic driver. The wall is a communication event, not just a financial one — leaders without proactive narrative face credibility crises on top of financial ones. SC leaders should narrate tariff response: what absorbed, how long, why adjusting now. IMfA: YES.
 - **Scenario Planning as Communication Architecture / Digital Twin Standard (5-29 AM, Chicago Booth Spring 2026)**: 2026 board standard: leaders expected to have stress-tested SC under multiple scenarios BEFORE being asked. Five-part structure: current-state + three scenario stress-tests + risk-adjusted cost implications by scenario + redundancy investments + decision trigger thresholds. If analytical report only shows current-state, it's incomplete by 2026 standards. IMfA: YES.
 
+### May 29 PM Summary (promoted 2026-06-01; full entries in memory/knowledge-updates-archive-2026-Q3b.md)
+
+- **Three-Process Narrative Structure (5-29 PM, Penn LPS/McKinsey April 2026)**: Staging (establish stakes) → Plot progression (build tension via challenge) → Cognitive tension (resolution demanding decision/action). McKinsey: storytelling = #1 foundational skill leaders need this decade. Coaching signal: Does it establish stakes before presenting data? Does conflict appear before resolution? If no, it's educating, not persuading. IMfA: YES.
+- **Objective-First Architecture / Behavioral Response as Metric (5-29 PM, Medium/Mack 2025)**: Pre-writing gate: define the one behavioral change you want the reader to make. Audience-centered ≠ thorough — it means closing the gap between their current mental model and the desired endpoint. Reinforces Anett Grant's "influence, don't just educate." IMfA: YES.
+- **Strategic Clarity as #1 Executive Performance Constraint (5-29 PM, LHH 2026 C-Suite Report)**: >25% of C-suite leaders cite lack of strategic clarity as top limiter — above AI skill gaps and talent retention. Unclear reports ARE the clarity gap executives report as their primary bottleneck. Add "Decision Frame" sentence at top of every report: "This is a [narrow/wide] decision. The recommendation is [actionable now / requires stakeholder alignment]." IMfA: YES.
+
+### June 1 AM Summary (promoted 2026-06-01; full entries in memory/knowledge-updates.md)
+
+- **CEO as Always-On Chief Communicator (6-01 AM, Forbes/Abrahamsson, Edelman 2026)**: Silent CEO model is structurally obsolete. Audiences now expect the person, not the PR function. Dale's 24-year practitioner + AI-builder identity IS the brand at this stage. Coaching: "Is there a point of view here that only Dale could hold? If anyone could have written it, the CEO voice is missing." IMfA: YES.
+- **Lead with Clarity Not Urgency / Transparency as Decision Logic (6-01 AM, Inbound Logistics May 2026)**: Under disruption, urgency without clarity drives compliance without alignment. Higher-value transparency = sharing constraints, uncertainties, and decision logic — not just outcomes. Underused hook: "Here's what we don't yet know and how we're acting anyway." Coaching: Does the author explain the tradeoffs, or only the conclusion? IMfA: YES.
+- **Anchoring + Choice Architecture in Executive Writing (6-01 AM, Forbes/Meade, May 2026)**: (1) Anchor: lead with the full scale of a problem before scoped recommendation — makes recommendation feel proportionate. (2) Fewer choices drive more decisions (Iyengar jam study). Limit report options to ≤3; sequence so recommended path evaluated against clearly less desirable alternatives. Reinforces Anett Grant's "lead with your conclusion" — neuroscience-aligned. IMfA: YES.
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
 Archive of entries through 2026-03-30: `memory/knowledge-updates-archive-2026-Q1.md`
 Archive of April 1–27 entries: `knowledge-updates-archive-2026-Q2.md` (archived 2026-04-28)
 Archive of April 28–May 1 PM entries: `knowledge-updates-archive-2026-Q2.md` (archived 2026-05-04)
 Archive of May 4–14 PM detailed entries: `memory/knowledge-updates-archive-2026-Q3.md` (archived 2026-05-18)
-Archive of May 13 PM–May 27 PM detailed entries: `memory/knowledge-updates-archive-2026-Q3b.md` (archived 2026-05-28)
-knowledge-updates.md contains **May 28 AM entry** (~24KB — healthy).
+Archive of May 13 PM–May 28 PM detailed entries: `memory/knowledge-updates-archive-2026-Q3b.md` (archived 2026-05-29)
+knowledge-updates.md contains **May 29 PM + June 1 AM entries** (current).
