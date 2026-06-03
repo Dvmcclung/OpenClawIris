@@ -6,119 +6,108 @@ _Archive of entries through 2026-03-30: `knowledge-updates-archive-2026-Q1.md`_
 _Archive of April 1–27 entries: `knowledge-updates-archive-2026-Q2.md`_ (archived 2026-04-28)
 _Archive of May 4–14 detailed entries: `knowledge-updates-archive-2026-Q3.md`_ (archived 2026-05-18)
 _Archive of May 13 PM–May 28 PM entries: `knowledge-updates-archive-2026-Q3b.md`_ (archived 2026-05-29)
+_Entries through June 1 PM promoted to MEMORY.md: 2026-06-02_
 
 ---
 
-## 2026-06-01 PM
+## 2026-06-02 PM
 
-### Insight 1 — Storytelling: Dual-Function Narrative in Business Communication (KAGANGA Journal, May 2026)
+### Insight 1 — Business Storytelling: Narrative Architecture vs. Bullet Architecture (WinningPresentations.com, May 2026)
 
-**Source:** "Storytelling in Business Communication: Creating Value and Corporate Identity," KAGANGA KOMUNIKA: Journal of Communication Science (published May 31, 2026; DOI: 10.36761/kagangakomunika.v8i1.7425)
+**Source:** "Business Storytelling for Executive Presentations: Why Narrative Beats Bullet Points in Every Metric," WinningPresentations.com (published ~May 2026)
 
-**Finding:** A qualitative study examining storytelling in modern business communication confirms a dual function that most practitioners miss: storytelling is not only a tool for information delivery but simultaneously a strategic mechanism for building corporate identity, brand trust, and emotional engagement. The critical finding is that effective business storytelling **bridges logical argument and emotional appeal** — it does not choose between them. Companies that treat storytelling as a persuasion layer on top of data (rather than as an integrated communication architecture) get the persuasion wrong. Stakeholders disengage when the narrative and the evidence feel bolted together rather than unified. The study's framework: facts establish credibility, story creates meaning, identity emerges from the alignment of the two.
+**Finding:** Bullet-stacked decks and documents fail senior audiences not because they lack content, but because of how the executive brain processes information. Bullet lists are processed as *lists to absorb*; narrative is processed as *a request to choose*. The difference is cognitive load and decision-readiness. A practitioner case study in the article makes this concrete: a 31-slide deck with extensive market context, technical architecture, and migration analysis was deferred by an executive committee. Two weeks later, the same analyst returned with 8 slides built on a narrative framework. The recommendation was approved before slide eight. The data had not changed. The narrative around it had.
 
-**Application for Dale:** When reviewing supply chain content, check whether the logical and emotional layers are woven together or stacked. A post that says "here's the data, and by the way here's a story" is structurally weak. A post that opens with a human moment (a warehouse manager, a missed delivery window, a planning decision made under uncertainty), then grounds it in data, then lifts back to the implication — that's the unified structure.
+**Framework — Setup, Stakes, Shift, Stake-out (4-S structure):**
+- **Setup:** Establish the current state and context in one sentence. No background sections, no market history.
+- **Stakes:** Name what is at risk if nothing changes. This is the tension that keeps attention.
+- **Shift:** Present the move being recommended. One clear action, not a range of options.
+- **Stake-out:** Show the delta — what changes at yes vs. what changes at no. Force the comparison.
 
-**Coaching signal:** Ask: Does the story exist to support the argument, or does the argument exist to justify the story? The former is persuasion; the latter is entertainment. For Dale's audience, the answer should always be the former.
+**Structural test:** Is each section doing narrative work (advancing the decision), or just listing (filling space)? If it's listing, it should be cut or converted.
 
----
+**Application for Dale:** His LinkedIn posts already operate on an implicit version of this structure when they work best. Making the Stakes explicit — naming what's at risk for his SC/AI audience if they don't act on an insight — is typically the underdeveloped element. The Setup is usually strong; the Stake-out (what changes at yes vs. no) is often missing entirely.
 
-### Insight 2 — Audience-Centered Communication: Strategic Narrative Over Content Volume (Fontana / margaretfontana.com, May 2026)
-
-**Source:** Margaret Fontana, "The Future of Storytelling in 2026: Why Strategic Narrative Matters More Than Ever," margaretfontana.com (May 2026)
-
-**Finding:** The dominant shift in 2026 audience engagement is the collapse of volume-based content strategy. Audiences are now selecting for **authenticity, expertise, and connection** — and actively filtering out high-frequency content that lacks those qualities. The most important structural insight: the strongest communicators are winning not by producing more, but by positioning leadership as visible voices through consistent narrative across platforms. PR has evolved from placement to **perception shaping** — building a coherent identity across every touchpoint. The brands (and leaders) that audiences remember are not the most prolific; they are the most narratively coherent. A secondary finding: documentary-style and human-centered content is outperforming produced advertising, because audiences gravitate toward real stories and behind-the-scenes perspectives over polished marketing.
-
-**Application for Dale:** Dale's positioning advantage — 24 years of supply chain practice plus AI builder — is precisely the "authentic expertise" audiences are now prioritizing. The risk is inconsistency: a post that sounds like a thought leader followed by one that sounds like marketing copy breaks narrative coherence. Every piece of public writing should reinforce the same core identity: practitioner-turned-builder who has lived the problems he's now solving.
-
-**Coaching signal:** When reviewing LinkedIn content, ask: Does this piece fit the same identity as the last three posts? If a reader saw only this post, would they get an accurate sense of who Dale is? If not, the narrative coherence is at risk.
+**Coaching signal:** For any executive presentation or persuasive memo review: look for whether the document gives the reader two futures to compare. If both futures aren't visible, the decision can't be made — the reader will defer.
 
 ---
 
-### Insight 3 — Analytical Report Clarity: AI Summarization Is Raising the Bar for Human Reports (Mendler / adammendler.com, May 2026)
+### Insight 2 — Audience-Centered Writing: "Context-Aware" is the 2026 Upgrade to Personalization (MHC Automation, May 2026)
 
-**Source:** Adam Mendler, "How Smart Technology Is Changing Executive Decision-Making," adammendler.com (May 2026); citing Wharton multi-year study (82% of enterprise leaders now use generative AI weekly, 75% report measurable ROI)
+**Source:** "26 Communication Trends for 2026," MHC Automation blog (May 2026 — enterprise communications research synthesis)
 
-**Finding:** AI-assisted summarization tools are now embedded in financial services, enterprise sales, and executive reporting workflows. The direct effect: executives are receiving more distilled, faster-turnaround analytical summaries than ever before. The indirect effect is less discussed but more important — **AI-generated summaries are raising the implicit benchmark for human-written analytical reports**. When an executive can receive a clean AI summary of a 40-page market analysis in under 60 seconds, a human-written report that takes 10 minutes to reach its point loses in comparison — not because the human analysis is worse, but because the delivery format fails the decision-making context. The Wharton finding (82% weekly AI use) confirms this is not a future risk; it's the current operating environment.
+**Finding:** In 2026, the leading edge of audience-centered communication has shifted from *personalization* (adapting content to individual demographics) to *context-aware, adaptive communication* — adapting content to where the reader is in a decision journey, not just who they are. The distinction matters for business writing: a supply chain CIO reading a LinkedIn post on Monday morning is in a different decision context than the same person reading a technical memo on Thursday afternoon. The same information lands differently based on: the moment, the channel, the stakes visible to the reader at that instant, and what they've already been exposed to.
 
-**Application for Dale:** Analytical reports produced at Quantix or reviewed by Iris should pass the "30-second test" in a world where AI summaries are the comparison point. This means: (1) Decision statement in the first paragraph — not buried; (2) Recommendation before evidence — not after; (3) Executive summary that is actually a summary, not an abstract. The standard for human reports has quietly shifted from "thorough" to "immediately actionable."
+**Secondary finding — Research as the foundation of relevance:** The report identifies "Relevance Starts with Customer Research" as a distinct trend. Leading communicators in 2026 build audience models *before* writing — not demographic profiles, but understanding what decisions the audience is currently navigating, what risks they're carrying, and what would make their job easier today. This is a more operationally grounded version of the Anett Grant "start with the audience's reality" principle.
 
-**Coaching signal:** When reviewing analytical content, apply the AI-summary test: If an AI summarized this document, would the summary contain the decision, the recommendation, and the key risk? If the answer is yes, the human report is structurally sound. If the AI summary would need to guess at those elements, the report needs restructuring before refinement.
+**Tertiary finding — Embedded help:** High-performing communication in 2026 doesn't just inform — it reduces friction at the decision point. The concept of "help embedded across the journey" translates to written business communication as: the best documents anticipate the reader's next question and answer it in the same breath, rather than forcing a follow-up email.
 
----
+**Application for Dale:** The context-aware frame is directly applicable to LinkedIn content strategy. Different posts should be calibrated to different decision contexts his audience might be in: evaluating AI investment, managing a tech integration failure, preparing a board presentation on supply chain risk. Each context requires a different entry point, even if the underlying insight is the same.
 
-## 2026-05-29 PM
-
-### Insight 1 — Storytelling: The Three-Process Narrative Structure (Penn LPS / McKinsey, April 2026)
-
-**Source:** Penn LPS Online, citing McKinsey & Company research on narrative strategies for professional communication (April 15, 2026)
-
-**Finding:** Across business and professional contexts, effective storytelling consistently follows three core processes: **staging** (establishing audience context and stakes), **plot progression** (building tension through challenge or conflict), and **cognitive tension** (the moment of resolution that demands a decision or action). McKinsey survey data shows business professionals overwhelmingly rate public speaking with an emphasis on storytelling as the #1 foundational skill leaders need to master this decade. The key differentiator is using character and conflict — not just data — to capture attention and invest the audience in the outcome.
-
-**Application for Dale:** Supply chain reports and LinkedIn posts benefit from this structure. Staging = the market condition or operational reality the reader is already living. Plot progression = the problem or gap that current approaches leave unresolved. Cognitive tension = the insight or recommendation that demands a response. This maps directly onto F-A-J (Fact → Analysis → Judgment) but adds the emotional hook that makes the analysis memorable.
-
-**Coaching signal:** When reviewing a report or post, check: Does it establish stakes before presenting data? Does conflict appear before resolution? If no, it's educating, not persuading.
+**Coaching signal:** When reviewing content, ask: What decision context is the reader likely in right now? Does this document meet them there? If the answer requires knowing more about the audience's current situation, that's a gap worth surfacing in the review.
 
 ---
 
-### Insight 2 — Audience-Centered Communication: The Objective-First Architecture (Medium / Mack, May 2025)
+### Insight 3 — Clarity in Analytical Reports: Separating Findings from Analysis as a Structural Discipline (ASK Training, May 2026)
 
-**Source:** Britney N. Mack, "From noise to notable: The 7 pillars of an audience-centered communication strategy," Medium (July 2025)
+**Source:** "Business Writing Guide — Professional Report Writing How-To," ASK Training Singapore (published ~May 2026 — professional training practitioner content)
 
-**Finding:** The foundational error in most business writing is starting from the writer's knowledge rather than the audience's decision. Effective audience-centered communication requires a pre-writing architecture: (1) **Define the behavioral objective** — what specific action or shift should result from this message? (2) **Map the audience's current mental model** — what do they already believe, and what resistance will they bring? (3) **Build the message to close the gap** between their starting point and the desired endpoint. The key metric is not comprehension but **behavioral response** — did the audience do or decide something different as a result?
+**Finding:** A detailed practitioner guide on professional report writing isolates a specific structural failure that degrades clarity in analytical reports: **conflating findings with analysis**. When these are mixed — presenting what happened and why it matters in the same paragraph — readers lose the ability to distinguish between verifiable fact and the author's interpretation. This creates ambiguity about whether they are agreeing with a fact or accepting a judgment call.
 
-**Application for Dale:** Before drafting any report or post, name the one behavioral change you want the reader to make. Write to that outcome, not to display your knowledge. For LinkedIn: "I want readers to reconsider how they evaluate AI vendors" is a behavioral objective. "I want to share what I know about AI" is not.
+**The fix is structural, not editorial:** Separate *Findings* (what happened, quantified and verifiable) from *Analysis* (why it matters, what it implies, what risk or opportunity it represents). This maps directly to the F-A-J chain already in the Iris knowledge base, but the ASK Training framing adds a useful practical test: *"Can this sentence be verified by a third party who has access to the same data?"* If yes, it's a finding. If no, it's analysis. The test prevents the most common error in analytical reports — dressing analysis up as finding to make it seem more authoritative.
 
-**Reinforces:** Anett Grant's principle — influence, don't just educate. The behavioral objective test is a concrete pre-writing gate.
+**Secondary finding — The senior reader test:** A well-structured analytical report should allow a senior reader to understand the situation and required action *without reading past the executive summary*. This is not just a convenience feature — it is a credibility signal. If the executive summary requires context from the body to make sense, the document has failed the structural test.
 
----
+**Coaching principle:** "Good business writing removes friction from work, turning communication from a potential obstacle into a reliable tool for progress." The goal of an analytical report is not to document everything the analyst did — it is to give the decision-maker the clearest possible view of a situation so they can act with confidence.
 
-### Insight 3 — Analytical Report Clarity: Strategic Clarity as the #1 Executive Performance Constraint (LHH, March 2026)
+**Application for Dale:** When reviewing analytical content (pilot reports, AI deployment analyses, supply chain assessments), apply the finding/analysis separation test paragraph by paragraph. Mixed sentences should be flagged and split. The fix is almost always simple — one sentence becomes two. The credibility gain is disproportionate to the effort.
 
-**Source:** LHH 2026 View from the C-Suite Report (March 26, 2026, n=large international executive sample)
-
-**Finding:** More than one quarter of C-suite leaders cite **lack of strategic clarity** as the top limiter of their organizational effectiveness — ranking above AI skill gaps, talent retention, and succession planning. Ineffective decision-making processes also rank among the top performance constraints for the second consecutive year. This data reframes the stakes of analytical report writing: unclear reports are not just poorly written documents, they are the source of the clarity gap executives report as their primary bottleneck. Separately, MIT Sloan (May 2026) found that most organizations misapply AI to decision support precisely because analytical outputs lack the **objective clarity** needed to distinguish narrow decisions (optimizable) from wide decisions (requiring deliberation and alignment).
-
-**Application for Dale:** Analytical reports should front-load the decision type and scope before presenting analysis. Add a one-sentence "Decision Frame" at the top of every report: "This is a [narrow/wide] decision. The recommendation below is [actionable now / requires stakeholder alignment before action]." This single addition converts a report from information delivery to executive clarity.
-
-**Coaching signal:** When reviewing analytical reports, ask: Can the reader identify within 30 seconds what decision this enables and what kind of decision it is? If no, the report has a structural clarity problem regardless of content quality.
+**Coaching signal:** In report review: highlight any sentence that contains both a fact and its interpretation. These are the clarity leaks. Split them cleanly — fact in one sentence, interpretation in the next — and the report's credibility immediately improves.
 
 ---
 
-## 2026-06-01 AM
+## 2026-06-02 AM
 
-### Insight 1 — Executive Communication: The CEO as Always-On Chief Communicator (Forbes / Abrahamsson, May 2026)
+### Insight 1 — Executive Communication: Silence Destroys Credibility During Organizational Change (Forbes / Wood, May 2026)
 
-**Source:** Pam Abrahamsson, "CEO As Chief Communicator: Why Leadership Communication Is Now A Core Executive Skill," Forbes Business Council (May 8, 2026)
+**Source:** Christina Wood, "Top Leader Communication Strategies In The Age Of Organizational Change," Forbes Communications Council (May 20, 2026)
 
-**Finding:** The "silent CEO" model is structurally obsolete. Edelman's 2026 Trust Barometer confirms that executive visibility is now a baseline stakeholder expectation — not a brand enhancement. Five forces are driving always-on demand for CEO voice: (1) misinformation velocity requires rapid, credible counter-messaging; (2) employees expect authentic communication or withhold loyalty; (3) purpose-driven organizations require leaders who can articulate values publicly; (4) digital channels have eliminated the distance between leader and audience; (5) mission and messaging must be co-built — you cannot communicate strategy you haven't defined. The sharpest finding: CEOs who delegate communication entirely to PR functions create a trust gap that PR alone cannot close, because audiences now expect the person, not the function.
+**Finding:** A Behavioral Sciences study confirms that fear and uncertainty escalate exponentially when leaders go silent during organizational disruption. The counterintuitive finding: the most effective crisis communicators openly shared their own struggles, asked questions publicly, and demonstrated humility — while simultaneously providing realistic perspective and maintaining visible presence. The worst leadership response to uncertainty is canceling regular communication touchpoints (1:1s, team meetings) because silence pushes employees to third-party channels for information, accelerating speculation and eroding trust. Key principle: **transparency + presence > certainty**. Leaders do not need to have all the answers to communicate effectively. They need to show they are present, aware, and actively engaging with the uncertainty alongside their team.
 
-**Application for Dale:** As a founder-operator, your voice IS the brand at this stage. LinkedIn posts, reports, and public writing should come with a clear authorial perspective — not institutional hedging. The practitioner angle (24 years in SC + AI builder) is exactly the "person behind the mission" that audiences now crave. Delegating tone to boilerplate signals absence, not professionalism.
+**Rate/consistency/tone framework:** Effective organizational communication requires governing four variables simultaneously — communication *rate* (how often), *consistency* (same message across channels), *tone* (calibrated to current emotional climate), and *channel* (matching the gravity of the message to the medium). Most communication failures in disruption scenarios fail on *rate* and *consistency*, not on content quality.
 
-**Coaching signal:** When reviewing Dale's content, check: Is there a point of view here that only Dale could hold? If it reads like it could have been written by anyone, the CEO voice is missing.
+**Application for Dale:** For supply chain operators dealing with AI disruption, trade volatility, or organizational change, this pattern is highly familiar. Content that models the "present and engaged" leadership voice — acknowledging uncertainty while framing a path forward — resonates with the audience Dale is writing for. A LinkedIn post that says "here's what I don't know yet, and here's how I'm thinking about it" is structurally stronger than one that projects false certainty.
 
----
-
-### Insight 2 — Supply Chain Leadership Communication: Clarity over Urgency, Transparency Builds Trust (Inbound Logistics, May 2026)
-
-**Source:** "10 Supply Chain Leadership Lessons for Today's Logistics Leaders," Inbound Logistics (May 27, 2026)
-
-**Finding:** A practitioner survey of supply chain leaders surfaced two communication findings worth internalizing: (1) **Lead with clarity, not urgency.** Under disruption, leaders default to fast and urgent messaging, but teams perform better when they understand the *why* behind decisions — the tradeoffs and priorities, not just the action required. Urgency without clarity drives compliance without alignment. (2) **Build trust through transparency, not just visibility.** Supply chain organizations invest heavily in shipment tracking and operational visibility, but the higher-value form of transparency is *informational* — sharing constraints, uncertainties, and decision logic openly with teams, partners, and customers so everyone can act with confidence. Leaders who treat transparency as a communication choice, not just a technology feature, create more accountable organizations.
-
-**Application for Dale:** In analytical reports and LinkedIn content, the "why behind decisions" frame is highly resonant for supply chain leaders. Posts or reports that explain decision logic — not just outcomes — speak directly to what this audience values. Transparency framing is also an underused hook: "Here's what we don't yet know and how we're acting anyway" is more credible than "here's our confident recommendation."
-
-**Coaching signal:** When reviewing SC-focused content, check: Does the author explain the tradeoffs, or only the conclusion? If only conclusion, the piece educates but doesn't build trust.
+**Coaching signal:** When reviewing change-context content, ask: Does the author claim more certainty than the situation warrants? If yes, credibility risk. The most trusted communicators in disruption name what they don't know.
 
 ---
 
-### Insight 3 — Persuasion Science: Anchoring and Choice Architecture in Executive Writing (Forbes / Meade, May 2026)
+### Insight 2 — Supply Chain Leadership Communication: Translating Operations into Board-Level Language (Gartner / Shipwell, May 2026)
 
-**Source:** David Meade, "The Science Of Persuasion In Business," Forbes Business Council (May 14, 2026)
+**Source:** Lessons from the 2026 Gartner Supply Chain Symposium/Xpo, via Shipwell blog (May 2026); referencing Gartner research (n=enterprise supply chain leaders)
 
-**Finding:** Two evidence-based persuasion mechanisms directly applicable to executive writing: (1) **Anchoring shifts the decision frame before the decision is made.** Setting a high reference point (a bold projection, a large-scale comparison, an aspirational benchmark) causes audiences to evaluate subsequent options relative to that anchor rather than from zero. In Snickers' case, an 18-unit anchor drove 80% higher sales even when most buyers purchased far fewer. In executive writing, leading with the full scale of a problem or opportunity before presenting a scoped recommendation makes the recommendation feel proportionate rather than timid. (2) **Less choice drives more decisions.** The Iyengar jam study (6 options vs. 24) and subsequent replications across product categories confirm that executive audiences faced with too many options defer or avoid deciding. Reports and memos that present three viable paths outperform those presenting six. Recommendation-first documents outperform option-array documents because they reduce cognitive load and move the audience toward a decision rather than deeper into analysis.
+**Finding:** The 2026 Gartner Supply Chain Symposium surfaced a communication gap that is becoming a strategic liability: **only 17% of AI pilots reach full-scale deployment**, and a primary bottleneck is the failure to translate operational pilot results into board-level strategic language. Leaders who can bridge freight data → macroeconomic risk mitigation frame unlock organizational investment; those who present only operational metrics stay stuck in pilot mode. The Gartner bimodal roadmap (Mode 1: embed AI in existing processes / Mode 2: redesign operating model as AI-native) also has a communication implication — leaders must communicate which mode they are in, because the decision criteria, timelines, and risk tolerance differ fundamentally. Presenting Mode 2 work with Mode 1 metrics (efficiency, cost per unit) fails the board-room test.
 
-**Application for Dale:** Both mechanisms apply directly to LinkedIn posts and analytical reports. For posts: open with a bold anchor (the scale of the SC disruption, the cost of the current approach) before presenting the insight. For reports: limit options to three or fewer and sequence them so the recommended path is evaluated against clearly less desirable alternatives, not as an equal among equals.
+**Secondary finding:** 77% of supply chain leadership teams struggle to scale AI tools past pilot. The gap is not technology competence — it is the inability to build organizational alignment through communication that translates what the technology does into what the business gains.
 
-**Reinforces:** Anett Grant's "lead with your conclusion" principle. The recommendation-first structure isn't just audience-centered — it's neuroscience-aligned. Decision fatigue and choice paralysis are the enemy of executive action.
+**Application for Dale:** This directly reinforces Dale's positioning. The rare combination of deep SC domain expertise and AI systems builder means Dale can write from both sides of this translation gap. Content that models how to frame AI supply chain investments for board audiences — not just technical audiences — fills a genuine communication void for his target readers. A LinkedIn post structured as "here's how your board reads SC AI investments, and here's why most pilots don't survive that conversation" would be high-resonance for the CIO/CEO audience.
+
+**Coaching signal:** When reviewing SC/AI content, ask: Is this written for the operator or the board? If neither, it's in no-man's land. The highest-value SC communication translates fluently between both.
+
+---
+
+### Insight 3 — Business Writing Impact: Audience Awareness is the Root Skill — Everything Else Depends on It (Hurley Write, May 2026)
+
+**Source:** "12 Business Writing Skills Examples That Matter," Hurley Write (published ~May 2026)
+
+**Finding:** A practitioner analysis of business writing failures in technical, regulated, and cross-functional environments identifies **audience awareness** as the foundational skill that determines whether all other writing skills (clarity, conciseness, structure) actually land. The mechanism: most workplace writing problems stem from writers producing documents that reflect *what the writer knows* rather than *what the reader needs*. The failure is not stupidity or carelessness — it is a default orientation toward knowledge display rather than reader service. Concrete example: an analyst writing to finance leadership should surface variance drivers, financial impact, and required action in the opening lines. The same analyst writing to peers may include methodological detail. The skill is not simplification for its own sake — it's *purposeful calibration* to the decision the reader is making.
+
+**Structural insight:** Business writing quality is not cosmetic. In regulated and cross-functional environments it directly affects: approval speed, compliance confidence, stakeholder alignment, and execution fidelity. Weak writing creates rework, delay, and risk — it is an operational cost, not just a style issue. Strong writing reduces friction throughout the decision-making chain.
+
+**Reinforcing principle:** "Good writing is situational. The right approach for a deviation report is not the right approach for an executive email. The core skills stay consistent, but the application depends on audience, purpose, and consequence."
+
+**Application for Dale:** When reviewing any written content, the first check should always be: Who is reading this, and what decision are they making? Dale's LinkedIn audience is supply chain executives making decisions about how to allocate attention, trust, and investment. Every post should be calibrated to *that* decision, not to demonstrating expertise.
+
+**Coaching signal:** Ask before reviewing any document — "Who is the decision-maker and what do they need to do differently after reading this?" If the answer is fuzzy, the writing will be fuzzy. Sharpen the audience definition first, then evaluate the content.
 
 ---
