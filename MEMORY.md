@@ -242,6 +242,18 @@ Key institutionalized insights from this period (all IMfA: YES unless noted):
 - **Frame Transformation in Customer Outcomes (6-03 AM, SAP/NASCES25)**: SC leaders report in internal metrics; boards need customer outcome language. "If you can't name the problem, don't buy the technology." IMfA: YES.
 - **Lead with Clarity, Not Urgency — second sourcing (6-03 AM, Inbound Logistics)**: Reinforces June 1 AM entry. Urgency without clarity = noise. Treat exceptions as communication opportunities. IMfA: MAYBE (reinforcing).
 
+### June 3 PM Summary (promoted 2026-06-04; full entries in memory/knowledge-updates.md)
+
+- **Narrative Gaps Are a Risk Management Problem (6-03 PM, Be Brilliant Presentation Group)**: Poor narrative structure is measurable organizational risk, not just suboptimal communication. If a board member must work to find the decision point, that is a structural failure. Review as alignment audit: "Where is the work being done — by the author or the reader?" IMfA: YES.
+- **13-Stakeholder Architecture / Committee-Aware Writing (6-03 PM, Pedowitz Group/6sense 2025)**: Enterprise decisions average 13 stakeholders; each needs a different entry point. Structural implication: exec summary = committee-level layer; body sections = persona-specific readers. For LinkedIn: one strategic insight + one practitioner implication reaches more of the committee. IMfA: YES.
+- **Niche Expert Voice Is the 2026 Differentiating Signal (6-03 PM, MHC Automation)**: AI raised the floor — average writing is now table stakes. Niche, deeply credentialed, clearly personal content is the differentiating tier. "Could a well-prompted AI have written this?" If yes, inject one specific personal observation. IMfA: YES (reinforcing — "only Dale could have written this" test confirmed across multiple sources).
+
+### June 4 AM Summary (promoted 2026-06-04; full entries in memory/knowledge-updates.md)
+
+- **Proof Displaces Promise — Evidence Is the New Currency (6-04 AM, Aspect 2026)**: Stakeholders no longer accept stated intentions as evidence of credibility; they want measurable outcomes and independent validation. "Declare less; demonstrate more." One coherent strategy + adapted language per audience (stable core / flexible surface) — NOT vice versa. Internal audiences = reputation infrastructure; workforce trust determines whether transformation lands. Review test: "Is this announcing an intention or documenting a result?" IMfA: YES.
+- **Transformation Fails on Trust, Not Technology (6-04 AM, SAP/NASCES25)**: Three-pillar protocol: (1) Name the problem precisely, (2) Tie to measurable outcomes, (3) Reframe displacement anxiety. Candor about setbacks sustains engagement better than curated success narratives. For SC AI content: does it explain what the change means for the person doing the work, not just the person authorizing it? IMfA: YES (second sourcing of May 18 entry; transformation-trust mechanism confirmed).
+- **AI Has Made Average Writing Invisible — Specificity Is the Only Differentiator (6-04 AM, MHC Automation/Pryor/isobelcoughlan.com)**: "Knowing exactly who the content is for, beyond broad labels" is the 2026 content quality marker. 7 C's recalibrated: Concreteness is now the primary differentiator (abstract is free; concrete is scarce). "Could AI have written this?" confirmed as durable heuristic across multiple sources. Concreteness audit: ≥2–3 specific, named, non-generic elements per document. IMfA: YES (reinforcing; specificity-as-differentiator confirmed across ≥3 independent sources — promote to DC tier).
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
 Archive of entries through 2026-03-30: `memory/knowledge-updates-archive-2026-Q1.md`
@@ -250,4 +262,4 @@ Archive of April 28–May 1 PM entries: `knowledge-updates-archive-2026-Q2.md` (
 Archive of May 4–14 PM detailed entries: `memory/knowledge-updates-archive-2026-Q3.md` (archived 2026-05-18)
 Archive of May 13 PM–May 28 PM detailed entries: `memory/knowledge-updates-archive-2026-Q3b.md` (archived 2026-05-29)
 Archive of May 28 PM–June 3 AM detailed entries: `memory/insights-archive-2026-Q3c.md` (archived 2026-06-03)
-knowledge-updates.md contains **June 3 AM entries** (current; June 2 PM + June 3 AM promoted to MEMORY.md 2026-06-03).
+knowledge-updates.md contains **June 3 PM + June 4 AM entries** (current; June 3 PM + June 4 AM promoted to MEMORY.md 2026-06-04).
