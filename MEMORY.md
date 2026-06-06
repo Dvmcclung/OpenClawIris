@@ -42,70 +42,13 @@ Both included in nightly_backup.py.
 _Entries through 2026-03-23: archived to `memory/insights-archive-2026-Q1.md`_
 _Full March 25–31 entries: see `memory/insights-archive-2026-Q1.md` for expanded versions._
 
-### March 25–31 Summary (compressed 2026-04-15; full entries in insights-archive-2026-Q1.md)
-- **ESG as Required Register (3-25)**: 67% of CSCOs formally accountable for ESG KPIs; Dale's ops+AI+ESG cluster is distinctive. IMfA: YES.
-- **AI Persuasion Parity (3-25)**: LLMs match humans in standard persuasion; human advantage = transparent authority + experience specificity. "AI can construct arguments; it cannot have had the experience." IMfA: YES.
-- **TL Is a Pricing Strategy (3-26)**: 60% of B2B buyers pay premium for strong TL. Every hedged post is a pricing risk. IMfA: YES.
-- **AI Search Overtakes Google (3-26)**: 34% of B2B leads via AI search vs. 30% Google. Authority signals, not keywords; same clarity standard serves both. IMfA: YES.
-- **Message vs. Intent Clarity (3-27)**: Dual-clarity test — (1) what does it mean? (2) what should reader do/decide? If #2 is unclear, the communication failed. IMfA: YES.
-- **ESG Credibility Trap (3-27)**: Sustainability language without operational causality erodes trust. Any claim where narrative outpaces operational grounding triggers the same trap. IMfA: YES.
-- **Making Uncertainty Explicit (3-27)**: Leaders who name uncertainty + show scenario branches + define decision triggers earn more trust than those who project confidence. IMfA: YES.
-- **Less Noise, More Meaning (3-30)**: More content no longer produces more impact. One central claim per post; evidence before capability claims. IMfA: YES.
-- **Scenario Readiness (3-30)**: C-suite expects scenario branches, not single-point strategy. Diagnostic: does this acknowledge the reader's real uncertainty? IMfA: YES.
-- **Storytelling as Career Skill (3-30 PM)**: AI made accuracy cheap; narrative is the differentiator. Open from the reader's problem, not the writer's knowledge. IMfA: YES.
-- **Hidden Buyer Economy (3-31)**: 55% of B2B decision-makers research independently; low engagement ≠ low influence. One strong post > five mediocre. IMfA: YES.
-- **CSCO Register Shift (3-31)**: Boards selecting commercial/P&L/transformation profiles. Diagnostic: does this read like an operational update or an enterprise-strategic argument? IMfA: YES.
-- **Smart Brevity (3-31)**: Two cognitive reflex questions answered within first two sentences — "What is it about?" + "Is it relevant to me?" Under 300 words; 1-2 sentence paragraphs. IMfA: YES.
+### March 25 – May 1 Archive (full entries: insights-archive-2026-Q1.md + insights-archive-2026-Q2.md + knowledge-updates-archive-2026-Q2.md)
 
-### April 1–10 Summary (compressed 2026-05-05; full entries in memory/insights-archive-2026-Q2.md)
-
-- **Outcomes Over Understanding / BLUF Root Reframe (4-01)**: Academic training rewards demonstrating reasoning; executive comms demands the opposite — conclusion first. Clarity is a credibility mechanism in AI-saturated environments. IMfA: MAYBE.
-- **SC Leaders as CEO Pipeline / Scenario Narrative (4-01)**: JRG Partners (Fortune 500 boards) — differentiating CEO-readiness credential = scenario narrative format. Diagnostic: "operational update or strategic narrative?" IMfA: YES.
-- **Volume as Liability / Communication Readiness (4-01)**: High-volume content is a liability signal in AI-saturated environments. "Communication readiness" = adapting messaging at pace while maintaining governance and reader trust. IMfA: YES.
-- **AI Search > Google / Machine-Readable Authority (4-02)**: 34% B2B leads via AI search > 30% Google. Machine-readable authority standard: quotable declarative claims extractable as expertise signals. IMfA: YES.
-- **SC AI Adoption = Trust Infrastructure (4-02)**: F-A-J chain applied: orgs that show data → meaning → recommendation build durable trust and accelerate AI adoption; raw Judgment delivery creates trust deficits. IMfA: YES.
-- **TL Drives Deal Decisions / Consistency > Volume (4-02)**: 60% of B2B buyers cite TL in deal decisions. Consistency compounds over time; burst publishing creates impressions only. "Post with refinements" > "hold until perfect." IMfA: YES.
-- **Machine-Readable Authority (4-03)**: 75% of AI-cited content in Google top 12. Authority signals drive citation, not keyword density; specific consistent authority position is the mechanism. IMfA: YES.
-- **SC Communication = Customer Outcomes (4-03)**: Internal metrics → customer outcome language for executive/board audiences. "If you can't name the problem, don't buy the technology." IMfA: YES.
-- **7 C's — Clarity = Predictability of Next Action (4-03)**: Most under-applied = Consideration (anticipating reader needs). Pre-flight gate: state document purpose in one sentence before drafting. IMfA: MAYBE.
-- **Evidence Equity Collapse / Specificity Is the Trust Signal (4-03)**: "Is there anything only someone with Dale's experience could have written?" If not, the draft does what AI does. IMfA: YES.
-- **Stakeholder Message Architecture / One Truth, Many Frames (4-03)**: Four roles (operator/manager/executive/risk reviewer) each need distinct proof, framing, CTA. "Message uniformity" explains why deals stall. IMfA: YES.
-- **Five-Component Executive Summary / Projected Impact (4-03)**: Problem → Findings → Conclusions → Recommendations → Projected Impact. Fifth element is what most writers omit. IMfA: YES.
-- **Executive Presence Traps / Confidence Suppresses Information (4-03)**: HBR — having answers, projecting confidence, improving ideas all backfire at senior levels. Strongest senior communication = thinking-in-progress, not conclusions-for-ratification. IMfA: YES.
-- **Decision Speed = #2 SC KPI (4-03)**: Blue Yonder — "faster, better decision-making" moved from #7 to #2. Only 20% can respond to geopolitical disruption within 24h. Pre-communicated decision frameworks close the gap. IMfA: YES.
-- **Communication as Risk Reduction (4-03)**: C-suite question shifted to "Did this reduce risk? Did it change behavior?" Ambiguity = risk. AI-as-amplifier (not automation) is correct 2026 framing. IMfA: YES.
-- **"What Decision Should This Inform?" — Pre-Writing Gate (4-06)**: Ask before drafting, not during review. If unanswerable, document is not ready to write. Credibility formula: specific action + credible timeline + update cadence. IMfA: YES.
-- **Align Internally Before Speaking Externally (4-06)**: SC dispute rule — internal fragmentation is the escalation driver. Single unified message before any external communication. IMfA: YES.
-- **"Progress Over Polish" / Crisis Update Rule (4-06)**: "Communications doesn't fix operational failures — it explains them." Before polishing language, ask "Is there real progress to report?" IMfA: YES.
-
-### April 7–10 Entries (compressed 2026-04-20; full entries in memory/insights-archive-2026-Q2.md)
-- **TL Quality Gap / 17%/75% Rule (4-07)**: Only 17% of TL rated "very good"; 75% prompted new research; "fewer, better pieces" wins. IMfA: YES.
-- **Practice-Derived Judgment (4-07)**: AI commoditized generic TL; earned authority = specificity only experience produces. "AI cannot replicate practice-derived judgment." IMfA: YES.
-- **Bifurcated Tariff Audience (4-07)**: 28% stockpiling vs. 27% lean; split audiences need decision logic, not advocacy. IMfA: YES.
-- **Proof Over Promises (4-07)**: Executive credibility shifted to present-tense evidence; future claims without proof erode trust. Review: "demonstrating delivery or declaring intent?" IMfA: YES.
-- **Resilience Is Baseline (4-07)**: KPMG — "Total Value" replaces "resilience"; "decision quality" is the new differentiating metric. IMfA: YES.
-- **Story as Credibility Transfer (4-08)**: Stories 7x more memorable; mechanism = neurological trust, not recall. Review: at least one concrete story moment per piece. IMfA: YES.
-- **Narrative Legitimacy (4-09)**: Three-dimension AI comms: contextual judgment + relational attunement + narrative legitimacy. Practitioner standing must be cited explicitly. IMfA: YES.
-- **SCQA + MECE Architecture (4-09)**: Full report architecture: SCQA entry → BLUF conclusion → MECE supporting arguments. "Think bottom up, communicate top down." IMfA: YES.
-- **Hollow Mythology (4-09)**: Storytelling/story/narrative are distinct. Misalignment between events and meaning structure = detected inauthenticity. IMfA: YES.
-- **Storytelling as Strategic Infrastructure (4-10)**: "Storyteller" job postings doubled; change story is transformation infrastructure, not afterthought. IMfA: YES.
-- **Audience-First Narrative Arcs (4-10)**: Arc format = audience knowledge state, not data complexity. Supply chain executives → inverted arc default. IMfA: MAYBE.
-- **Pyramid Principle as Architecture Rule (4-10)**: Every section leads with its conclusion; section-level BLUF, not just document-level. IMfA: MAYBE.
-### April 13–May 1 Summary (compressed 2026-05-18; full entries in memory/insights-archive-2026-Q2.md and knowledge-updates-archive-2026-Q2.md)
-
-Key institutionalized insights from this period (all IMfA: YES unless noted):
-- Coverage vs. Connection: posts that reframe how SC execs think > posts that describe trends
-- TL as AI Search Asset: 34% B2B leads via AI search; 60% pay premium for strong TL; 55% hidden buyers
-- Narrative Infrastructure: LinkedIn is a compounding credibility stage; each post is a structural deposit
-- Decision Speed Crisis (#2 SC priority, Blue Yonder 2026): 20% of orgs respond to disruption in 24h; 38% take >1 week
-- Catalyst/Insider Hybrid: Dale's archetype; review flag = "does this build Catalyst/Insider trust or drift to Educator?"
-- KNOWN/CHANGING/STABLE Framework: three-sentence structure for leading through uncertainty
-- Language Audit / Executive Frame Test: use the decision-maker's value language; executives evaluate in performance/alignment/visibility terms
-- MECE Structural Diagnostic: governing thought at top, mutually exclusive + collectively exhaustive supporting arguments
-- Inside-Out vs. Outside-In: flag opening sentences that establish the writer's world vs. the reader's
-- Strategic Translator Role: Dale translates in both directions (AI→human action; SC ops→AI requirements)
-- Pre-Purchase Confirmation Model: published content is validation evidence, not persuasion vehicle
-- Human Voice as Competitive Advantage: "polished but generic" = voice has been lost; authenticity is the scarcest asset
+All IMfA: YES unless noted. Key institutionalized insights:
+- ESG as Required Register; AI Persuasion Parity; TL Is a Pricing Strategy; AI Search > Google (34% B2B); Hidden Buyer Economy (55%); CSCO Register Shift; Smart Brevity (300 words, 1-2 sentence paragraphs); Message vs. Intent Dual-Clarity Test; Making Uncertainty Explicit
+- BLUF/Conclusion-First as credibility mechanism (AI-saturated environments); SC Leaders as CEO Pipeline (scenario narrative format); Volume as Liability / Communication Readiness; Machine-Readable Authority; F-A-J = Trust Infrastructure; Five-Component Executive Summary (add Projected Impact); Decision Speed = #2 SC KPI (Blue Yonder 2026); Communication as Risk Reduction; "What Decision Should This Inform?" Pre-Writing Gate
+- 17%/75% TL Quality Rule; Practice-Derived Judgment; Proof Over Promises; Total Value replaces Resilience (KPMG); Story as Credibility Transfer (7x); SCQA + MECE Architecture; Storytelling as Strategic Infrastructure; Pyramid Principle = section-level BLUF
+- Coverage vs. Connection; Narrative Infrastructure (LinkedIn = compounding stage); Catalyst/Insider Hybrid (Dale's archetype); KNOWN/CHANGING/STABLE Framework; MECE Structural Diagnostic; Inside-Out vs. Outside-In opening test; Strategic Translator Role (Dale: AI↔human, SC ops↔AI requirements); Pre-Purchase Confirmation Model; Human Voice as Competitive Advantage
 
 ### May 4–8 Summary (compressed 2026-05-11; full entries in memory/insights-archive-2026-Q2.md)
 
@@ -254,6 +197,12 @@ Key institutionalized insights from this period (all IMfA: YES unless noted):
 - **Transformation Fails on Trust, Not Technology (6-04 AM, SAP/NASCES25)**: Three-pillar protocol: (1) Name the problem precisely, (2) Tie to measurable outcomes, (3) Reframe displacement anxiety. Candor about setbacks sustains engagement better than curated success narratives. For SC AI content: does it explain what the change means for the person doing the work, not just the person authorizing it? IMfA: YES (second sourcing of May 18 entry; transformation-trust mechanism confirmed).
 - **AI Has Made Average Writing Invisible — Specificity Is the Only Differentiator (6-04 AM, MHC Automation/Pryor/isobelcoughlan.com)**: "Knowing exactly who the content is for, beyond broad labels" is the 2026 content quality marker. 7 C's recalibrated: Concreteness is now the primary differentiator (abstract is free; concrete is scarce). "Could AI have written this?" confirmed as durable heuristic across multiple sources. Concreteness audit: ≥2–3 specific, named, non-generic elements per document. IMfA: YES (reinforcing; specificity-as-differentiator confirmed across ≥3 independent sources — promote to DC tier).
 
+### June 5 AM Summary (promoted 2026-06-05; full entries in memory/knowledge-updates.md)
+
+- **AI Search Is the Authority Gate / Hidden Buyer Economics (6-05 AM, Verified Communications Nov 2025)**: 34% of qualified B2B leads via AI search (ChatGPT/Perplexity/Claude) > 30% Google; 75% of AI-cited content ranks in Google top 12. 55% of B2B decision-makers are hidden buyers who evaluate TL independently. 60% pay premium for strong TL; only 17% rate existing TL "very good." Dale's LinkedIn = AI discoverability infrastructure; hidden buyers may track posts without ever engaging. Review test: "Is this post building Dale's authority signal as a SC+AI intersection practitioner?" IMfA: YES (second sourcing — confirms 34%/55%/17%/60% as stable 2026 stats).
+- **"Lead with Clarity, Not Just Urgency" — Practitioners Perform Better Understanding Why (6-05 AM, Inbound Logistics Jun 2026)**: Teams under disruption perform better when they understand priorities, tradeoffs, and the reasoning behind decisions — not just directives. Communication of *why* a change is made is as important as the change itself. Exceptions = communication opportunities (debrief and surface learnings). For Dale's AI content: name the friction explicitly rather than framing AI as pure efficiency play. Review: "Does this explain the why behind the recommendation, or just the what?" IMfA: MAYBE (reinforces Lead-with-Clarity principle from June 1 and 3; third sourcing — consider DC-tier promotion).
+- **Audience Empathy Is a Pre-Writing Discipline, Not a Post-Writing Check (6-05 AM, BigMoves/Geisheker Jun 2026)**: 2026 update: audience understanding must include the reader's *active decision context* — not just role but current worry state. Build a worry map, not a demographic profile. Deep customer empathy identified as the skill AI cannot replicate in communication strategy. Pre-write question: "What is this person worried about right now, and what one piece of information would meaningfully reduce that worry?" Posts opening with an audience-worry signal consistently outperform posts opening with topic statements. Review gate: "Does the opening signal that this document is written for someone in their specific situation?" IMfA: YES (operational upgrade to Anett Grant "start with audience's reality").
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
 Archive of entries through 2026-03-30: `memory/knowledge-updates-archive-2026-Q1.md`
@@ -262,4 +211,4 @@ Archive of April 28–May 1 PM entries: `knowledge-updates-archive-2026-Q2.md` (
 Archive of May 4–14 PM detailed entries: `memory/knowledge-updates-archive-2026-Q3.md` (archived 2026-05-18)
 Archive of May 13 PM–May 28 PM detailed entries: `memory/knowledge-updates-archive-2026-Q3b.md` (archived 2026-05-29)
 Archive of May 28 PM–June 3 AM detailed entries: `memory/insights-archive-2026-Q3c.md` (archived 2026-06-03)
-knowledge-updates.md contains **June 3 PM + June 4 AM entries** (current; June 3 PM + June 4 AM promoted to MEMORY.md 2026-06-04).
+knowledge-updates.md contains **June 5 AM entries onward** (current; June 5 AM promoted to MEMORY.md 2026-06-05).
