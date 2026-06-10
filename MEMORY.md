@@ -215,6 +215,12 @@ All IMfA: YES unless noted. Key institutionalized insights:
 - **"Total Value" Replaces "Resilience" — Vocabulary Shift Is Strategic (6-08 AM, KPMG Apr 2026)**: Six KPMG frames: disruption is structural; Total Value > resilience; GBS centralization accelerating; AI from pilots to platform; new metrics = decision quality + adaptability; tariff volatility demands scenario modeling. Coaching: flag "resilience" as primary framing for C-suite audiences; reframe as Total Value (decision quality, adaptability, value realization). IMfA: YES (second sourcing — Total Value vocabulary shift confirmed stable).
 - **Authority-Led Synthesis Outperforms Volume — Quality > Frequency Is the 2026 Operating Model (6-08 AM, Dotin Academy Feb 2026)**: Content landscape bifurcated: volume strategies declining, authority-led performing. Three content types that perform: (1) specific POV + expert voice; (2) educational frameworks/playbooks; (3) refreshed assets with current evidence. The skill gap AI creates: synthesis (combining information into a perspective that didn't exist before) vs. aggregation. "Publish less, make every asset stronger." Coaching: "Is there a synthesis here, or just a summary?" IMfA: YES.
 
+### June 8 PM Summary (promoted 2026-06-09; full entries in memory/knowledge-updates.md)
+
+- **Storyteller as Core Competency — Cross-Functional Narrative Is the Scarce Skill (6-08 PM, Mondo Jan 2026)**: LinkedIn job postings with "storyteller" doubled since 2024. Cross-functional storytelling — translating what one team did into terms another can act on — is the hardest-to-find capability. Dale's SC+AI intersection position IS this skill. Story arc test: "Where is the tension? What changes for the reader at the end?" IMfA: YES.
+- **The Decision Test — Every Report Must Serve One Decision (6-08 PM, Analyst Academy Mar 2026)**: Most common failure = reports built around what the writer wants to show vs. what the reader needs to decide. Three-part structure: exec summary first (purpose/findings/recommendation in 2–3 sentences) → focused content (only data serving the stated objective) → action-oriented close (specific CTA, not vague suggestion). Clarity diagnostic: "Can this reader decide based only on these sentences?" IMfA: YES.
+- **Intelligence Writing Principles Strengthen F-A-J Chain (6-08 PM, Special Eurasia/DIA Sept 2025)**: Intelligence community standards for time-constrained decision-makers transfer directly to business reports. Three principles: (1) Front-load the essence — opening is the payload, not preamble; (2) Brevity beats volume — 500–600 words > 3,000 ambiguous ones; (3) Neutrality as credibility — clean F/A/J separation, no blending. F-A-J diagnostic: color-highlight F/A/J separately; mixed-color sentences are the clarity failures. IMfA: YES.
+
 ## Knowledge Update Log
 See `memory/knowledge-updates.md` for daily research findings.
 Archive of entries through 2026-03-30: `memory/knowledge-updates-archive-2026-Q1.md`
@@ -223,4 +229,4 @@ Archive of April 28–May 1 PM entries: `knowledge-updates-archive-2026-Q2.md` (
 Archive of May 4–14 PM detailed entries: `memory/knowledge-updates-archive-2026-Q3.md` (archived 2026-05-18)
 Archive of May 13 PM–May 28 PM detailed entries: `memory/knowledge-updates-archive-2026-Q3b.md` (archived 2026-05-29)
 Archive of May 28 PM–June 3 AM detailed entries: `memory/insights-archive-2026-Q3c.md` (archived 2026-06-03)
-knowledge-updates.md contains **June 8 AM entries onward** (current; June 5 PM + June 8 AM promoted to MEMORY.md 2026-06-08).
+knowledge-updates.md contains **June 8 PM entries onward** (current; June 8 PM promoted to MEMORY.md 2026-06-09).

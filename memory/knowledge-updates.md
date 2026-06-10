@@ -10,6 +10,139 @@ _Entries through June 3 AM promoted to MEMORY.md: 2026-06-03_
 
 ---
 
+## 2026-06-09 PM
+
+### Insight 1 — Business Storytelling: The SCQA Framework Is How Top Consulting Firms Prevent the "Slide 3 Cut" (Analyst Academy / BCG, March 2026)
+
+**Source:** "PowerPoint Storytelling: How McKinsey, Bain, and BCG Use the SCQA Framework to Create Elite Presentations," The Analyst Academy (published March 3, 2026); BCG case example cited.
+
+**Finding:** The dominant storytelling framework used by top consulting firms (McKinsey, Bain, BCG) is SCQA — Situation, Complication, Question, Answer. The structure solves a specific executive communication failure that the source names precisely: senior audiences are simultaneously listening, processing, and formulating their own responses. If a presentation doesn't orient them immediately, they will interrupt, cut off, or disengage before reaching the insight.
+
+**The four SCQA components (operational definitions):**
+- **Situation** — The current state, in terms the audience already agrees with. No controversy, no new information. Pure shared ground. "Disney is looking to grow revenue by opening a new park."
+- **Complication** — The change or constraint that creates tension. Why does a decision need to be made now? "They need to decide where." This is the narrative engine — without a complication, there is no story.
+- **Question** — The implicit or explicit question that follows from the complication. "Where should Disney open its next theme park?" This is the pivot that frames everything following.
+- **Answer** — The main body of the document. The recommendation, evidence, and supporting logic. The SCQA intro is the container; the Answer is the content.
+
+**The critical architectural rule:** The introduction (Situation + Complication + Question) should contain nothing new or controversial. The audience should agree with every word before reaching the Answer. If the intro requires convincing, the Answer is doomed — executives will spend the presentation re-litigating the framing rather than evaluating the recommendation.
+
+**Why this is a distinct advance over existing frameworks:** The SCQA framework adds something that F-A-J and What/So What/Now What don't explicitly include: the *Complication* layer. F-A-J assumes that the Fact establishes context. SCQA makes the tension explicit and names it as the reason the document exists. This is the difference between "here is what happened" and "here is why you need to make a decision *today*." The Complication is what transforms a report into a decision request.
+
+**The "Situation survives interruption" test:** The source names a boardroom reality that most writing guides ignore: executive presentations get interrupted. A well-SCQA'd presentation is one where the core recommendation is still retrievable even if the chair cuts off the presenter at slide three. Each section must stand on its own as well as inside the wider narrative.
+
+**Application for Dale:** The SCQA framework is a structural upgrade to the existing review protocol. For any analytical report, AI pilot summary, or executive memo: check whether the introduction follows the Situation → Complication → Question → Answer sequence. If the document opens with background history, methodology, or context without stating the Complication, it has buried the reason the document exists. Flag it and restructure.
+
+**New coaching signal:** The "Complication test" — every report should be able to answer in one sentence: "What changed or is at risk that makes a decision necessary right now?" If that sentence is absent from the introduction, the executive audience has no reason to prioritize the document. The Complication is what gives a report urgency without resorting to urgency language.
+
+**Alignment with existing frameworks:** Extends F-A-J and What/So What/Now What. SCQA maps as: Situation = background Fact, Complication = the analysis trigger, Question = framing, Answer = the full F-A-J chain. The SCQA intro wraps the existing frameworks in a narrative context that makes the executive's orientation cost-free.
+
+---
+
+### Insight 2 — Audience-Centered Communication: "Cognitive Load" Is the Mechanism That Determines Whether Analytical Content Gets Read (Cognitive Science / Business Writing, 2025-2026)
+
+**Source:** Synthesis from "Cognitive Load Theory in Business Writing," Power Writing (September 2025); "How to Measure Cognitive Reading Load to Improve Readability," ReadabilityFormulas.com (May 2025); and the Science Advances narrative arc research (staging, plot progression, cognitive tension).
+
+**Finding:** The reason dense analytical documents fail executive audiences is not a tone or language problem — it is a cognitive load problem. Cognitive load theory (developed by educational psychologist John Sweller) establishes that human working memory has a hard capacity limit. When a business document places excessive cognitive demand on the reader — through jargon, convoluted structure, too many concurrent findings, or ambiguous framing — comprehension and decision-making both degrade. A key finding from the ReadabilityFormulas.com synthesis: when writers overload readers with too much information at once, comprehension drops by approximately 50%.
+
+**The three types of cognitive load — applied to business writing:**
+- **Intrinsic load** — The inherent complexity of the subject matter. For SC/AI analytical content, this is unavoidable. But it can be managed by chunking: presenting one complex idea at a time, in a sequence that builds on what the reader already holds in working memory.
+- **Extraneous load** — Complexity introduced by poor writing choices: unnecessary jargon, passive voice, multi-clause sentences, ambiguous pronoun references, inconsistent terminology. This load is entirely within the writer's control and should be zero. Every piece of extraneous load displaces intrinsic load the reader needs for the actual content.
+- **Germane load** — The cognitive work that produces learning and retained understanding. Good business writing maximizes germane load by minimizing extraneous load and managing intrinsic load through structure. The goal of clarity is not simplicity for its own sake — it is freeing cognitive capacity for the work that actually matters.
+
+**The narrative connection:** The Science Advances research on narrative arc (staging, plot progression, cognitive tension across 40,000+ traditional narratives and 20,000+ nontraditional ones including TED talks and news articles) found that all effective narratives follow the same three cognitive processes. The staging phase (establishing context and stakes) directly reduces intrinsic cognitive load by giving the reader a mental model before presenting the complexity. Documents that begin with findings or recommendations without staging force readers to construct their own context frame in real time — consuming working memory they need for the content.
+
+**The extraneous load audit (practical tool):** For any analytical document, identify and eliminate:
+1. Sentences longer than 25 words where two shorter sentences would work
+2. Jargon that the specific audience does not use themselves
+3. Passive constructions that obscure who acted or decided
+4. Paragraphs with more than one primary idea
+5. Data presented without the interpretive frame that tells the reader why it matters
+
+**Application for Dale:** This adds a cognitive science dimension to the existing Iris review protocol. Clarity is not a stylistic preference — it is a mechanical property of the document that either preserves or consumes the reader's decision-making capacity. The review question shifts from "Is this clear?" to "Does this document protect the reader's working memory, or waste it?" Extraneous load audit before submission is the practical action.
+
+**New coaching signal:** The "extraneous load test" — before any analytical report goes to a senior audience, run a quick scan for the five extraneous load markers above. Each one found and removed directly increases the probability the executive acts on the document rather than deferring it. This is not editing as polish; it is engineering the decision pathway.
+
+**Alignment with existing frameworks:** Provides the cognitive science foundation for why F-A-J separation matters, why the 7 C's framework's Clarity and Conciseness dimensions exist, and why the single-insight principle from the June 4 PM entry (bottleneck is communication, not analysis) is mechanically true. Working memory capacity is the finite resource; document structure either preserves or depletes it.
+
+---
+
+### Insight 3 — Clarity in Analytical Reports: "Showing Sound Logic" Is What Distinguishes Report Writing from All Other Business Writing (Plain English Foundation, 2025)
+
+**Source:** "Report Writing 101," Plain English Foundation (plainenglishfoundation.com, published June 24, 2025)
+
+**Finding:** A practitioner training synthesis from the Plain English Foundation provides a framing distinction that adds new precision to the Iris review protocol: **report writing is a specific form of analytical writing that uses reason and evidence to build a case.** This separates it from explanatory writing (which informs), persuasive writing (which advocates), and narrative writing (which entertains). The operative skill in report writing is not prose quality — it is *logical architecture*: the sequence in which evidence, analysis, and conclusion are assembled so the reader can evaluate the reasoning at each step.
+
+**The specific failure mode this targets:** The most common report writing failure is what the source calls "narrative detail without direction" — documents that present information in story order (chronologically, by workstream, or by discovery sequence) rather than decision order (by relevance to the question, with the recommendation front-loaded). Decision-makers don't have time to follow the analyst's discovery path; they need the conclusion first, then the path that leads to it. The same information, reordered, becomes dramatically more useful.
+
+**The logical architecture test (three checks):**
+1. **Does the recommendation appear in the first paragraph, not the last?** If the reader must finish the document to find the answer, the document is structured for the writer's comfort, not the reader's use.
+2. **Does each evidence section visibly support a specific claim in the recommendation?** If sections stand alone without a clear connection to the recommendation, they are evidence without a case — accurate but not useful.
+3. **Is the logic chain from evidence to recommendation explicitly stated, or is it assumed?** The most common credibility leak in analytical reports is leaving the analytical connection implicit — the writer assumes the connection is obvious; the reader cannot see it.
+
+**The practitioner-grade distinction (not just "be clear"):** The Plain English Foundation framing makes a useful distinction that elevates this beyond standard clarity advice: showing sound logic is a *reader service*, not a self-expression challenge. The writer's job is to make it as easy as possible for the reader to evaluate whether the reasoning holds. This includes signaling when something is an assumption, when evidence is incomplete, and when an alternative interpretation exists. A document that hides its uncertainties is less credible than one that names them precisely — because the reader fills in uncertainty gaps with doubt, while the writer fills them with confidence.
+
+**Application for Dale:** This is directly applicable to AI-in-SC analytical content — pilot reports, transformation assessments, vendor evaluations. The logical architecture test should be run at the structural level (before editing prose) on every analytical document. The three checks above take five minutes and catch the most consequential failures before the document reaches a senior audience. Recommendation front-loading is the single highest-leverage structural change most analytical writers can make.
+
+**New coaching signal:** The "decision order test" — is this document structured in discovery order (how the analyst found the answer) or decision order (what the reader needs to decide first)? Discovery order is the natural output of research; decision order is the required input for executive action. The transformation from one to the other is the core editorial act in report writing.
+
+**Alignment with existing frameworks:** Provides a practitioner-level articulation of why F-A-J separates Fact from Analysis from Judgment. The "logical architecture" framing explains what F-A-J is actually doing: making the reasoning chain visible and evaluable, step by step. "Sound logic shown" = F-A-J properly applied. "Narrative detail without direction" = F-A-J collapsed into a single undifferentiated stream.
+
+---
+
+## 2026-06-09 AM
+
+### Insight 1 — Executive Communication: AI Search Is Reshaping Who Gets Found as an Authority (Verified Communications, Nov 2025)
+
+**Source:** "7 Executive Communication Trends That Will Define 2026," Verified Communications (verifiedcomms.com, published November 2025)
+
+**Finding:** 34% of qualified B2B leads now arrive through AI search (ChatGPT, Perplexity, Claude) — surpassing traditional Google search (30%) and email (29%). This has major implications for how executive thought leadership is built: AI doesn't browse, it retrieves authority signals. 75% of AI-cited content ranks in Google's top 12, with demonstrated authority as the #1 factor. Separately, 55% of buying-committee members who evaluate thought leadership never appear in a sales conversation — they're researching independently and influencing decisions from the background. And 60% of B2B decision-makers will pay a premium for vendors with strong thought leadership, with average deal size 5–9% higher.
+
+**The structural shift:** The buyer journey no longer has a clear entry point a seller can intercept. Thought leadership must reach people who will never attend a call, fill out a form, or send an inquiry. The only path to those buyers is published authority content that AI indexing surfaces organically.
+
+**Application for Dale:** This directly raises the stakes on LinkedIn and written content quality. Dale's published posts are not just audience-building — they are AI-discovery assets. Posts that demonstrate specific domain expertise (AI + supply chain operations, practitioner lens) build the authority signals that AI search rewards. Generic content produces nothing. Concrete, opinionated, expertise-dense content gets cited. This is a strong argument for quality over frequency — and for ensuring each post has a clear, quotable central argument that functions as a standalone thought.
+
+**Coaching signal:** In LinkedIn content review, ask: "Is this specific enough to be cited as a reference?" If the post could have been written by any supply chain commentator, it won't build AI-discoverable authority. The practitioner specificity is the signal.
+
+---
+
+### Insight 2 — Supply Chain Leadership Communication: Clarity Beats Urgency, and Transparency Is Its Own Competitive Advantage (Inbound Logistics, June 2026)
+
+**Source:** "10 Supply Chain Leadership Lessons for Today's Logistics Leaders," Inbound Logistics (published ~June 2026)
+
+**Finding:** A 10-point practitioner framework for supply chain leaders, with two communication-specific insights worth noting:
+
+**Lead with clarity, not urgency.** Fast decisions matter in logistics, but clear and honest communication about priorities, tradeoffs, and the *why behind decisions* consistently outperforms urgency-only communication — especially during disruption. Teams adopt new processes and tools faster when they understand the reasoning. Speed without context produces compliance; clarity produces alignment.
+
+**Build trust through transparency.** Visibility in supply chain is usually discussed as a systems problem (tracking, data sharing). The leadership insight is that *internal* communication transparency is equally critical — sharing information openly with partners and teams, even when the news is difficult, builds the trust that sustains performance under pressure. This mirrors an Anett Grant principle: honesty in the moment builds long-term credibility, while vague or optimistic messaging erodes it.
+
+**The additional principle (treat exceptions as opportunities):** Post-disruption review is often skipped in logistics because the team moves to the next fire. The leaders who pause, diagnose, and formalize the lesson into updated SOPs are systematically better prepared for the next disruption. This is both an operational and communication practice — it requires the leader to narrate the learning, not just log the event.
+
+**Application for Dale:** The clarity-over-urgency principle is directly applicable to AI-in-SC content. A common failure mode in AI adoption communication is urgency framing ("move fast, don't be left behind") without the clarity layer ("here's specifically what to do, in what order, for what outcome"). Posts that provide the clarity layer — not just the urgency prompt — serve the audience better and build more credibility.
+
+**Coaching signal:** In any supply chain communication (internal or published), check whether the "why" is explicit. If the reasoning is assumed rather than stated, the audience fills in their own interpretation — often incorrectly. State the tradeoff, not just the directive.
+
+---
+
+### Insight 3 — Business Writing Impact: The 7 C's Framework Remains the Most Reliable Audit Tool for Executive-Facing Documents (Pryor Learning, March 2026)
+
+**Source:** "Effective Business Writing: A Complete Guide to Clarity and Impact," Pryor Learning (pryor.com, published March 25, 2026)
+
+**Finding:** The 7 C's framework (Clarity, Conciseness, Correctness, Completeness, Consideration, Courtesy, Concreteness) is confirmed in 2026 practitioner writing guides as the most durable and practical audit checklist for business documents. Two of the seven deserve particular emphasis for executive-audience writing:
+
+**Clarity** — Eliminates ambiguity at the sentence level. Sentences with multiple possible interpretations force the reader to guess the writer's meaning. For executive audiences with limited reading time, ambiguous sentences often get resolved by skipping the section.
+
+**Consideration** — Audience-first framing. Write from the reader's perspective: what do they already know, what do they need to decide, and what action do they need to take? Consideration is the C that separates executive-caliber writing from technically correct writing that still fails to land.
+
+**The synthesis principle from this source:** "Understanding your audience and defining your purpose before writing dramatically improves outcomes." This is not a novel claim, but the framing reinforces the pre-writing protocol: purpose and audience must be locked before a word is written. Retroactively fitting content to a purpose wastes time and produces weaker work.
+
+**Strong formatting as a force multiplier:** The piece reconfirms that headings, bullets, and white space increase reading comprehension and action-taking for business documents. For executive-audience work specifically, visual structure signals that the writer respects the reader's time — which is itself a credibility signal.
+
+**Application for Dale:** The 7 C's make a useful quick-audit checklist for any document before it leaves the workspace. The two flags to look for in Dale's analytical content: (1) Has the point been made concrete (Concreteness), with specific numbers, examples, or outcomes? (2) Has the document been written from the reader's decision frame (Consideration) rather than the writer's analytical frame?
+
+**Coaching signal:** When reviewing a report or post, the fastest audit question is: "What does the reader need to decide or do next, and does every paragraph move them toward that?" If sections don't connect to the decision, cut or reframe them.
+
+---
+
 ## 2026-06-08 AM
 
 ### Insight 1 — Executive Communication: Proof Now Outweighs Promises in 2026 (Aspect, June 2026)
