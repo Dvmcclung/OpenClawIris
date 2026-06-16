@@ -128,3 +128,71 @@
 - **The Credibility Paradox — Human Voice as Premium Signal (5-28 AM, Forbes Coaches Council, Leighton 2026)**: AI efficiency is erasing differentiation — every post is now "perfectly structured" and therefore invisible. Authority-to-Utility Audit: classify tasks as utility (speed is value) or authority (credibility is value); authority tasks must carry unmistakable human fingerprints — specific experience, genuine conviction, nonlinear reasoning no prompt generates. Pre-publish test: "Could a well-prompted AI have written exactly this?" If yes, inject one specific personal observation. IMfA: YES.
 - **Gartner 2026 CSCO Mandate — Storytelling, Not Reporting (5-28 AM, Gartner SC Symposium/Xpo 2026, Orlando)**: Gartner direct: "CSCOs can help most by influencing the C-suite with stronger storytelling, applying a value lens to current activities, and leading return-on-the-future initiatives." Storytelling-to-Reporting Ratio: every CSCO communication to C-suite/board should audit: what % is operational reporting vs. storytelling that makes the value case? First page = value case; operational evidence follows. IMfA: YES.
 - **Scientific Writing as Persuasion / Persuasion Orientation Diagnostic (5-28 AM, MUSC/Greseth 2026)**: Writing clarity = respect for reader's time, not concession to intelligence. Brevity as persuasion mechanics: every word not doing persuasive work dilutes the words around it. Persuasion Orientation Diagnostic: before drafting, identify the single belief the reader should hold — then ask: does every element contribute to establishing that belief? Engineering/analytical writers default to completeness; the corrective is identifying the most direct evidence path to one conclusion. IMfA: YES.
+
+---
+
+## June 3 PM Summary (promoted 2026-06-04; archived to Q3d 2026-06-15)
+
+- **Narrative Gaps Are a Risk Management Problem (6-03 PM, Be Brilliant Presentation Group)**: Poor narrative structure is measurable organizational risk. If a board member must work to find the decision point, that is a structural failure. Review as alignment audit: "Where is the work being done — by the author or the reader?" IMfA: YES.
+- **13-Stakeholder Architecture / Committee-Aware Writing (6-03 PM, Pedowitz Group/6sense 2025)**: Enterprise decisions average 13 stakeholders; each needs a different entry point. Exec summary = committee-level layer; body sections = persona-specific readers. For LinkedIn: one strategic insight + one practitioner implication. IMfA: YES.
+- **Niche Expert Voice Is the 2026 Differentiating Signal (6-03 PM, MHC Automation)**: AI raised the floor — average writing is table stakes. "Could a well-prompted AI have written this?" If yes, inject one specific personal observation. IMfA: YES.
+
+## June 4 AM Summary (promoted 2026-06-04; archived to Q3d 2026-06-15)
+
+- **Proof Displaces Promise (6-04 AM, Aspect 2026)**: "Declare less; demonstrate more." Internal audiences = reputation infrastructure. Review test: "Is this announcing an intention or documenting a result?" IMfA: YES.
+- **Transformation Fails on Trust, Not Technology (6-04 AM, SAP/NASCES25)**: (1) Name problem precisely, (2) Tie to measurable outcomes, (3) Reframe displacement anxiety. Candor about setbacks > curated success. IMfA: YES.
+- **Specificity Is the Only Differentiator (6-04 AM, MHC/Pryor)**: Concreteness = primary 2026 differentiator. Concreteness audit: ≥2–3 specific, named, non-generic elements per document. IMfA: YES (DC-tier candidate).
+
+## June 5 AM Summary (promoted 2026-06-05; archived to Q3d 2026-06-15)
+
+- **AI Search Is the Authority Gate (6-05 AM, Verified Communications)**: 34% B2B leads via AI search; 55% hidden buyers; 17% TL rated "very good." Dale's LinkedIn = AI discoverability infrastructure. IMfA: YES.
+- **Lead with Clarity, Not Urgency (6-05 AM, Inbound Logistics)**: Explain the why behind the recommendation, not just the what. Exceptions = communication opportunities. IMfA: MAYBE (DC-tier consideration, 3rd sourcing).
+- **Audience Empathy Is Pre-Writing Discipline (6-05 AM, BigMoves/Geisheker)**: Build a worry map, not a demographic profile. "What is this person worried about right now?" IMfA: YES.
+
+## June 5 PM Summary (promoted 2026-06-08; archived to Q3d 2026-06-15)
+
+- **Domain Expertise Is the Data Story Ingredient AI Cannot Supply (6-05 PM, ThoughtSpot)**: Dale's 24 years of SC knowledge is the ingredient that turns a pattern into a decision-ready story. IMfA: YES.
+- **Transforming AI Drafts Into Trustworthy Communication (6-05 PM, ModernGov)**: Five-capability checklist for AI review. Review mode shift: "Has human judgment been properly applied?" IMfA: YES.
+- **Strategy-to-Execution Gap Is a Translation Failure (6-05 PM, Forbes Comms Council)**: One leadership narrative, trained, pressure-tested, held accountable. IMfA: YES.
+
+## June 8 AM Summary (promoted 2026-06-08; archived to Q3d 2026-06-15)
+
+- **Proof Outweighs Promises — 2026 Baseline (6-08 AM, Aspect)**: 3rd sourcing. "What changed, and how do we know?" routes content from promise-based to evidence-based. IMfA: YES.
+- **"Total Value" Replaces "Resilience" (6-08 AM, KPMG)**: Flag "resilience" framing; reframe as Total Value (decision quality, adaptability). 2nd sourcing. IMfA: YES.
+- **Authority-Led Synthesis Outperforms Volume (6-08 AM, Dotin Academy)**: Three performing content types: POV+voice; frameworks/playbooks; refreshed assets with current evidence. "Is there a synthesis, or just a summary?" IMfA: YES.
+
+## June 8 PM Summary (promoted 2026-06-09; archived to Q3d 2026-06-15)
+
+- **Storyteller as Core Competency (6-08 PM, Mondo)**: "Storyteller" in job postings doubled. Cross-functional narrative = scarce skill. Dale's SC+AI = this skill. IMfA: YES.
+- **The Decision Test — Every Report Must Serve One Decision (6-08 PM, Analyst Academy)**: Three-part structure: exec summary → focused content → action-oriented close. "Can this reader decide based only on these sentences?" IMfA: YES.
+- **Intelligence Writing Principles Strengthen F-A-J (6-08 PM, Special Eurasia/DIA)**: Front-load essence; brevity beats volume; clean F/A/J separation. Color-highlight diagnostic. IMfA: YES.
+
+## June 9 PM Summary (promoted 2026-06-10; archived to Q3d 2026-06-15)
+
+- **SCQA Framework — Complication Is the Narrative Engine (6-09 PM, Analyst Academy/BCG)**: Situation → Complication → Question → Answer. Complication test: "What changed or is at risk that makes a decision necessary right now?" IMfA: YES.
+- **Cognitive Load Is the Mechanism (6-09 PM, Sweller)**: Extraneous load should be zero. Five markers: sentences >25 words, jargon, passive constructions, >1 idea per paragraph, data without frame. IMfA: YES.
+- **Decision Order vs. Discovery Order (6-09 PM, Plain English Foundation)**: Recommendation in first paragraph; logic chain explicit. Naming assumptions builds more credibility than hiding them. IMfA: YES.
+
+## June 10 PM Summary (promoted 2026-06-11; archived to Q3d 2026-06-15)
+
+- **Story as Evidence — 90-Second Rule (6-10 PM, Planning in High Heels/Heath/Flowtrace)**: Evidence-type vs. context-type story. Written standard: ~250 words before reconnecting to analytical point. "Evidence or texture?" test. IMfA: YES.
+- **2–3 Stakeholder Groups Is the Structural Maximum (6-10 PM, Moxie/Army Research)**: Exec summary = segment 1; body = segment 2; appendices = segment 3. 3–4x impact multiplier. "2–3 segment audit." IMfA: YES.
+- **Visual Structure Is a Clarity Mechanism (6-10 PM, LiveGroup/Bruner/Hasson)**: Neural coupling confirmed. "Shape test": can reader navigate without reading every word? IMfA: YES.
+
+## June 11 AM Summary (promoted 2026-06-11; archived to Q3d 2026-06-15)
+
+- **Proof Beats Promises — DC-Tier Candidate (6-11 AM, Aspect)**: 3rd sourcing. "Is this making a claim or demonstrating a result?" Pending DC-tier via Thea. IMfA: YES.
+- **Communicate Outcomes, Not Internal Metrics (6-11 AM, SAP/NASCES25)**: Metric test: "Does this number appear on customer's/board member's dashboard?" Bridge model: operational metric → customer outcome. IMfA: YES.
+- **Regulation Over Volume — DC-Tier Candidate (6-11 AM, Forbes Coaches Council)**: Over-explaining = written equivalent of overtalking. Caveats → methodology section. Cut sentences that announce credibility rather than demonstrating it. IMfA: YES.
+
+## June 11 PM Summary (promoted 2026-06-12; archived to Q3d 2026-06-15)
+
+- **Narrative Gaps as Risk Mitigation (6-11 PM, Be Brilliant)**: "Narrative gap" = named failure mode. Outcome protection test: "Does the narrative structure serve the intended outcome, or make the audience work for it?" IMfA: YES.
+- **Translation Failure Model / Portable Claim Test (6-11 PM, Forbes Comms Council)**: Core claim must survive intact across CEO → ops → technical tiers. "Portable claim test." IMfA: YES.
+- **Decision Moment Calibration (6-11 PM, MHC Automation)**: Same reader in different decision state = different reader. Calibrate opening to most likely decision moment, not title/role. IMfA: YES.
+
+## June 12 AM Summary (promoted 2026-06-12; archived to Q3d 2026-06-15)
+
+- **Proof Over Promises + Internal Audience as Reputation Asset (6-12 AM, Aspect)**: 4th sourcing — DC-tier confirmed. Employees = visible extension of reputation. AI-augmented thinking vs. AI-generated voice. IMfA: YES.
+- **Trust Over Technology + Outcome Translation Test (6-12 AM, SAP/NASCES25)**: 3rd sourcing. "AI in the loop" = capability. "Customers get delivery windows 48 hours earlier" = outcome. Name outcome first. IMfA: YES.
+- **Writing Represents You / Room Test (6-12 AM, Pryor Learning)**: Clarity as accountability mechanism. Concreteness = primary 2026 differentiator. Room test: "What would a stranger conclude about competence from this?" IMfA: YES.
